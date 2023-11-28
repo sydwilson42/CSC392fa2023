@@ -6,7 +6,8 @@ var router = express.Router();
  * with a fixed query.
  */
 router.get('/', function(req, res, next) {
-    runMainQuery(req, res, next, "SELECT * from School;");
+    req.app.locals.query = "SELECT * from School;";
+    runMainQuery(req, res, next);
 });
 
 
@@ -20,7 +21,7 @@ router.post('/', function(req, res, next) {
         // Run the equivalence query
         query = `SELECT College, CrsCode, CrsName, CreditHrs, ARCCode `
                 + `FROM School natural join Course natural join Equivalence `
-                + `WHERE CrsID = ${postdata.CrsID};`
+                + `WHERE CrsID = ${req.body.CrsID};`
     }
     req.app.locals.query = query;
     runMainQuery(req, res, next)

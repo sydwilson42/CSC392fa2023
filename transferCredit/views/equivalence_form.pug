@@ -4,7 +4,7 @@ else if schools.length == 0
     p schools.length is 0
 else
     form(action="/", method="post")
-        input(type="hidden", name="formname", value="schools")
+        input(type="hidden", name="formname", value="equivalence")
         label School: 
         select(name="OrgCode", required, onchange="this.form.submit();")
             option(value="") &mdash;Please select a school&mdash;
@@ -17,6 +17,7 @@ else
         br
 
         // Course form
+        label Course: 
         if !postdata.OrgCode
             select(name="crsID", disabled)
                 option(value="") &mdash;Please select a course&mdash;
@@ -27,10 +28,10 @@ else
             p OrgCode but no courses!
         else
             //- if postdata.OrgCode && courses && (courses.length > 0)
-            input(type="hidden", name="OrgCode", value = `${postdata.OrgCode}`)
             select(name="crsID", required)
                 option(value="") &mdash;Please select a course&mdash;
                 //- FILL IN THE OPTIONS HERE FOR THE ACTUAL COURSES
+                
             span.flag
             br
             input(type="reset", value="Reset")
