@@ -81,8 +81,14 @@ function runCoursesQuery(req, res, next) {
     }
     else {  // req.body.OrgCode is specified
         // FILL IN THE COURSES QUERY AND RUN IT
-
-        showIndex(req, res, next); // Eventually needs to be inside the handler function        
+        let courses_query = `SELECT CrsID, CrsName FROM Course natural join School` + `WHERE OrgCode = ${req.body.OrgCode};`;
+        req.app.locals.db.all(courses_query, [], (err, courses) => {
+            if (err){
+                throw err;
+            }
+            req.app.locals.courses = courses;
+            showIndex(req, res, next); // Eventually needs to be inside the handler function       
+        })  
     }
 }
 
@@ -92,7 +98,7 @@ function runCoursesQuery(req, res, next) {
  * values from req.apps.locals to pass as parameters to index.pug.
  */
 function showIndex(req, res, next) {
-    res.render('index', { title: 'Express',
+    res.render('index', { title : 'Equivalence Portal',
                             query: req.app.locals.query,
                             rows: req.app.locals.rows,
                             schools: req.app.locals.schools,

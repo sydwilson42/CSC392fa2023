@@ -31,7 +31,11 @@ else
             select(name="crsID", required)
                 option(value="") &mdash;Please select a course&mdash;
                 //- FILL IN THE OPTIONS HERE FOR THE ACTUAL COURSES
-                
+                each rowObj in courses
+                    if (postdata.crsID && (postdata.crsID == rowObj.crsID))
+                        option(value = rowObj.crsID, selected) #{rowObj.CrsName}
+                    else
+                        option(value = rowObj.crsId) #{rowObj.CrsName}
             span.flag
             br
             input(type="reset", value="Reset")
