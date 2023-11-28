@@ -6,3 +6,20 @@ body {
 a {
   color: #00B7FF;
 }
+
+/* Indicate required elements */
+.flag { color: firebrick; }
+
+/* The required flag starts out as a red asterisk. */
+.flag::before {
+  content: "*";
+  padding-left: 2px;
+}
+
+/* Change the red * to a green check once the control has been filled in.  
+    The ~ is for selecting siblings without requiring that they be right 
+    next to each other. */
+:required:valid + .flag::before, .flag.valid::before {
+  content: '✓';
+  color: green;
+}

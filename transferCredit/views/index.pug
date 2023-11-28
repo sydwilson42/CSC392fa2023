@@ -1,5 +1,26 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+    h1= title
+    p Welcome to #{title}
+
+    include equivalence_form
+    //- include course_form
+
+    h2 Results of query: <q>#{query}</q>
+
+    if !rows
+        p No result
+    else if rows.length == 0
+        p Empty result
+    else
+        table
+            thead
+                tr
+                    each key in Object.keys(rows[0])
+                        th= key
+            tbody
+                each row in rows
+                    tr
+                        each val in Object.values(row)
+                            td= val
