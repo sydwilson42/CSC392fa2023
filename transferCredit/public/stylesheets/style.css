@@ -23,3 +23,25 @@ a {
   content: '✓';
   color: green;
 }
+
+.bttn_reset{
+  display: inline-block;
+  margin: 10px; /* Margin for spacing around the button */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Add a pointer cursor on hover */
+}
+
+.bttn_eq{
+  display: inline-block;
+  margin: 10px; /* Margin for spacing around the button */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Add a pointer cursor on hover */
+}
+
+.lbl{
+  font-weight: bold;
+}
+
+.dropdown-container {
+  width: 260px; /* Set the width of the dropdown */
+}

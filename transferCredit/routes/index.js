@@ -81,7 +81,7 @@ function runCoursesQuery(req, res, next) {
     }
     else {  // req.body.OrgCode is specified
         // FILL IN THE COURSES QUERY AND RUN IT
-        let courses_query = `SELECT CrsID, CrsName FROM Course natural join School` + `WHERE OrgCode = ${req.body.OrgCode};`;
+        let courses_query = `SELECT CrsID, CrsCode FROM Course WHERE OrgCode = ${req.body.OrgCode};`;
         req.app.locals.db.all(courses_query, [], (err, courses) => {
             if (err){
                 throw err;

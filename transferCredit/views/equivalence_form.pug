@@ -5,8 +5,8 @@ else if schools.length == 0
 else
     form(action="/", method="post")
         input(type="hidden", name="formname", value="equivalence")
-        label School: 
-        select(name="OrgCode", required, onchange="this.form.submit();")
+        label(class="lbl") School: 
+        select(class="dropdown-container", name="OrgCode", required, onchange="this.form.submit();")
             option(value="") &mdash;Please select a school&mdash;
             each rowObj in schools
                 if (postdata.OrgCode && (postdata.OrgCode == rowObj.OrgCode))
@@ -15,28 +15,29 @@ else
                     option(value = rowObj.OrgCode) #{rowObj.College}
         span.flag
         br
+        br
 
         // Course form
-        label Course: 
+        label(class="lbl") Course: 
         if !postdata.OrgCode
-            select(name="crsID", disabled)
+            select(class="dropdown-container", name="crsID", disabled)
                 option(value="") &mdash;Please select a course&mdash;
             br
-            input(type="reset", value="Reset")
-            input(type="submit", value="Find Equivalences", disabled)
+            input(class="bttn_reset", type="reset", value="Reset")
+            input(class="bttn_eq", type="submit", value="Find Equivalences", disabled)
         else if !courses || (courses.length == 0)
             p OrgCode but no courses!
         else
             //- if postdata.OrgCode && courses && (courses.length > 0)
-            select(name="crsID", required)
+            select(class="dropdown-container", name="crsID", required)
                 option(value="") &mdash;Please select a course&mdash;
                 //- FILL IN THE OPTIONS HERE FOR THE ACTUAL COURSES
                 each rowObj in courses
                     if (postdata.crsID && (postdata.crsID == rowObj.crsID))
-                        option(value = rowObj.crsID, selected) #{rowObj.CrsName}
+                        option(value = rowObj.crsID, selected) #{rowObj.CrsCode}
                     else
-                        option(value = rowObj.crsId) #{rowObj.CrsName}
+                        option(value = rowObj.crsId) #{rowObj.CrsCode}
             span.flag
             br
-            input(type="reset", value="Reset")
-            input(type="submit", value="Find Equivalences")
+            input(class="bttn_reset", type="reset", value="Reset")
+            input(class="bttn_eq", type="submit", value="Find Equivalences")
