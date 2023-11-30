@@ -26,20 +26,26 @@ a {
 
 .bttn_reset{
   display: inline-block;
-  margin: 10px; /* Margin for spacing around the button */
-  border-radius: 5px; /* Rounded corners */
-  cursor: pointer; /* Add a pointer cursor on hover */
+  margin: 10px; 
+  border-radius: 5px; 
+  cursor: pointer; 
+  padding-right: 5px;
+  padding-left: 5px;
 }
 
 .bttn_eq{
   display: inline-block;
-  margin: 10px; /* Margin for spacing around the button */
-  border-radius: 5px; /* Rounded corners */
-  cursor: pointer; /* Add a pointer cursor on hover */
+  margin: 10px;
+  border-radius: 5px; 
+  cursor: pointer; 
+  padding-right: 5px;
+  padding-left: 5px;
 }
 
 .lbl{
   font-weight: bold;
+  padding-right: 5px;
+  padding-left: 5px;
 }
 
 .dropdown-container {
