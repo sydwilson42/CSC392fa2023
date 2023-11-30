@@ -19,9 +19,9 @@ router.post('/', function(req, res, next) {
     let query = '';
     if (req.body.CrsID) {
         // Run the equivalence query
-        query = `SELECT College, CrsCode, CrsName, CreditHrs, ARCCode `
+        query = `SELECT College, CrsCode, CrsName, CreditHours, ARCCode `
                 + `FROM School natural join Course natural join Equivalence `
-                + `WHERE CrsID = ${req.body.CrsID};`
+                + `WHERE CrsID = '${req.body.CrsID}';`
     }
     req.app.locals.query = query;
     runMainQuery(req, res, next)
@@ -104,7 +104,7 @@ function showIndex(req, res, next) {
                             schools: req.app.locals.schools,
                             OrgCode: req.body.OrgCode,
                             courses: req.app.locals.courses,
-                            crsID: req.body.crsID,
+                            CrsID: req.body.CrsID,
                             postdata: req.body });
 }
 

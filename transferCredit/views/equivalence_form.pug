@@ -20,7 +20,7 @@ else
         // Course form
         label(class="lbl") Course: 
         if !postdata.OrgCode
-            select(class="dropdown-container", name="crsID", disabled)
+            select(class="dropdown-container", name="CrsID", disabled)
                 option(value="") &mdash;Please select a course&mdash;
             br
             input(class="bttn_reset", type="reset", value="Reset")
@@ -29,14 +29,14 @@ else
             p OrgCode but no courses!
         else
             //- if postdata.OrgCode && courses && (courses.length > 0)
-            select(class="dropdown-container", name="crsID", required)
+            select(class="dropdown-container", name="CrsID", required)
                 option(value="") &mdash;Please select a course&mdash;
                 //- FILL IN THE OPTIONS HERE FOR THE ACTUAL COURSES
                 each rowObj in courses
-                    if (postdata.crsID && (postdata.crsID == rowObj.crsID))
-                        option(value = rowObj.crsID, selected) #{rowObj.CrsCode}
+                    if (postdata.CrsID && (postdata.CrsID == rowObj.CrsID))
+                        option(value = rowObj.CrsID, selected) #{rowObj.CrsCode}
                     else
-                        option(value = rowObj.crsId) #{rowObj.CrsCode}
+                        option(value = rowObj.CrsID) #{rowObj.CrsCode}
             span.flag
             br
             input(class="bttn_reset", type="reset", value="Reset")

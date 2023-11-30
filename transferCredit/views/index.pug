@@ -22,7 +22,7 @@ block content
     else if rows.length == 0
         p Empty result
     else
-        table
+        table(class="eq_table")
             thead
                 tr
                     each key in Object.keys(rows[0])
