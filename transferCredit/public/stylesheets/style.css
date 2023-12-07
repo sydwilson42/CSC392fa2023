@@ -1,5 +1,5 @@
 body {
-  padding: 50px;
+/*  padding: 50px;   Why? */
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
@@ -24,38 +24,38 @@ a {
   color: green;
 }
 
-.bttn_reset{
-  display: inline-block;
-  margin: 10px; 
+.bttn_reset, .bttn_eq {
+/*  display: inline-block;
+  margin: 10px; */
+  margin: 0.5ex 1em;
   border-radius: 5px; 
-  cursor: pointer; 
-  padding-right: 5px;
-  padding-left: 5px;
-}
-
-.bttn_eq{
-  display: inline-block;
-  margin: 10px;
-  border-radius: 5px; 
-  cursor: pointer; 
-  padding-right: 5px;
-  padding-left: 5px;
+/*  cursor: pointer; 
+  padding-right: 5px;;
+  padding-left: 5px; */
 }
 
 .lbl{
-  font-weight: bold;
-  padding-right: 5px;
-  padding-left: 5px;
+/*  font-weight: bold; */
+  padding: 0 0.5em;
+/*  padding-right: 5px;
+  padding-left: 5px; */
 }
 
 .dropdown-container {
-  width: 260px; /* Set the width of the dropdown */
+    /* width: 260px; Set the width of the dropdown */
+    width: 20em;  /* Make the dropdowns be a standard width */
+    margin-top: 0.5ex;
+    margin-bottom: 0.5ex;
 }
 
 .eq_table{
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #04AA6D;
-  color: white;
+/*  padding-top: 12px;
+  padding-bottom: 12px; */
+    text-align: center;
+/*  background-color: #04AA6D;
+  color: white; */
+}
+
+th, td {
+    padding: 0.1ex 1em;
 }

@@ -6,7 +6,7 @@ var router = express.Router();
  * with a fixed query.
  */
 router.get('/', function(req, res, next) {
-    req.app.locals.query = "SELECT * from School;";
+    req.app.locals.query = ""; //"SELECT * from School;";
     runMainQuery(req, res, next);
 });
 
@@ -37,6 +37,7 @@ router.post('/', function(req, res, next) {
  */
 function runMainQuery(req, res, next) {
     if (req.app.locals.query) {
+	//console.log('index.js:40: querying: "' + req.app.locals.query + '"');
         req.app.locals.db.all(req.app.locals.query, [], (err, rows) => {
             if (err) {
                 throw err;

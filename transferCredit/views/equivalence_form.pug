@@ -3,7 +3,7 @@ if !schools
 else if schools.length == 0
     p schools.length is 0
 else
-    form(action="/", method="post")
+    form(action="/transferCredit", method="post")
         input(type="hidden", name="formname", value="equivalence")
         label(class="lbl") School: 
         select(class="dropdown-container", name="OrgCode", required, onchange="this.form.submit();")
@@ -13,10 +13,8 @@ else
                     option(value = rowObj.OrgCode, selected) #{rowObj.College}
                 else 
                     option(value = rowObj.OrgCode) #{rowObj.College}
-        span.flag
+        span(class="flag")
         br
-        br
-
         // Course form
         label(class="lbl") Course: 
         if !postdata.OrgCode
@@ -37,7 +35,7 @@ else
                         option(value = rowObj.CrsID, selected) #{rowObj.CrsCode}
                     else
                         option(value = rowObj.CrsID) #{rowObj.CrsCode}
-            span.flag
+            span(class="flag")
             br
             input(class="bttn_reset", type="reset", value="Reset")
             input(class="bttn_eq", type="submit", value="Find Equivalences")
