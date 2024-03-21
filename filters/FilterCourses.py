@@ -8,12 +8,12 @@ def filter_courses(transfer_credits: list[dict[str,str,str,str]]):
 
     # Now add the unique course names.
     for record in transfer_credits:
-        course = record['course']
+        course = record['CrsCode']
 
         # Would this work? Ask team/Dr.Brown
         if (course.split()).upper() not in unique_names:
                 unique_courseHrs = set()
-                if courseHrs not in unique_courseHrs:
+                if record['CreditHours'] not in unique_courseHrs:
                     unique_courseHrs.add(courseHrs)
                     unique_names.add((s.split()).upper())
                     filtered_courses.append(record)
