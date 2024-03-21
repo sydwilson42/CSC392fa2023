@@ -12,7 +12,7 @@ def read_from_csv() -> list[dict[str, str]]:
     #print(original_CSV, original_CSV.exists())
 
     records: list[dict[str,str]] = []
-    with open(original_CSV, 'r') as f:
+    with open(original_CSV, 'r', newline='') as f:
         reader: DictReader = DictReader(f)
         for row in reader:
             records.append(row)
@@ -21,8 +21,8 @@ def read_from_csv() -> list[dict[str, str]]:
 def write_csv(fname: str, to_write: list[dict[str, str]]) -> None:
     headers = to_write[0].keys()
     write_file = Path(csv_dir, fname)
-    with open(write_file, 'w') as f:
+    with open(write_file, 'w', newline='') as f:
         writer = DictWriter(f, fieldnames=headers)
-        writer.writeheaders()
+        writer.writeheader()
         for item in to_write:
             writer.writerow(item)
