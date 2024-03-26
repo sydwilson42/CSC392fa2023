@@ -62,7 +62,7 @@ def fix_name(orgname: str) -> str:
     result = result.replace('  ',' ')
     # Fails for reason not yet known
     for string in replacements.keys():
-        result = re.sub('\b'+string+'\b', replacements[string], result)
+        result = re.sub(r'\b'+string+r'\b', replacements[string], result)
 
     return result
 

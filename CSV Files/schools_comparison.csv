@@ -1,0 +1,916 @@
+OrgCode,College,TwoOrFourYear,CEEB,CEEB_Name,CEEB_State,CEEB_Country,nursing_name,nursing_mdb_code,nursing_state,nursing_country,nursing_fice_code,nursing_ipeds_code,nursing_accreditation_agency
+$00001,Ai Miami Intl University of Art & Design,False,,,,,,,,,,,
+$A002,University of the West Indies,False,,,,,,,,,,,
+****UC,University of Cambridge,False,,,,,,,,,,,
+***018,Los Angeles Valley College,False,,,,,,,,,,,
+***019,Sherman College of Chiropractic,False,,,,,,,,,,,
+***020,Sch of Prof Studies - University Cntr,False,,,,,,,,,,,
+***021,Keiser University - MelbourneCampus,False,,,,,,,,,,,
+***022,Ivy Tech Community College,False,,,,,,,,,,,
+***023,Edexcel Limited,False,,,,,,,,,,,
+***024,Jones International University,False,,,,,,,,,,,
+***025,University of Belgrano,False,,,,,,,,,,,
+***MCC,Maricopa Community College,False,,,,,,,,,,,
+***RC,Rockport College,False,,,,,,,,,,,
+**0000,Coastal Georgia Community College,False,,,,,,,,,,,
+**0005,Instituto de Communicacion Oaxaca S.C.,False,,,,,,,,,,,
+**0007,University of Minnesota - Twin Cities,False,,,,,,,,,,,
+**0008,Institute Int’l Educ of Sch,False,,,,,,,,,,,
+**0015,American Public University System,False,,,,,,,,,,,
+**0016,Saint Leo University,False,,,,,,,,,,,
+**0017,Presbyterian Univ-Mackenzie,False,,,,,,,,,,,
+**0018,Metropolitan Community College,False,,,,,,,,,,,
+**0019,Universidad InterAmericana dePuerto Rico,False,,,,,,,,,,,
+**0020,Concord University,False,,,,,,,,,,,
+**0025,Indiana University-Indianapolis,False,,,,,,,,,,,
+**0027,Demoratic Socialist Republic of Sri Lanka,False,,,,,,,,,,,
+**025,Universidad de Monterrey,False,,,,,,,,,,,
+**0411,University of Madras,False,,,,,,,,,,,
+**0NIU,Northeastern Illinois University,False,,,,,,,,,,,
+**5711,Georgia Perimeter College,False,,,,,,,,,,,
+**AASU,Armstrong Atlantic State University,False,,,,,,,,,,,
+**AL,Al al-Bayt University -Jordan,False,,,,,,,,,,,
+**ART,Art Institute of California-Hollywood,False,,,,,,,,,,,
+**ASTU,Augusta State University,False,,,,,,,,,,,
+**Amer,The American University of Paris,False,,,,,,,,,,,
+**BACM,Baylor College of Medicine,False,,,,,,,,,,,
+**CALU,California Lutheran College,False,,,,,,,,,,,
+**CHIN,The Chinese Univ of Hong Kong,False,,,,,,,,,,,
+**COVE,Covenant College,False,,,,,,,,,,,
+**ECPI,ECPI College of Technology-Greenville,False,,,,,,,,,,,
+**GOET,Goethe Institut,False,,,,,,,,,,,
+**Germ,Bavarian State Ministry,False,,,,,,,,,,,
+**ITAL,Italiaidea,False,,,,,,,,,,,
+**OUA,Open Universities Australia,False,,,,,,,,,,,
+**PURD,Purdue University,False,,,,,,,,,,,
+**TUCC,Tulsa Community College,False,,,,,,,,,,,
+**UMCP,University of Maryland College Park,False,,,,,,,,,,,
+**UMII,Universite Montpellier II,False,,,,,,,,,,,
+**UNCS,University of NC School of the Arts,False,,,,,,,,,,,
+*0001,University of Malaga - Spain,False,,,,,,,,,,,
+*00016,The College of New Jersey,False,,,,,,,,,,,
+*00017,Capella University,False,,,,,,,,,,,
+*0002,University of Salamanca - Spain,False,,,,,,,,,,,
+*0008,Moscow State Academy of PE,False,,,,,,,,,,,
+*0009,Kaplan University Online,False,,,,,,,,,,,
+000004,Institute for American University,False,,,,,,,,,,,
+000213,Bevill St Cc Walker,False,0213,Bevill State Community College: Sumiton,AL,US,,,,,,,
+000270,Oklahoma City Cmty C,False,0270,Oklahoma City Community College,OK,US,Oklahoma City Community College,010391,OK,US,010391,207449,Higher Learning Commission
+000274,Southwest Tennessee Cmty Cl,False,0274,Southwest Tennessee Community College,TN,US,Southwest Tennessee Community College - Macon Campus,007105,TN,US,010439,221485,Southern Association of Colleges and Schools Commission on Colleges
+000316,Seminole Junior Coll,False,0316,Seminole State College,OK,US,Seminole State College (Oklahoma),003178,OK,US,003178,207740,Higher Learning Commission
+000319,Pellissippi St Tec C,False,0319,Pellissippi State Community College,TN,US,Pellissippi State Technical Community College,012693,TN,US,012693,221643,Southern Association of Colleges and Schools Commission on Colleges
+000337,UEES,False,,,,,,,,,,,
+000338,Peralta Community College District,False,,,,,,,,,,,
+000346,Troy St Univ Dothan,False,,,,,,,,,,,
+000389,Univ Texas Tyler,False,,,,,,,,,,,
+000443,Mohave Cmty Coll,False,0443,Mohave Community College,AZ,US,Mohave Community College,011864,AZ,US,011864,105206,Higher Learning Commission
+000453,Northeast State Community College,False,0453,Northeast State Community College,TN,US,Northeast State Technical Community College,005378,TN,US,005378,221908,Southern Association of Colleges and Schools Commission on Colleges
+000457,South Piedmont Comm College,False,,,,,,,,,,,
+000461,New Mexico St U Grnt,False,0461,New Mexico State University at Grants,NM,US,New Mexico State University - Grants,008854,NM,US,008854,188021,Higher Learning Commission
+000462,Athens Technical College,False,0462,Athens Technical College,GA,US,Athens Technical College,005600,GA,US,,246813,Southern Association of Colleges and Schools Commission on Colleges
+000469,Artic Sivunmun Ilsgv,False,0469,Ilisagvik College,AK,US,Ilisagvik College,034613,AK,US,,434584,Northwest Commission on Colleges and Universities
+000496,Stanly Cmty College,False,0496,Stanly Community College,NC,US,Stanly Community College,011194,NC,US,011194,199740,Southern Association of Colleges and Schools Commission on Colleges
+000528,Wallace Cc Hncvlle,False,0528,Wallace State Community College at Hanceville,AL,US,Wallace State Community College - Hanceville,007871,AL,US,007871,101295,Southern Association of Colleges and Schools Commission on Colleges
+000534,St Paul Tech Coll,False,0534,St. Paul College,MN,US,Saint Paul College - A Community And Technical College,005533,MN,US,005533,175041,Higher Learning Commission
+000535,Chandler Gilbert Cc,False,0535,Chandler-Gilbert Community College,AZ,US,Chandler-Gilbert Community College,030722,AZ,US,,364025,Higher Learning Commission
+000623,Lewis And Clark Cc,False,0623,Lewis and Clark Community College,IL,US,Lewis And Clark Community College,010020,IL,US,010020,146603,Higher Learning Commission
+000713,Nicolet Area Tech Cl,False,0713,Nicolet Area Technical College,WI,US,Nicolet Area Technical College,005384,WI,US,008919,239442,Higher Learning Commission
+000723,Bevill St Cc Brewer,False,0723,Bevill State Community College: Brewer,AL,US,,,,,,,
+000740,Central Appl Centre,False,,,,,,,,,,,
+000747,Fox Valley Tech Coll,False,0747,Fox Valley Technical College,WI,US,Fox Valley Technical College,009744,WI,US,009744,238722,Higher Learning Commission
+000770,Southrn Wv Cmty Coll,False,0770,Southern West Virginia Community and Technical College,WV,US,Southern West Virginia Community And Technical College,003816,WV,US,003816,237817,Higher Learning Commission
+000777,Clark St Cmty Coll,False,0777,Clark State Community College,OH,US,Clark State Community College,004852,OH,US,004852,201973,Higher Learning Commission
+000782,Arkansas St U Beebe,False,0782,Arkansas State University: Beebe,AR,US,Arkansas State University - Beebe,001091,AR,US,001091,106449,Higher Learning Commission
+000784,Barton Co Cmty Coll,False,0784,Barton County Community College,KS,US,Barton County Community College,004608,KS,US,004608,154697,Higher Learning Commission
+000785,Montgomery Cmty Coll,False,0785,Montgomery Community College,NC,US,Montgomery Community College,008087,NC,US,008087,199023,Southern Association of Colleges and Schools Commission on Colleges
+000787,Bossier Parish Cc,False,0787,Bossier Parish Community College,LA,US,Bossier Parish Community College,012033,LA,US,012033,158431,Southern Association of Colleges and Schools Commission on Colleges
+000789,McDowell Tech Cmty C,False,0789,McDowell Technical Community College,NC,US,Mcdowell Technical Community College,008085,NC,US,008085,198923,Southern Association of Colleges and Schools Commission on Colleges
+000806,Baker Coll Flint,False,0806,Baker College of Flint,MI,US,"Baker College - Cass City, MI",013933,MI,US,,168847,Higher Learning Commission
+000850,Nashville State Tech,False,0850,Nashville State Community College,TN,US,Nashville State Community College,008145,TN,US,008145,221184,Southern Association of Colleges and Schools Commission on Colleges
+000881,University Stirling,False,0881,University of Stirling,,UK,University Of Stirling,FR2978,OT,UK,,,
+000923,Universty Of Glasgow,False,0923,University of Glasgow,,UK,University Of Glasgow,FR2973,OT,UK,,,
+000929,Houston Cmty College,False,0929,Houston Community College System,TX,US,Houston Community College,010633,TX,US,010633,225423,Southern Association of Colleges and Schools Commission on Colleges
+000935,McGill University,False,0935,McGill University,,CA,Mcgill University - Montreal,CAN201,QC,CA,,,
+000938,Universidad Americas,False,0938,Universidad De Las Americas-Puebla,,MX,Universidad De Las Americas Puebla,OS2443,OT,MX,,,
+000965,Univ British Columba,False,0965,University of British Columbia,,CA,University Of British Columbia,CAN054,BC,CA,,,
+000970,Univ Laverne Athens,False,,,,,,,,,,,
+000982,Univ Toronto,False,0982,University of Toronto,,CA,University Of Toronto - Innis College,CAN148,ON,CA,,,
+000997,Rio Salado Cmty Coll,False,0997,Rio Salado College,AZ,US,Rio Salado College,021775,AZ,US,021775,105668,Higher Learning Commission
+001000,Voronezh State University,False,,,,,,,,,,,
+001005,Auburn University,False,1005,Auburn University,AL,US,Auburn University - Auburn,001009,AL,US,001009,100858,Southern Association of Colleges and Schools Commission on Colleges
+001012,Alverno College,False,1012,Alverno College,WI,US,Alverno College,003832,WI,US,003832,238193,Higher Learning Commission
+001015,Ancilla College,False,1015,Ancilla College,IN,US,Ancilla College,001784,IN,US,001784,150048,Higher Learning Commission
+001016,Anderson University,False,1016,Anderson University,IN,US,Anderson University (IN),001785,IN,US,001785,150066,Higher Learning Commission
+001021,Ashland University,False,1021,Ashland University,OH,US,Ashland University,003012,OH,US,003012,201104,Higher Learning Commission
+001023,Westchester Bus Inst,False,1023,College of Westchester,NY,US,College Of Westchester,005208,NY,US,005208,197285,Middle States Commission on Higher Education
+001024,Univ of Phoenix,False,1024,University of Phoenix: Phoenix-Hohokam,AZ,US,University Of Phoenix (AL),018101,AL,US,,105516,Higher Learning Commission
+001028,Austin Peay St Univ,False,1028,Austin Peay State University,TN,US,Austin Peay State University,003478,TN,US,003478,219602,Southern Association of Colleges and Schools Commission on Colleges
+001034,Faulkner University,False,1034,Faulkner University,AL,US,Faulkner University,001003,AL,US,001003,101189,Southern Association of Colleges and Schools Commission on Colleges
+001042,Univ Hawaii W Oahu,False,1042,University of Hawaii: West Oahu,HI,US,University Of Hawaii - West Oahu,021078,HI,US,021078,141981,Western Association of Schools and Colleges Senior Colleges and University Commission
+001050,Baldwin-Wallace Coll,False,1050,Baldwin Wallace University,OH,US,Baldwin-Wallace College,003014,OH,US,003014,201195,Higher Learning Commission
+001051,Ball State Univ,False,1051,Ball State University,IN,US,Ball State University,001786,IN,US,001786,150136,Higher Learning Commission
+001052,Barat Coll,False,,,,,,,,,,,
+001057,Southwestern Illinois College,False,1057,Southwestern Illinois College,IL,US,Southwestern Illinois College,001636,IL,US,001636,143215,Higher Learning Commission
+001058,Belmont University,False,1058,Belmont University,TN,US,Belmont University,003479,TN,US,003479,219709,Southern Association of Colleges and Schools Commission on Colleges
+001064,Birminghm-Sthrn Coll,False,1064,Birmingham-Southern College,AL,US,Birmingham-Southern College,001012,AL,US,001012,100937,Southern Association of Colleges and Schools Commission on Colleges
+001069,Bowling Green State University,False,1069,Bowling Green State University,OH,US,Bowling Green State University,003018,OH,US,003018,201441,Higher Learning Commission
+001073,Butler University,False,1073,Butler University,IN,US,Butler University,001788,IN,US,001788,150163,Higher Learning Commission
+001079,Bethel College In,False,1079,Bethel College,IN,US,Bethel College - Mishawaka,001787,IN,US,001787,150145,Higher Learning Commission
+001081,Columbia St Cmty Col,False,1081,Columbia State Community College,TN,US,Columbia State Community College,003483,TN,US,003483,219888,Southern Association of Colleges and Schools Commission on Colleges
+001083,College Of Dupage,False,1083,College of DuPage,IL,US,College Of Dupage,006656,IL,US,006656,144865,Higher Learning Commission
+001084,Chattanooga State,False,1084,Chattanooga State Community College,TN,US,Chattanooga State Community College,003998,TN,US,003998,219824,Southern Association of Colleges and Schools Commission on Colleges
+001094,Concordia College Mi,False,1094,Concordia University,MI,US,Concordia University - Ann Arbor,002247,MI,US,002247,169363,Higher Learning Commission
+001102,Carson-Newman University,False,1102,Carson-Newman University,TN,US,Carson-Newman University,003481,TN,US,,219806,Southern Association of Colleges and Schools Commission on Colleges
+001106,Centrl Michigan Univ,False,1106,Central Michigan University,MI,US,Central Michigan University,002243,MI,US,002243,169248,Higher Learning Commission
+001120,University of Fine Arts & Design Ganexa,False,,,,,,,,,,,
+001121,Christian Bros Univ,False,1121,Christian Brothers University,TN,US,Christian Brothers University,003482,TN,US,003482,219833,Southern Association of Colleges and Schools Commission on Colleges
+001135,Columbia College Il,False,1135,Columbia College Chicago,IL,US,Columbia College Chicago,001665,IL,US,001665,144281,Higher Learning Commission
+001142,Copiah-Lincoln C C,False,1142,Copiah-Lincoln Community College,MS,US,Copiah-Lincoln Community College,002402,MS,US,002402,175573,Southern Association of Colleges and Schools Commission on Colleges
+001145,The University of the Cumberlands,False,1145,University of the Cumberlands,KY,US,University Of The Cumberlands,001962,KY,US,001962,156541,Southern Association of Colleges and Schools Commission on Colleges
+001146,Cumberland Univ,False,1146,Cumberland University,TN,US,Cumberland University,003485,TN,US,003485,219949,Southern Association of Colleges and Schools Commission on Colleges
+001160,Danville Area Cmty C,False,1160,Danville Area Community College,IL,US,Danville Area Community College,001669,IL,US,001669,144564,Higher Learning Commission
+001161,David Lipscomb Univ,False,1161,Lipscomb University,TN,US,Lipscomb University,003486,TN,US,003486,219976,Southern Association of Colleges and Schools Commission on Colleges
+001179,Wright State U Daytn,False,1179,Wright State University,OH,US,Wright State University - Dayton Campus,003078,OH,US,009169,206613,Higher Learning Commission
+001187,Chattahoochee Vly Cc,False,1187,Chattahoochee Valley Community College,AL,US,Chattahoochee Valley Community College,012182,AL,US,012182,101028,Southern Association of Colleges and Schools Commission on Colleges
+001191,Edison State Cmty C,False,1191,Edison State Community College,OH,US,Edison State Community College,012270,OH,US,012270,202648,Higher Learning Commission
+001194,Indiana Univ East,False,1194,Indiana University East,IN,US,Indiana University - East,001811,IN,US,001811,151388,Higher Learning Commission
+001196,East Cntrl Cmty Coll,False,1196,East Central Community College,MS,US,East Central Community College,002404,MS,US,002404,175643,Southern Association of Colleges and Schools Commission on Colleges
+001198,East Tenn State Univ,False,1198,East Tennessee State University,TN,US,East Tennessee State University,003487,TN,US,003487,220075,Southern Association of Colleges and Schools Commission on Colleges
+001200,Eastrn Kentucky Univ,False,1200,Eastern Kentucky University,KY,US,Eastern Kentucky University,001963,KY,US,001963,156620,Southern Association of Colleges and Schools Commission on Colleges
+001201,Eastern Michigan Unv,False,1201,Eastern Michigan University,MI,US,Eastern Michigan University,002259,MI,US,002259,169798,Higher Learning Commission
+001208,Univ Of Evansville,False,1208,University of Evansville,IN,US,University Of Evansville,001795,IN,US,001795,150534,Higher Learning Commission
+001211,Elizabethtown C C,False,1211,Elizabethtown Community and Technical College,KY,US,Elizabethtown Community And Technical College,001991,KY,US,001991,156648,Southern Association of Colleges and Schools Commission on Colleges
+001225,Charles S Mott C C,False,1225,Mott Community College,MI,US,Mott Community College,002261,MI,US,002261,169275,Higher Learning Commission
+001229,Franklin University,False,1229,Franklin University,OH,US,Franklin University,003046,OH,US,003046,202806,Higher Learning Commission
+001230,Freed-Hardeman Univ,False,1230,Freed-Hardeman University,TN,US,Freed-Hardeman University,003492,TN,US,003492,220215,Southern Association of Colleges and Schools Commission on Colleges
+001249,Georgetown College,False,1249,Georgetown College,KY,US,Georgetown College,001964,KY,US,001964,156745,Southern Association of Colleges and Schools Commission on Colleges
+001252,Grace College,False,1252,Grace College,IN,US,Grace College And Theological Seminary,001800,IN,US,001800,150677,Higher Learning Commission
+001254,Grand Rapids C C,False,1254,Grand Rapids Community College,MI,US,Grand Rapids Community College,002267,MI,US,002267,170055,Higher Learning Commission
+001264,Geo C Wallc S Cc Dot,False,1264,George C. Wallace Community College at Dothan,AL,US,Alabama Aviation And Technical College (Now Wallace Community College),005749,AL,US,,,
+001274,Hopkinsville Cmty C,False,1274,Hopkinsville Community College,KY,US,Hopkinsville Community College,001994,KY,US,001994,156860,Southern Association of Colleges and Schools Commission on Colleges
+001293,Henry Ford Cmty Coll,False,1293,Henry Ford College,MI,US,Henry Ford Community College,002270,MI,US,002270,170240,Higher Learning Commission
+001296,Hinds Cmty College,False,1296,Hinds Community College,MS,US,Hinds Community College - Jackson,008213,MS,US,002407,175786,Southern Association of Colleges and Schools Commission on Colleges
+001299,Holmes Cmty College,False,1299,Holmes Community College,MS,US,Holmes Community College,002408,MS,US,002408,175810,Southern Association of Colleges and Schools Commission on Colleges
+001302,Samford University,False,1302,Samford University,AL,US,Samford University,001036,AL,US,001036,102049,Southern Association of Colleges and Schools Commission on Colleges
+001304,Huntington College,False,1304,Huntington University,IN,US,Huntington University,001803,IN,US,001803,150941,Higher Learning Commission
+001307,Henderson Cmty Coll,False,1307,Henderson Community College,KY,US,Henderson Community College,001993,KY,US,001993,156851,Southern Association of Colleges and Schools Commission on Colleges
+001311,Ivy Tech St Coll Ind,False,1311,Ivy Tech Community College of Indianapolis,IN,US,Ivy Technology Community College - Central Indiana / Indianapolis,666841,IN,US,009917,150987,Higher Learning Commission
+001312,Illinois Central C,False,1312,Illinois Central College,IL,US,Illinois Central College,006753,IL,US,006753,145682,Higher Learning Commission
+001322,Indiana State Univ,False,1322,Indiana State University,IN,US,Indiana State University,001807,IN,US,009563,151324,Higher Learning Commission
+001324,Indiana Univ Bloomng,False,1324,Indiana University Bloomington,IN,US,Indiana University - Bloomington,001809,IN,US,001809,151351,Higher Learning Commission
+001326,Itawamba Cmty Coll,False,1326,Itawamba Community College,MS,US,Itawamba Community College,002409,MS,US,002409,175829,Southern Association of Colleges and Schools Commission on Colleges
+001335,Univ of Southern Indiana,False,1335,University of Southern Indiana,IN,US,University Of Southern Indiana,001808,IN,US,001808,151306,Higher Learning Commission
+001346,Joliet Jr College,False,1346,Joliet Junior College,IL,US,Joliet Junior College,001699,IL,US,001699,146296,Higher Learning Commission
+001352,Jefferson St C C,False,1352,Jefferson State Community College,AL,US,Jefferson State Community College,001022,AL,US,001022,101505,Southern Association of Colleges and Schools Commission on Colleges
+001356,Calhoun Cmty Coll,False,1356,Calhoun Community College,AL,US,Calhoun Community College,001013,AL,US,001013,101514,Southern Association of Colleges and Schools Commission on Colleges
+001357,John A Logan College,False,1357,John A. Logan College,IL,US,John A. Logan College,008076,IL,US,008076,146205,Higher Learning Commission
+001361,Heartland Cmty Coll,False,1361,Heartland Community College,IL,US,Heartland Community College,030838,IL,US,,384342,Higher Learning Commission
+001367,Kent State Univ,False,1367,Kent State University,OH,US,Kent State University,003051,OH,US,,203517,Higher Learning Commission
+001373,Knoxville College,False,1373,Knoxville College,TN,US,Knoxville College,003497,TN,US,,,
+001378,Kalamazoo Valley C C,False,1378,Kalamazoo Valley Community College,MI,US,Kalamazoo Valley Community College,006949,MI,US,006949,170541,Higher Learning Commission
+001380,Kankakee Cmty Coll,False,1380,Kankakee Community College,IL,US,Kankakee Community College,007690,IL,US,007690,146348,Higher Learning Commission
+001391,Lake Erie College,False,1391,Lake Erie College,OH,US,Lake Erie College,003066,OH,US,003066,203580,Higher Learning Commission
+001398,Lawrence University,False,1398,Lawrence University,WI,US,Lawrence University,003856,WI,US,003856,239017,Higher Learning Commission
+001401,Lee University,False,1401,Lee University,TN,US,Lee University,003500,TN,US,003500,220613,Southern Association of Colleges and Schools Commission on Colleges
+001406,Lincoln College,False,1406,,,,Lincoln College (Illinois),001709,IL,US,001709,146676,Higher Learning Commission
+001408,Lincoln Mem Univ,False,1408,Lincoln Memorial University,TN,US,Lincoln Memorial University,003502,TN,US,003502,220631,Southern Association of Colleges and Schools Commission on Colleges
+001414,Lansing Cmty College,False,1414,Lansing Community College,MI,US,Lansing Community College,002278,MI,US,002278,170657,Higher Learning Commission
+001417,Lorain Co Cmty Coll,False,1417,Lorain County Community College,OH,US,Lorain County Community College,003068,OH,US,003068,203748,Higher Learning Commission
+001420,Arizona State Univ,False,,,,,,,,,,,
+001422,Lakeland Cmty Coll,False,1422,Lakeland Community College,OH,US,Lakeland Community College,006804,OH,US,006804,203599,Higher Learning Commission
+001427,Lourdes College,False,1427,Lourdes University,OH,US,Lourdes College,003069,OH,US,,203757,Higher Learning Commission
+001428,Lincoln Land C C,False,1428,Lincoln Land Community College,IL,US,Lincoln Land Community College,007170,IL,US,007170,146685,Higher Learning Commission
+001430,Oglala Lakota Coll,False,1430,Oglala Lakota College,SD,US,Oglala Lakota College,014659,SD,US,025067,219277,Higher Learning Commission
+001437,Madonna University,False,1437,Madonna University,MI,US,Madonna University,002282,MI,US,002282,170806,Higher Learning Commission
+001447,Marion Military Inst,False,1447,Marion Military Institute,AL,US,Marion Military Institute,001026,AL,US,001026,101648,Southern Association of Colleges and Schools Commission on Colleges
+001452,Marygrove College,False,1452,,,,Marygrove College,002284,MI,US,002284,170842,
+001454,Maryville Coll Tn,False,1454,Maryville College,TN,US,Maryville College,003505,TN,US,003505,220710,Southern Association of Colleges and Schools Commission on Colleges
+001463,Miami Univ Oxford,False,1463,Miami University: Oxford,OH,US,Miami University - Oxford,007104,OH,US,007104,204024,Higher Learning Commission
+001465,Michigan State Univ,False,1465,Michigan State University,MI,US,Detroit College Of Law (Now Michigan State University College Of Law),002254,MI,US,,171100,Higher Learning Commission
+001466,Middle Tenn St Univ,False,1466,Middle Tennessee State University,TN,US,Middle Tennessee State University,003510,TN,US,003510,220978,Southern Association of Colleges and Schools Commission on Colleges
+001469,Milligan College,False,1469,Milligan College,TN,US,Milligan University,003511,TN,US,003511,221014,Southern Association of Colleges and Schools Commission on Colleges
+001479,Univ Of Southern Ms,False,1479,University of Southern Mississippi,MS,US,University Of Southern Mississippi,002441,MS,US,002441,176372,Southern Association of Colleges and Schools Commission on Colleges
+001480,Mississippi State Un,False,1480,Mississippi State University,MS,US,Mississippi State University,002423,MS,US,002423,176080,Southern Association of Colleges and Schools Commission on Colleges
+001487,Morehead St Univ,False,1487,Morehead State University,KY,US,Morehead State University,001976,KY,US,001976,157386,Southern Association of Colleges and Schools Commission on Colleges
+001497,Oakland University,False,1497,Oakland University,MI,US,Oakland University,002307,MI,US,002307,171571,Higher Learning Commission
+001510,Northwest Florida State College,False,,,,,,,,,,,
+001511,Memphis Coll Of Art,False,1511,,,,Memphis College Of Art,003507,TN,US,003507,220808,
+001513,Wisc Lutheran Coll,False,1513,Wisconsin Lutheran College,WI,US,Wisconsin Lutheran College,021366,WI,US,021366,240338,Higher Learning Commission
+001521,Macomb Cc Center Cmp,False,,,,,,,,,,,
+001524,Moraine Valley C C,False,1524,Moraine Valley Community College,IL,US,Moraine Valley Community College,007692,IL,US,007692,147378,Higher Learning Commission
+001536,Madison Area Tech C,False,1536,Madison Area Technical College,WI,US,Madison Area Technical College,004007,WI,US,004007,238263,Higher Learning Commission
+001547,Point University,False,,,,,,,,,,,
+001562,Northwst Miss C C,False,1562,Northwest Mississippi Community College,MS,US,Northwest Mississippi Community College,002427,MS,US,002427,176178,Southern Association of Colleges and Schools Commission on Colleges
+001566,Notre Dame Colleg Oh,False,1566,Notre Dame College,OH,US,Notre Dame College,FR0138,OT,BG,,,
+001573,Oakton Cmty College,False,1573,Oakton Community College,IL,US,Oakton Community College,009896,IL,US,009896,147800,Higher Learning Commission
+001574,Northrn Ky Univ,False,1574,Northern Kentucky University,KY,US,Northern Kentucky University,009275,KY,US,009275,157447,Southern Association of Colleges and Schools Commission on Colleges
+001580,Wisconsin Indianhead Technical College,False,1580,Wisconsin Indianhead Technical College,WI,US,Northwood Technical College,011824,WI,US,011824,240198,Higher Learning Commission
+001585,Oakland City Univ,False,1585,Oakland City University,IN,US,Oakland City University,001824,IN,US,001824,152099,Higher Learning Commission
+001592,Ohio State Univ,False,1592,Ohio State University: Columbus Campus,OH,US,Ohio State University,003090,OH,US,006883,204796,Higher Learning Commission
+001593,Ohio University,False,1593,Ohio University,OH,US,Ohio University - Athens,003100,OH,US,,204857,Higher Learning Commission
+001601,University of West Georgia,False,,,,,,,,,,,
+001607,Oakland Comm Coll,False,1607,Oakland Community College,MI,US,Oakland Community College (CA),908760,CA,US,008760,171535,Higher Learning Commission
+001613,Wor-Wic Cmty Coll,False,1613,Wor-Wic Community College,MD,US,Wor-Wic Community College,020739,MD,US,020739,164313,Middle States Commission on Higher Education
+001628,St Clair Co Cmty Col,False,1628,St. Clair County Community College,MI,US,Saint Clair County Community College,002310,MI,US,002310,172291,Higher Learning Commission
+001631,Purdue Univ W Lafyte,False,1631,Purdue University,IN,US,Purdue University - West Lafayette,001825,IN,US,,243780,Higher Learning Commission
+001643,Spoon River College,False,1643,Owens Community College,OH,US,Owens Community College - Toledo Campus,005753,OH,US,005753,204945,Higher Learning Commission
+001644,Alabama Sthrn Cmty C,False,1644,Coastal Alabama Community College: Monroeville,AL,US,Alabama Southern Community College (Now Coastal Alabama Community College Monroeville),001034,AL,US,001034,101949,Southern Association of Colleges and Schools Commission on Colleges
+001656,Roane St Cmty Coll,False,1656,Roane State Community College,TN,US,Roane State Community College,009914,TN,US,009914,221397,Southern Association of Colleges and Schools Commission on Colleges
+001674,Rock Valley College,False,1674,Rock Valley College,IL,US,Rock Valley College,001747,IL,US,001747,148380,Higher Learning Commission
+001688,Stark Tech College,False,1688,Stark State College,OH,US,Stark State College,010881,OH,US,010881,205841,Higher Learning Commission
+001706,St Norbert College,False,1706,St. Norbert College,WI,US,Saint Norbert College,003892,WI,US,003892,239716,Higher Learning Commission
+001720,Sinclair Cmty Coll,False,1720,Sinclair Community College,OH,US,Sinclair Community College,003119,OH,US,003119,205470,Higher Learning Commission
+001722,Macomb Cc South Cmp,False,1722,Macomb Community College,MI,US,Macomb Community College,008319,MI,US,008319,170790,Higher Learning Commission
+001727,Southern Adventist University,False,1727,Southern Adventist University,TN,US,Southern Adventist University,003518,TN,US,003518,221661,Southern Association of Colleges and Schools Commission on Colleges
+001728,Southern Union State,False,1728,Southern Union State Community College,AL,US,Southern Union State Community College,001040,AL,US,001040,251260,Southern Association of Colleges and Schools Commission on Colleges
+001730,Rhodes College,False,1730,Rhodes College,TN,US,Rhodes College,003519,TN,US,003519,221351,Southern Association of Colleges and Schools Commission on Colleges
+001736,Jacksonville St Univ,False,1736,Jacksonville State University,AL,US,Jacksonville State University,001020,AL,US,001020,101480,Southern Association of Colleges and Schools Commission on Colleges
+001738,Troy State Univ Troy,False,1738,Troy University,AL,US,"Troy University - Colorado Springs/Fr. Carson, CO",667016,CO,US,001047,102368,Southern Association of Colleges and Schools Commission on Colleges
+001742,Miss Delta Comm Coll,False,1742,Mississippi Delta Community College,MS,US,Mississippi Delta Community College,002416,MS,US,002416,176008,Southern Association of Colleges and Schools Commission on Colleges
+001764,Schoolcraft College,False,1764,Schoolcraft College,MI,US,Schoolcraft College,002315,MI,US,002315,172200,Higher Learning Commission
+001779,Somerset Cmty Coll,False,1779,Somerset Community College,KY,US,Somerset Community College,001997,KY,US,001997,157711,Southern Association of Colleges and Schools Commission on Colleges
+001798,Troy St Univ Montgmy,False,1798,Troy State University in Montgomery,AL,US,"Troy University - Arlington, VA",667047,VA,US,,102368,Southern Association of Colleges and Schools Commission on Colleges
+001811,Tri-State University,False,1811,Trine University,IN,US,Trine University,001839,IN,US,001839,152567,Higher Learning Commission
+001812,Tusculum College,False,1812,Tusculum University,TN,US,Tusculum College,003527,TN,US,003527,221953,Southern Association of Colleges and Schools Commission on Colleges
+001816,Delta College,False,1816,Delta College,MI,US,Delta College,002251,MI,US,,169521,Higher Learning Commission
+001826,Union University,False,1826,Union University,TN,US,Union University,003528,TN,US,003528,221971,Southern Association of Colleges and Schools Commission on Colleges
+001829,University Of Akron,False,1829,University of Akron,OH,US,University Of Akron - Akron Campus,003123,OH,US,003123,200800,Higher Learning Commission
+001830,University of Alabama,False,1830,University of Alabama,AL,US,University Of Alabama - Tuscaloosa,001051,AL,US,001051,100751,Southern Association of Colleges and Schools Commission on Colleges
+001831,U T At Chattanooga,False,1831,University of Tennessee: Chattanooga,TN,US,University Of Tennessee - Chattanooga,003529,TN,US,003529,221740,Southern Association of Colleges and Schools Commission on Colleges
+001835,Univ Detroit Mercy,False,1835,University of Detroit Mercy,MI,US,University Of Detroit Mercy,002323,MI,US,002323,169716,Higher Learning Commission
+001836,Univ Illinois Urbana,False,1836,University of Illinois at Urbana-Champaign,IL,US,University Of Illinois - Urbana / Champaign,001775,IL,US,001775,145637,Higher Learning Commission
+001837,Univ Kentucky Lexngt,False,1837,University of Kentucky,KY,US,University Of Kentucky,001989,KY,US,001989,157085,Southern Association of Colleges and Schools Commission on Colleges
+001840,University Of Miss,False,1840,University of Mississippi,MS,US,University Of Mississippi,002440,MS,US,002440,176017,Southern Association of Colleges and Schools Commission on Colleges
+001843,Univ Tennessee Knox,False,1843,University of Tennessee: Knoxville,TN,US,University Of Tennessee - Knoxville,003530,TN,US,003530,221759,Southern Association of Colleges and Schools Commission on Colleges
+001844,Univ Tennessee Martn,False,1844,University of Tennessee: Martin,TN,US,University Of Tennessee - Martin,003531,TN,US,003531,221768,Southern Association of Colleges and Schools Commission on Colleges
+001845,Univ Toledo,False,1845,University of Toledo,OH,US,University Of Toledo,003131,OH,US,003131,206084,Higher Learning Commission
+001846,Univ Wisc Madison,False,1846,University of Wisconsin-Madison,WI,US,University Of Wisconsin Extension,013897,WI,US,,260381,Higher Learning Commission
+001851,Univ Il Chicago,False,1851,University of Illinois at Chicago,IL,US,University Of Illinois - Chicago,001776,IL,US,001776,145600,Higher Learning Commission
+001854,University of Alabama Huntsville,False,1854,University of Alabama in Huntsville,AL,US,University Of Alabama - Huntsville,001055,AL,US,001055,100706,Southern Association of Colleges and Schools Commission on Colleges
+001856,University of Alabama (Birmingham),False,1856,University of Alabama at Birmingham,AL,US,University Of Alabama - Birmingham,001052,AL,US,001052,100663,Southern Association of Colleges and Schools Commission on Colleges
+001859,Univ Wisc Green Bay,False,1859,University of Wisconsin-Green Bay,WI,US,University Of Wisconsin - Green Bay,003899,WI,US,003899,240277,Higher Learning Commission
+001871,Vanderbilt Univ,False,1871,Vanderbilt University,TN,US,Vanderbilt University,003535,TN,US,003535,221999,Southern Association of Colleges and Schools Commission on Colleges
+001872,Vandercook Coll Mus,False,1872,VanderCook College of Music,IL,US,Vandercook College Of Music,001778,IL,US,001778,149639,Higher Learning Commission
+001874,Valparaiso Universty,False,1874,Valparaiso University,IN,US,Valparaiso University,001842,IN,US,001842,152600,Higher Learning Commission
+001876,Thomas More College,False,1876,Thomas More College,KY,US,Thomas More University,002001,KY,US,002001,157809,Southern Association of Colleges and Schools Commission on Colleges
+001877,Vincennes University,False,1877,Vincennes University,IN,US,Vincennes University,001843,IN,US,001843,152637,Higher Learning Commission
+001880,Univ South Alabama,False,1880,University of South Alabama,AL,US,University Of South Alabama,001057,AL,US,001057,102094,Southern Association of Colleges and Schools Commission on Colleges
+001881,Volunteer St Com Col,False,1881,Volunteer State Community College,TN,US,Volunteer State Community College,009912,TN,US,009912,222053,Southern Association of Colleges and Schools Commission on Colleges
+001889,Univ Wisc Fox Valley,False,1889,UW Colleges Fox Valley,WI,US,University Of Wisconsin - Fox Valley,003898,WI,US,,240365,Higher Learning Commission
+001893,Walters St C C,False,1893,Walters State Community College,TN,US,Walters State Community College,008863,TN,US,008863,222062,Southern Association of Colleges and Schools Commission on Colleges
+001898,Wayne State Univ,False,1898,Wayne State University,MI,US,Wayne State University,002329,MI,US,002329,172644,Higher Learning Commission
+001901,Western Kentucky Uni,False,1901,Western Kentucky University,KY,US,Western Kentucky University,002002,KY,US,002002,157951,Southern Association of Colleges and Schools Commission on Colleges
+001905,Wheaton College,False,1905,Wheaton College,IL,US,Wheaton College (IL),001781,IL,US,,149781,Higher Learning Commission
+001908,Bryan College,False,1908,Bryan College: Dayton,TN,US,Bryan College,003536,TN,US,003536,219790,Southern Association of Colleges and Schools Commission on Colleges
+001916,Univ Wisc Oshkosh,False,1916,University of Wisconsin-Oshkosh,WI,US,University Of Wisconsin - Oshkosh,003920,WI,US,009630,240365,Higher Learning Commission
+001926,Walsh University,False,1926,Walsh University,OH,US,Walsh University,003135,OH,US,003135,206437,Higher Learning Commission
+001933,Lawson St C C,False,1933,Lawson State Community College,AL,US,Lawson State Community College,001059,AL,US,001059,101569,Southern Association of Colleges and Schools Commission on Colleges
+001935,Washtenaw Cmty Coll,False,1935,Washtenaw Community College,MI,US,Washtenaw Community College,002328,MI,US,002328,172617,Higher Learning Commission
+001938,Waubonsee Cmty Coll,False,1938,Waubonsee Community College,IL,US,Waubonsee Community College,006931,IL,US,006931,149727,Higher Learning Commission
+001939,J H Faulkner St Cc,False,1939,Coastal Alabama Community College,AL,US,"Coastal Alabama Community College, Bay Minette (Formerly Faulkner State Community College)",001060,AL,US,001060,101161,Southern Association of Colleges and Schools Commission on Colleges
+001951,Collin Co Cmty Coll,False,1951,Collin County Community College District,TX,US,Collin County Community College,023614,TX,US,023614,247834,Southern Association of Colleges and Schools Commission on Colleges
+001965,Xavier University,False,1965,Xavier University,OH,US,Xavier University,003144,OH,US,003144,206622,Higher Learning Commission
+001981,Academy Art College,False,1981,Academy of Art University,CA,US,Academy Of Art University,007531,CA,US,007531,108232,Western Association of Schools and Colleges Senior Colleges and University Commission
+001983,Coll Lake County,False,1983,College of Lake County,IL,US,College Of Lake County,007694,IL,US,007694,146472,Higher Learning Commission
+001999,Univ Wisc Waukesha,False,1999,University of Wisconsin-Waukesha,WI,US,University Of Wisconsin - Waukesha County,003909,WI,US,,240444,Higher Learning Commission
+002029,Art Institute Pittsb,False,2029,Art Institute of Pittsburgh,PA,US,Art Institute Of Pittsburgh,007470,PA,US,007470,210960,
+002032,Bergen Cmty Coll,False,2032,Bergen Community College,NJ,US,Bergen Community College,004736,NJ,US,004736,183743,Middle States Commission on Higher Education
+002037,Bard Coll,False,2037,Bard College,NY,US,Bard College,002671,NY,US,002671,189088,Middle States Commission on Higher Education
+002038,Barnard C Columbia U,False,2038,Barnard College,NY,US,Barnard College,002708,NY,US,002708,189097,Middle States Commission on Higher Education
+002039,Beaver Coll,False,2039,Arcadia University,PA,US,Arcadia University,003235,PA,US,003235,211088,Middle States Commission on Higher Education
+002063,Community College of Baltimore County,False,2063,City University of New York: Borough of Manhattan Community College,NY,US,Cuny - Borough Of Manhattan Community College,002691,NY,US,002691,190521,Middle States Commission on Higher Education
+002066,Bucks Co Cmty Coll,False,2066,Bucks County Community College,PA,US,Bucks County Community College,003239,PA,US,003239,211307,Middle States Commission on Higher Education
+002072,Caldwell Coll,False,2072,Caldwell University,NJ,US,Caldwell University,002598,NJ,US,002598,183910,Middle States Commission on Higher Education
+002081,Chatham Coll,False,2081,Chatham University,PA,US,Chatham University,003244,PA,US,003244,211556,Middle States Commission on Higher Education
+002089,Coll Of New Rochelle,False,2089,,,,College Of New Rochelle,002704,NY,US,002704,193645,
+002121,Camden Co Coll,False,2121,Camden County College,NJ,US,Camden County College,006865,NJ,US,006865,183938,Middle States Commission on Higher Education
+002124,County Coll Morris,False,2124,County College of Morris,NJ,US,County College Of Morris,007729,NJ,US,007729,184180,Middle States Commission on Higher Education
+002125,Delaware County C C,False,2125,Delaware County Community College,PA,US,Delaware County Community College,007110,PA,US,007110,211927,Middle States Commission on Higher Education
+002134,Finger Lakes Cc,False,2134,Finger Lakes Community College,NY,US,Finger Lakes Community College,007532,NY,US,007532,191199,Middle States Commission on Higher Education
+002135,Clinton Cmty Coll Ny,False,2135,Clinton Community College,NY,US,Clinton Community College - Plattsburgh,006787,NY,US,006787,190053,Middle States Commission on Higher Education
+002179,Paradise Vly Cc Ctr,False,2179,Paradise Valley Community College,AZ,US,Paradise Valley Community College,026236,AZ,US,,364016,Higher Learning Commission
+002180,Burlington Co Coll,False,2180,Rowan College at Burlington County,NJ,US,Rowan College At Burlington County,007730,NJ,US,007730,183877,Middle States Commission on Higher Education
+002181,Brookdale Cmty Coll,False,2181,Brookdale Community College,NJ,US,Brookdale Community College,008404,NJ,US,008404,183859,Middle States Commission on Higher Education
+002196,Duquesne University,False,2196,Duquesne University,PA,US,Duquesne University,003258,PA,US,003258,212106,Middle States Commission on Higher Education
+002198,Dutchess Cmty Coll,False,2198,Dutchess Community College,NY,US,Dutchess Community College,002864,NY,US,002864,190840,Middle States Commission on Higher Education
+002213,Erie C C City Camp,False,2213,Erie Community College: City Campus,NY,US,Erie Community College - Center Report,029248,NY,US,029248,191083,Middle States Commission on Higher Education
+002237,Essex Co College,False,2237,Essex County College,NJ,US,Essex County College,007107,NJ,US,007107,184481,Middle States Commission on Higher Education
+002255,Fairlegh Diknsn Ruth,False,,,,,,,,,,,
+002257,Fashion Inst Tech,False,2257,Fashion Institute of Technology,NY,US,Fashion Institute Of Technology,002866,NY,US,002866,191126,Middle States Commission on Higher Education
+002259,Fordham University,False,2259,Fordham University,NY,US,Fordham University - Lincoln Center,029140,NY,US,002722,191241,Middle States Commission on Higher Education
+002266,Jackson St Cmty Clg,False,2266,Jackson State Community College,TN,US,Jackson State Community College,004937,TN,US,004937,220400,Southern Association of Colleges and Schools Commission on Colleges
+002270,Gannon University,False,2270,Gannon University,PA,US,Gannon University,003266,PA,US,003266,212601,Middle States Commission on Higher Education
+002272,Genesee Cmty Coll,False,2272,Genesee Community College,NY,US,Genesee Community College,006782,NY,US,006782,191339,Middle States Commission on Higher Education
+002291,Hudson Co Cmty Coll,False,2291,Hudson County Community College,NJ,US,Hudson County Community College,012954,NJ,US,012954,184995,Middle States Commission on Higher Education
+002295,Hofstra University,False,2295,Hofstra University,NY,US,Hofstra University,002732,NY,US,002732,191649,Middle States Commission on Higher Education
+002300,Hudson Vly Cmty Coll,False,2300,Hudson Valley Community College,NY,US,Hudson Valley Community College,002868,NY,US,002868,191719,Middle States Commission on Higher Education
+002301,Hunter College,False,2301,City University of New York: Hunter College,NY,US,Cuny - Hunter College,002689,NY,US,002689,190594,Middle States Commission on Higher Education
+002309,Harrisburg Area C C,False,2309,"HACC, Central Pennsylvania's Community College",PA,US,Harrisburg Area Community College - Gettysburg,025321,PA,US,003273,212878,Middle States Commission on Higher Education
+002316,Herkimer Co Cmty Col,False,2316,Herkimer County Community College,NY,US,Herkimer County Community College,004788,NY,US,004788,191612,Middle States Commission on Higher Education
+002324,Iona College,False,2324,Iona College,NY,US,Elizabeth Seton College (Now Iona College),002717,NY,US,,191931,Middle States Commission on Higher Education
+002325,Ithaca College,False,2325,Ithaca College,NY,US,Ithaca College,002739,NY,US,002739,191968,Middle States Commission on Higher Education
+002335,Jamestown Cmty Coll,False,2335,Jamestown Community College,NY,US,Jamestown Community College,002869,NY,US,002869,191986,Middle States Commission on Higher Education
+002345,Jefferson Cmty C Ny,False,2345,Jefferson Community College,NY,US,Suny - Jefferson Community College - Watertown,002870,NY,US,002870,192022,Middle States Commission on Higher Education
+002379,La Roche College,False,2379,La Roche College,PA,US,La Roche College,003987,PA,US,003987,213358,Middle States Commission on Higher Education
+002381,Lehigh Carbon Cmty C,False,2381,Lehigh Carbon Community College,PA,US,Lehigh Carbon Community College,006810,PA,US,006810,213525,Middle States Commission on Higher Education
+002405,Marymount Manhattn C,False,2405,Marymount Manhattan College,NY,US,Marymount Manhattan College,002769,NY,US,002769,192864,Middle States Commission on Higher Education
+002406,Marymount College Ny,False,,,,,,,,,,,
+002407,Marywood College,False,2407,Marywood University,PA,US,Marywood University,003296,PA,US,003296,213826,Middle States Commission on Higher Education
+002409,Mercy College,False,2409,Mercy College,NY,US,Mercy College,002772,NY,US,002772,193016,Middle States Commission on Higher Education
+002414,Mohawk Valley C C,False,2414,Mohawk Valley Community College,NY,US,Mohawk Valley Community College,002871,NY,US,002871,193283,Middle States Commission on Higher Education
+002423,Mount Saint Mary Col,False,2423,Mount Saint Mary College,NY,US,Mount Saint Mary College,002778,NY,US,002778,193353,Middle States Commission on Higher Education
+002429,Monroe Cmty College,False,2429,Monroe Community College,NY,US,Monroe Community College - E Kent Damon City Center,602872,NY,US,002872,193326,Middle States Commission on Higher Education
+002441,Middlesex Co Coll,False,2441,Middlesex County College,NJ,US,Middlesex County College,002615,NJ,US,002615,185536,Middle States Commission on Higher Education
+002444,Mercer Co Cmty Coll,False,2444,Mercer County Community College,NJ,US,Mercer County Community College,004740,NJ,US,004740,185509,Middle States Commission on Higher Education
+002445,Montgomery Co C C,False,2445,Montgomery County Community College,PA,US,Montgomery County Community College,004452,PA,US,,445009,Middle States Commission on Higher Education
+002462,Monroe Coll New Roch,False,2462,Monroe College,NY,US,"Monroe College - Main Campus/New Rochelle, NY",004799,NY,US,,193317,Middle States Commission on Higher Education
+002463,Monroe College Bronx,False,2463,Monroe College,NY,US,"Monroe College - Bronx, NY",004761,NY,US,,193308,Middle States Commission on Higher Education
+002486,American Intercontinental University,False,2486,American InterContinental University,IL,US,"American Intercontinental University - Buckhead, GA",631136,GA,US,,438586,Higher Learning Commission
+002515,Rowan Coll New Jersy,False,2515,Rowan University,NJ,US,Rowan University - College Of Graduate And Continuing Education,006663,NJ,US,002609,184782,Middle States Commission on Higher Education
+002518,William Patersn C Nj,False,2518,William Paterson University of New Jersey,NJ,US,William Paterson University Of New Jersey,002625,NJ,US,002625,187444,Middle States Commission on Higher Education
+002520,Montclair State Univ,False,2520,Montclair State University,NJ,US,Montclair State University,002617,NJ,US,002617,185590,Middle States Commission on Higher Education
+002523,Suny Coll Tech Cnton,False,2523,SUNY College of Technology at Canton,NY,US,Suny - Canton,002855,NY,US,002855,196015,Middle States Commission on Higher Education
+002524,Suny Clg Ag Tech Cob,False,2524,SUNY College of Agriculture and Technology at Cobleskill,NY,US,Suny - Cobleskill,002856,NY,US,002856,196033,Middle States Commission on Higher Education
+002533,Buffalo State Coll,False,2533,SUNY College at Buffalo,NY,US,Suny - Buffalo State,002842,NY,US,002837,196088,Middle States Commission on Higher Education
+002540,Geneseo College,False,2540,SUNY College at Geneseo,NY,US,Suny - Geneseo,002845,NY,US,002845,196167,Middle States Commission on Higher Education
+002542,Suny Coll Oneonta,False,2542,SUNY College at Oneonta,NY,US,Suny - Oneonta,002847,NY,US,002847,196185,Middle States Commission on Higher Education
+002545,Suny Coll Potsdam,False,2545,SUNY College at Potsdam,NY,US,Suny - Potsdam,002850,NY,US,002850,196200,Middle States Commission on Higher Education
+002558,Niagara University,False,2558,Niagara University,NY,US,Niagara University,002788,NY,US,002788,193973,Middle States Commission on Higher Education
+002560,Nyack College,False,2560,Alliance University,NY,US,Nyack College & Alliance Theological Seminary,002790,NY,US,002790,194161,Middle States Commission on Higher Education
+002562,New York University,False,2562,New York University,NY,US,New York University,002785,NY,US,002785,193900,Middle States Commission on Higher Education
+002563,Nassau Cmty College,False,2563,Nassau Community College,NY,US,Nassau Community College,002873,NY,US,002873,193478,Middle States Commission on Higher Education
+002568,Niagara Co Cmty Coll,False,2568,Niagara County Community College,NY,US,Niagara County Community College,002874,NY,US,002874,193946,Middle States Commission on Higher Education
+002627,Onondaga Community College,False,2627,Onondaga Community College,NY,US,Onondaga Community College,002875,NY,US,002875,194222,Middle States Commission on Higher Education
+002640,Paul Smiths College,False,2640,Paul Smith's College,NY,US,Paul Smith'S College Of Arts And Sciences,002795,NY,US,,194392,Middle States Commission on Higher Education
+002642,Widener University,False,2642,Widener University,PA,US,"Widener University - Chester, PA",027032,PA,US,,216852,Middle States Commission on Higher Education
+002646,Bloomsburg Univ Pa,False,2646,Commonwealth University of Pennsylvania,PA,US,Bloomsburg University Of Pennsylvania,003315,PA,US,003315,211158,Middle States Commission on Higher Education
+002647,California Univ Pa,False,2647,Pennsylvania Western University,PA,US,"Pennsylvania Western University, California (Formerly California University Of Pennsylvania)",003316,PA,US,003316,211361,Middle States Commission on Higher Education
+002652,Indiana Uni Of Penna,False,2652,Indiana University of Pennsylvania,PA,US,Indiana University Of Pennsylvania - Armstrong County,004896,PA,US,,213020,Middle States Commission on Higher Education
+002659,West Chester Univ Pa,False,2659,West Chester University of Pennsylvania,PA,US,West Chester University Of Pennsylvania,003328,PA,US,003328,216764,Middle States Commission on Higher Education
+002660,Penn State Univ,False,2660,Penn State University Park,PA,US,Pennsylvania State University,003329,PA,US,003329,214777,Middle States Commission on Higher Education
+002669,Pratt Institute,False,2669,Pratt Institute,NY,US,Pratt Institute,002798,NY,US,002798,194578,Middle States Commission on Higher Education
+002688,American University in Dubai,False,2688,American University in Dubai,,AE,American University In Dubai,OS0029,OT,AE,,,
+002691,Borough Manhattn C C,False,2691,,,,"Itt Technical Institute - Arnold, MO (Closed 2016)",666033,MO,US,,434548,
+002736,Rutgers U Sch Arts,False,,,,,,,,,,,
+002743,Reading Area C C,False,2743,Reading Area Community College,PA,US,Reading Area Community College,010388,PA,US,010388,215585,Middle States Commission on Higher Education
+002758,Rider University,False,2758,Rider University,NJ,US,Rider University,002628,NJ,US,002628,186283,Middle States Commission on Higher Education
+002759,Roberts Wesleyan Col,False,2759,Roberts Wesleyan University,NY,US,Roberts Wesleyan College,002805,NY,US,002805,194958,Middle States Commission on Higher Education
+002760,Rochester Inst Tech,False,2760,Rochester Institute of Technology,NY,US,Rochester Institute Of Technology,002806,NY,US,002806,195003,Middle States Commission on Higher Education
+002778,Coll Staten Island,False,2778,City University of New York: College of Staten Island,NY,US,Cuny - College Of Staten Island,002698,NY,US,002698,190558,Middle States Commission on Higher Education
+002806,St Peters College,False,2806,Saint Peter's University,NJ,US,Saint Peter'S College,002638,NJ,US,002638,186432,Middle States Commission on Higher Education
+002811,Seton Hall Univ,False,2811,Seton Hall University,NJ,US,Immaculate Conception Seminary Of Seton Hall University,002611,NJ,US,002632,186584,Middle States Commission on Higher Education
+002823,Syracuse University,False,2823,Syracuse University,NY,US,Syracuse University,002882,NY,US,002882,196413,Middle States Commission on Higher Education
+002827,Suffolk Co Cc Ammrmn,False,2827,Suffolk County Community College,NY,US,Suffolk County Community College - Ammerman Campus / Seldon,002878,NY,US,029249,366395,Middle States Commission on Higher Education
+002848,Cleveland State Cc,False,2848,Cleveland State Community College,TN,US,Cleveland State Community College,003999,TN,US,003999,219879,Southern Association of Colleges and Schools Commission on Colleges
+002860,Georgia Northwestern TechinalCollege,False,2860,Northwestern Technical College,GA,US,Coosa Valley Technical College (Now Georgia Northwestern Technical College),004024,GA,US,,,
+002867,Raritan Vly Cmty Clg,False,2867,Raritan Valley Community College,NJ,US,Raritan Valley Community College,007731,NJ,US,007731,186645,Middle States Commission on Higher Education
+002904,Tompkins-Cortland Cc,False,2904,Tompkins Cortland Community College,NY,US,Tompkins Cortland Community College,006788,NY,US,006788,196565,Middle States Commission on Higher Education
+002906,Temple University,False,2906,Temple University,PA,US,Temple University,003371,PA,US,003371,216339,Middle States Commission on Higher Education
+002925,Suny Buffalo,False,2925,SUNY University at Buffalo,NY,US,University At Buffalo,002837,NY,US,,196088,Middle States Commission on Higher Education
+002926,Univ Of Pennsylvania,False,2926,University of Pennsylvania,PA,US,University Of Pennsylvania,003378,PA,US,003378,215062,Middle States Commission on Higher Education
+002927,Univ Pittsbrgh Pitts,False,2927,University of Pittsburgh,PA,US,University Of Pittsburgh - Pittsburgh,003380,PA,US,003379,215293,Middle States Commission on Higher Education
+002928,Univ Rochester,False,2928,University of Rochester,NY,US,University Of Rochester,002894,NY,US,002894,195030,Middle States Commission on Higher Education
+002938,Ulster Co Cmty Coll,False,2938,Ulster County Community College,NY,US,Suny - Ulster County Community College,002880,NY,US,002880,196699,Middle States Commission on Higher Education
+002940,Univ Pittsbrgh Gnstd,False,,,,,,,,,,,
+002954,University of North Carolina,False,,,,,,,,,,,
+002968,Westmoreland Co C C,False,2968,Westmoreland County Community College,PA,US,Westmoreland County Community College,010176,PA,US,010176,216825,Middle States Commission on Higher Education
+002971,Wells College,False,2971,Wells College,NY,US,Wells College,002901,NY,US,002901,197230,Middle States Commission on Higher Education
+002972,Westchester Cmty Col,False,2972,Westchester Community College,NY,US,Suny - Westchester Community College,002881,NY,US,002881,197294,Middle States Commission on Higher Education
+002974,Westminster Choir Co,False,,,,,,,,,,,
+003003,Amherst College,False,3003,Amherst College,MA,US,Amherst College,002115,MA,US,002115,164465,New England Commission on Higher Education
+003030,Ohio Christian University,False,,,,,,,,,,,
+003107,Berklee Coll Music,False,3107,Berklee College of Music,MA,US,Berklee College Of Music,002126,MA,US,002126,164748,New England Commission on Higher Education
+003224,Johnson & Wales University,False,,,,,,,,,,,
+003286,Comm Coll Of Vermont,False,3286,Community College of Vermont,VT,US,Community College Of Vermont,011167,VT,US,011167,230861,New England Commission on Higher Education
+003289,Cape Cod Cmty Coll,False,3289,Cape Cod Community College,MA,US,Cape Cod Community College,002168,MA,US,002168,165194,New England Commission on Higher Education
+003367,Emerson College,False,3367,Emerson College,MA,US,Emerson College,002146,MA,US,002146,165662,New England Commission on Higher Education
+003368,Emmanuel College,False,3368,Emmanuel College,MA,US,Emmanuel College (MA),002147,MA,US,002147,165671,New England Commission on Higher Education
+003369,Endicott College,False,3369,Endicott College,MA,US,Endicott College,002148,MA,US,002148,165699,New England Commission on Higher Education
+003404,Johnson & Wales University N Miami,False,3404,Beckfield College,KY,US,Beckfield College,034911,KY,US,,247065,Accrediting Bureau of Health Education Schools
+003408,Community College of Rhode Island,False,3408,Murray State University: Florence,KY,US,National College - Florence,666442,KY,US,,,
+003418,Green Mountain Coll,False,3418,Green Mountain College,VT,US,Green Mountain College,003687,VT,US,003687,230898,
+003420,Greenfield Cmty Coll,False,3420,Greenfield Community College,MA,US,Greenfield Community College,002169,MA,US,002169,165981,New England Commission on Higher Education
+003437,Holyoke Cmty College,False,3437,Holyoke Community College,MA,US,Holyoke Community College,002170,MA,US,002170,166133,New England Commission on Higher Education
+003440,Husson College,False,3440,Husson University,ME,US,Husson University,002043,ME,US,002043,161165,New England Commission on Higher Education
+003442,Harvard University,False,3442,,,,Harvard University Extension,012155,MA,US,002155,166027,New England Commission on Higher Education
+003465,Johnson & Wales Univ,False,3465,Johnson & Wales University: Providence,RI,US,"Johnson & Wales University - Providence, RI",027034,RI,US,003404,217235,New England Commission on Higher Education
+003483,Lesley College,False,3483,Lesley University,MA,US,Art Institute Of Boston - Lesley University,008174,MA,US,002160,166452,New England Commission on Higher Education
+003525,Merrimack College,False,3525,Merrimack College,MA,US,Merrimack College,002120,MA,US,002120,166850,New England Commission on Higher Education
+003528,Mitchell College,False,3528,Mitchell College,CT,US,Mitchell College,001393,CT,US,001393,129774,New England Commission on Higher Education
+003550,Naugatuck Vly C T C,False,3550,,,,Naugatuck Valley Community College,006982,CT,US,006982,129729,New England Commission on Higher Education
+003558,Three Rvrs Cmty Tech,False,3558,,,,Thames Valley State Technical College (Now Three Rivers Community College),001413,CT,US,,,
+003649,New Hampshire Coll,False,3649,Southern New Hampshire University,NH,US,Southern New Hampshire University,002580,NH,US,002580,183026,New England Commission on Higher Education
+003652,Nrthwstrn Ct C-Tech,False,3652,,,,Northwestern Connecticut Community College,001398,CT,US,001398,130040,New England Commission on Higher Education
+003657,New England College,False,3657,New England College,NH,US,New England College,002579,NH,US,002579,182980,New England Commission on Higher Education
+003691,Univ Southern Maine,False,3691,University of Southern Maine,ME,US,University Of Southern Maine,009762,ME,US,009762,161554,New England Commission on Higher Education
+003714,Quinsigamond C C,False,3714,Quinsigamond Community College,MA,US,Quinsigamond Community College,002175,MA,US,002175,167534,New England Commission on Higher Education
+003716,Quinebaug Vly Ctc,False,3716,,,,Quinebaug Valley Community College,010530,CT,US,010530,130217,New England Commission on Higher Education
+003724,Rhode Island College,False,3724,Rhode Island College,RI,US,Rhode Island College,003407,RI,US,003407,217420,New England Commission on Higher Education
+003730,Palo Alto College,False,3730,Palo Alto College,TX,US,Palo Alto College,023413,TX,US,023413,246354,Southern Association of Colleges and Schools Commission on Colleges
+003733,Cmty Coll Rhode Is,False,3733,Community College of Rhode Island,RI,US,Community College Of Rhode Island,003408,RI,US,003408,217475,New England Commission on Higher Education
+003771,Suffolk University,False,3771,Suffolk University,MA,US,Suffolk University,002218,MA,US,002218,168005,New England Commission on Higher Education
+003786,Univ Mass Dartmth,False,3786,University of Massachusetts Dartmouth,MA,US,Swain School Of Design (Now University Of Massachusetts Dartmouth),004665,MA,US,,,
+003810,Estrella Mountain Community College,False,3810,Estrella Mountain Community College,AZ,US,Estrella Mountain Community College,031563,AZ,US,,384333,Higher Learning Commission
+003834,Art Institute of Charlotte,False,3834,Art Institute of Charlotte,NC,US,Art Institute Of Charlotte,021105,NC,US,014578,197832,
+003856,American Institute of El Salvador,False,3856,Instituto Americano De Educacion Superior,,SV,,,,,,,
+003883,NorthCentral University,False,3883,Northcentral University,CA,US,Northcentral University,038133,AZ,US,,444130,Western Association of Schools and Colleges Senior Colleges and University Commission
+003897,Tunxis Community College,False,3897,,,,Tunxis Community College,009764,CT,US,009764,130606,New England Commission on Higher Education
+003911,Univ Mass Lowell,False,3911,University of Massachusetts Lowell,MA,US,University Of Massachusetts - Lowell,002161,MA,US,002161,166513,New England Commission on Higher Education
+003915,Univ Of Connecticut,False,3915,University of Connecticut,CT,US,University Of Connecticut,001417,CT,US,029013,129020,New England Commission on Higher Education
+003920,Univ Of Vermont,False,3920,University of Vermont,VT,US,University Of Vermont,003696,VT,US,003696,231174,New England Commission on Higher Education
+003924,Univ Mass Boston,False,3924,University of Massachusetts Boston,MA,US,University Of Massachusetts - Boston,002222,MA,US,002222,166638,New England Commission on Higher Education
+003929,Univ Maine Augusta,False,3929,University of Maine at Augusta,ME,US,University Of Maine - Augusta,006760,ME,US,006760,161217,New England Commission on Higher Education
+003964,Wheelock College,False,3964,,,,Wheelock College,002228,MA,US,002228,168290,New England Commission on Higher Education
+004001,Adams State Univeristy,False,4001,Adams State University,CO,US,Adams State College,001345,CO,US,001345,126182,Higher Learning Commission
+004004,American River Coll,False,4004,,,,American River College,001232,CA,US,009552,109208,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004019,Brigham Young U Ut,False,4019,Brigham Young University,UT,US,Brigham Young University,003670,UT,US,003670,230038,Northwest Commission on Colleges and Universities
+004021,Bethany College,False,4021,,,,Bethany University,001121,CA,US,001121,110051,
+004024,Big Bend Cmty Coll,False,4024,Big Bend Community College,WA,US,Big Bend Community College,003770,WA,US,003770,234711,Northwest Commission on Colleges and Universities
+004046,Chaffey Cmty College,False,4046,Chaffey College,CA,US,Chaffey College,001163,CA,US,001163,111939,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004047,Chapman University,False,4047,Chapman University,CA,US,Chapman University,004763,CA,US,001164,111948,Western Association of Schools and Colleges Senior Colleges and University Commission
+004052,City Coll San Frnsco,False,4052,City College of San Francisco,CA,US,City College Of San Francisco,001167,CA,US,001167,112190,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004065,Univ Pacific,False,4065,University of the Pacific,CA,US,University Of The Pacific,001329,CA,US,001329,120883,Western Association of Schools and Colleges Senior Colleges and University Commission
+004066,Soka University of America,False,4066,Soka University of America,CA,US,Soka University Of America,038144,CA,US,,399911,Western Association of Schools and Colleges Senior Colleges and University Commission
+004067,Univ Puget Sound,False,4067,University of Puget Sound,WA,US,University Of Puget Sound,003797,WA,US,003797,236328,Northwest Commission on Colleges and Universities
+004071,Coll Of The Sequoias,False,4071,College of the Sequoias,CA,US,College Of The Sequoias,001186,CA,US,001186,123217,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004074,Univ Nthrn Colorado,False,4074,University of Northern Colorado,CO,US,University Of Northern Colorado,001349,CO,US,001349,127741,Higher Learning Commission
+004075,Colorado St Univ,False,4075,Colorado State University,CO,US,Colorado State University - Fort Collins,001350,CO,US,001350,126818,Higher Learning Commission
+004085,Coll Desert,False,4085,College of the Desert,CA,US,College Of The Desert,001182,CA,US,001182,113573,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004090,Centrl Oregon C C,False,4090,Central Oregon Community College,OR,US,Central Oregon Community College,003188,OR,US,003188,208318,Northwest Commission on Colleges and Universities
+004094,Calif Baptist Coll,False,4094,California Baptist University,CA,US,California Baptist University,001125,CA,US,001125,110361,Western Association of Schools and Colleges Senior Colleges and University Commission
+004097,Cochise Coll,False,4097,Cochise College,AZ,US,Cochise College,001072,AZ,US,001072,104425,Higher Learning Commission
+004108,Columbia College,False,4108,Columbia College,CA,US,Columbia College (CA) - Sonora,007707,CA,US,007707,112561,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004112,Colorado Mt C Glnwds,False,4112,Colorado Mountain College,CO,US,Colorado Mountain College - Aspen,018191,CO,US,009007,126711,Higher Learning Commission
+004117,Coll Canyons,False,4117,College of the Canyons,CA,US,College Of The Canyons,008903,CA,US,008903,111461,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004121,Cosumnes River Coll,False,4121,Cosumnes River College,CA,US,Cosumnes River College,007536,CA,US,007536,113096,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004126,Crafton Hills Coll,False,4126,Crafton Hills College,CA,US,Crafton Hills College,009272,CA,US,009272,113111,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004136,C C Southern Nevada,False,4136,College of Southern Nevada,NV,US,College Of Southern Nevada,010362,NV,US,010362,182005,Northwest Commission on Colleges and Universities
+004283,Dixie College,False,4283,Dixie State University,UT,US,Utah Tech University,003671,UT,US,003671,230171,Northwest Commission on Colleges and Universities
+004291,Pikes Peak Cc,False,4291,Pikes Peak State College,CO,US,Pikes Peak Community College,008896,CO,US,008896,127820,Higher Learning Commission
+004299,Eastern Nm Univ Port,False,4299,Eastern New Mexico University,NM,US,Eastern New Mexico University - Clovis,010093,NM,US,,187648,Higher Learning Commission
+004331,Grand Canyon Univ,False,4331,Grand Canyon University,AZ,US,Grand Canyon University,001074,AZ,US,001074,104717,Higher Learning Commission
+004334,Grossmont Cmty Coll,False,4334,Grossmont College,CA,US,Grossmont College,001208,CA,US,001208,115296,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004338,Glendale C C Az,False,4338,Glendale Community College,AZ,US,Glendale Community College (AZ),001076,AZ,US,001076,104708,Higher Learning Commission
+004340,Hartnell College,False,4340,Hartnell College,CA,US,Hartnell College,001209,CA,US,001209,115393,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004352,Hawaii Pacific Univ,False,4352,Hawaii Pacific University,HI,US,Hawaii Loa College (Now Hawaii Pacific University),004548,HI,US,,,
+004360,Johnson and Wales University,False,4360,Johnson & Wales University: Charlotte,NC,US,"Johnson & Wales University - Charlotte, NC",666375,NC,US,,445708,New England Commission on Higher Education
+004365,Northern Virginia Community College,False,,,,,,,,,,,
+004381,University of La Verne,False,4381,University of La Verne,CA,US,University Of La Verne,001216,CA,US,001216,117140,Western Association of Schools and Colleges Senior Colleges and University Commission
+004384,Lewis & Clark Coll,False,4384,Lewis & Clark College,OR,US,Lewis And Clark College,003197,OR,US,003197,209056,Northwest Commission on Colleges and Universities
+004398,Los Angeles Pierce C,False,4398,Los Angeles Pierce College,CA,US,Los Angeles Pierce College,001226,CA,US,001226,117706,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004404,Los Angeles Missin C,False,4404,Los Angeles Mission College,CA,US,Los Angeles Mission College,012550,CA,US,012550,117867,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004409,Los Angeles Sw Coll,False,4409,Los Angeles Southwest College,CA,US,Los Angeles Southwest College,007047,CA,US,007047,117715,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004457,Fashn Inst Dsgn Mrch,False,4457,Fashion Institute of Design and Merchandising: Los Angeles,CA,US,Fashion Institute Of Design And Merchandizing - Los Angeles,011112,CA,US,,114354,Western Association of Schools and Colleges Senior Colleges and University Commission
+004484,Mesa State College,False,4484,Colorado Mesa University,CO,US,Colorado Mesa University,001358,CO,US,001358,127556,Higher Learning Commission
+004486,Modesto Jr College,False,4486,,,,Modesto Junior College,001240,CA,US,001240,118976,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004488,Montana State Univ,False,4488,Montana State University,MT,US,Montana State University - Bozeman,002532,MT,US,002532,180461,Northwest Commission on Colleges and Universities
+004489,Univ Montana,False,4489,University of Montana,MT,US,University Of Montana - Missoula,002536,MT,US,002536,180489,Northwest Commission on Colleges and Universities
+004512,Moorpark College,False,4512,Moorpark College,CA,US,Moorpark College,007115,CA,US,007115,119137,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004513,Mesa Cmty College,False,4513,Mesa Community College,AZ,US,Mesa Community College,001077,AZ,US,001077,105154,Higher Learning Commission
+004517,Mendocino College,False,4517,Mendocino College,CA,US,Mendocino College,011672,CA,US,011672,118684,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004531,New Mex St Univ U Pk,False,4531,New Mexico State University,NM,US,New Mexico State University - Albequerque,002657,NM,US,,188030,Higher Learning Commission
+004541,Northwest College,False,4541,Northwest University,WA,US,Northwest University,003783,WA,US,003783,236133,Northwest Commission on Colleges and Universities
+004582,Mira Costa College,False,4582,MiraCosta College,CA,US,Mira Costa College,001239,CA,US,,118912,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004585,Westrn Oregon St Clg,False,4585,Western Oregon University,OR,US,Western Oregon University,003209,OR,US,003209,210429,Northwest Commission on Colleges and Universities
+004586,Oregon St Univ,False,4586,Oregon State University,OR,US,Oregon State University,003210,OR,US,003210,209542,Northwest Commission on Colleges and Universities
+004588,Otero Jr College,False,4588,Otero Junior College,CO,US,Otero Junior College,001362,CO,US,001362,127778,Higher Learning Commission
+004602,Palomar College,False,4602,Palomar College,CA,US,Palomar College,001260,CA,US,001260,120971,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004604,Pasadena City Coll,False,4604,Pasadena City College,CA,US,Pasadena City College,001261,CA,US,001261,121044,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004610,Portland St Univ,False,4610,Portland State University,OR,US,Portland State University,003216,OR,US,003216,209807,Northwest Commission on Colleges and Universities
+004611,Colorado State University-Pueblo,False,4611,Colorado State University: Pueblo,CO,US,Colorado State University - Pueblo,001365,CO,US,001365,128106,Higher Learning Commission
+004617,Portland Cmty Coll,False,4617,Portland Community College,OR,US,Portland Community College,003213,OR,US,003213,209746,Northwest Commission on Colleges and Universities
+004623,Pima Community Coll,False,4623,Pima Community College,AZ,US,Pima Community College,007266,AZ,US,007266,105525,Higher Learning Commission
+004657,Ricks College,False,4657,Brigham Young University-Idaho,ID,US,Brigham Young University - Idaho,001625,ID,US,001625,142522,Northwest Commission on Colleges and Universities
+004658,Riverside Cmty Coll,False,4658,Riverside City College,CA,US,Riverside City College,001270,CA,US,001270,121901,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004659,Colorado Chr Univ,False,4659,Colorado Christian University,CO,US,Colorado Christian University,009401,CO,US,009401,126669,Higher Learning Commission
+004671,Cal St U Sacramento,False,4671,California State University: Sacramento,CA,US,California State University - Sacramento,001150,CA,US,001150,110617,Western Association of Schools and Colleges Senior Colleges and University Commission
+004681,San Diego City Coll,False,4681,San Diego County Community District City College,CA,US,San Diego City College,001273,CA,US,008895,122339,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004692,Santa Rosa Jr Coll,False,4692,Santa Rosa Junior College,CA,US,Santa Rosa Junior College,001287,CA,US,001287,123013,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004697,Sierra College,False,4697,Sierra College,CA,US,Sierra College,001290,CA,US,001290,123341,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004706,San Joaquin Delta Cl,False,4706,San Joaquin Delta College,CA,US,San Joaquin Delta College,001280,CA,US,001280,122658,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004723,Sonoma State Univ,False,4723,Sonoma State University,CA,US,Sonoma State University,001156,CA,US,001156,123572,Western Association of Schools and Colleges Senior Colleges and University Commission
+004732,San Juan College,False,4732,San Juan College,NM,US,San Juan College,002660,NM,US,002660,188100,Higher Learning Commission
+004734,South Mountain C C,False,4734,South Mountain Community College,AZ,US,South Mountain Community College,001080,AZ,US,021446,105792,Higher Learning Commission
+004737,St Johns College Nm,False,4737,St. John's College,NM,US,Saint John'S College (NM),002093,NM,US,,245652,Higher Learning Commission
+004755,Scottsdale Cmty Coll,False,4755,Scottsdale Community College,AZ,US,Scottsdale Community College,008304,AZ,US,008304,105747,Higher Learning Commission
+004820,Taft College,False,4820,Taft College,CA,US,Taft College,001309,CA,US,001309,124113,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004821,Trinidad St Jr Coll,False,4821,Trinidad State Junior College,CO,US,Trinidad State Junior College,001368,CO,US,001368,128258,Higher Learning Commission
+004835,Univ Calif Santa Bar,False,4835,University of California: Santa Barbara,CA,US,University Of California - Santa Barbara,001320,CA,US,001320,110705,Western Association of Schools and Colleges Senior Colleges and University Commission
+004836,Univ California Sn D,False,4836,University of California: San Diego,CA,US,Muir College,000120,CA,US,,,
+004841,Univ Colorado Bouldr,False,4841,University of Colorado Boulder,CO,US,University Of Colorado - Boulder,001370,CO,US,001370,126614,Higher Learning Commission
+004842,University Of Denver,False,4842,University of Denver,CO,US,University Of Denver,001371,CO,US,001371,127060,Higher Learning Commission
+004843,Univ Idaho,False,4843,University of Idaho,ID,US,University Of Idaho,001626,ID,US,001626,142285,Northwest Commission on Colleges and Universities
+004844,Univ Of Nevada Reno,False,4844,University of Nevada: Reno,NV,US,University Of Nevada - Reno,002568,NV,US,002568,182290,Northwest Commission on Colleges and Universities
+004845,Univ Of New Mexico,False,4845,University of New Mexico,NM,US,University Of New Mexico - Albuquerque,002663,NM,US,,248882,Higher Learning Commission
+004849,Univ Of San Diego,False,4849,University of San Diego,CA,US,University Of San Diego,010395,CA,US,010395,122436,Western Association of Schools and Colleges Senior Colleges and University Commission
+004854,Univ Washington,False,4854,University of Washington,WA,US,University Of Washington - Bothell Campus/Seattle Campus/Tacoma Campus,003798,WA,US,,377555,Northwest Commission on Colleges and Universities
+004855,University Wyoming,False,4855,University of Wyoming,WY,US,University Of Wyoming,003932,WY,US,003932,240727,Higher Learning Commission
+004857,Utah St Univ,False,4857,Utah State University,UT,US,Utah State University,003677,UT,US,003677,230728,Northwest Commission on Colleges and Universities
+004860,Univ Calif Santa Crz,False,4860,University of California: Santa Cruz,CA,US,University Of California - Santa Cruz,001321,CA,US,001321,110714,Western Association of Schools and Colleges Senior Colleges and University Commission
+004861,Univ Nevada Lasvegas,False,4861,University of Nevada: Las Vegas,NV,US,University Of Nevada - Las Vegas,002569,NV,US,002569,182281,Northwest Commission on Colleges and Universities
+004864,Salt Lake Cmty Coll,False,4864,Salt Lake Community College,UT,US,Salt Lake Community College,605220,UT,US,005220,230746,Northwest Commission on Colleges and Universities
+004866,University of Alaska (Fairbanks),False,4866,University of Alaska Fairbanks,AK,US,University Of Alaska - Fairbanks,001063,AK,US,001063,102614,Northwest Commission on Colleges and Universities
+004867,Univ Hawaii At Manoa,False,4867,University of Hawaii at Manoa,HI,US,University Of Hawaii - Manoa,001610,HI,US,001610,141574,Western Association of Schools and Colleges Senior Colleges and University Commission
+004874,Univ Colo Colo Sprgs,False,4874,University of Colorado Colorado Springs,CO,US,Bethel College Of Nursing (Now University Of Colorado Colorado Springs),006175,CO,US,,,
+004875,Univ Colorado Denver,False,4875,University of Colorado Denver,CO,US,Colorado School Of Public Health (Now Cu Denver),012339,CO,US,,,
+004930,Solano Cmty College,False,4930,Solano Community College,CA,US,Solano Community College,001292,CA,US,001292,123563,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004941,Weber St Univ,False,4941,Weber State University,UT,US,Weber State University,003680,UT,US,003680,230782,Northwest Commission on Colleges and Universities
+004945,Westrn Montana Coll,False,4945,University of Montana: Western,MT,US,University Of Montana Western,002537,MT,US,002537,180692,Northwest Commission on Colleges and Universities
+004948,Westminster Coll Slc,False,4948,Westminster College,UT,US,Westminster College (UT),003681,UT,US,003681,230807,Northwest Commission on Colleges and Universities
+004953,Whitworth College,False,4953,Whitworth University,WA,US,Whitworth University,003804,WA,US,003804,237066,Northwest Commission on Colleges and Universities
+004955,Woodbury University,False,4955,Woodbury University,CA,US,Woodbury University,001343,CA,US,001343,125897,Western Association of Schools and Colleges Senior Colleges and University Commission
+004958,West Valley Coll,False,4958,West Valley College,CA,US,West Valley College,001338,CA,US,001338,125499,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
+004987,American Armn Intl C,False,,,,,,,,,,,
+005001,Abraham Baldwin Coll,False,5001,Abraham Baldwin Agricultural College,GA,US,Abraham Baldwin Agricultural College,001541,GA,US,001541,138558,Southern Association of Colleges and Schools Commission on Colleges
+005002,Agnes Scott College,False,5002,Agnes Scott College,GA,US,Agnes Scott College,001542,GA,US,001542,138600,Southern Association of Colleges and Schools Commission on Colleges
+005003,North Car Agr T St U,False,5003,North Carolina Agricultural and Technical State University,NC,US,North Carolina Agricultural And Technical State University,002905,NC,US,002905,199102,Southern Association of Colleges and Schools Commission on Colleges
+005005,Alderson-Broaddus College,False,5005,Alderson-Broaddus University,WV,US,Alderson-Broaddus University,003806,WV,US,003806,237118,Higher Learning Commission
+005006,Allen University,False,5006,Allen University,SC,US,Allen University,003417,SC,US,003417,217624,Southern Association of Colleges and Schools Commission on Colleges
+005008,Anderson University,False,5008,Anderson University,SC,US,Anderson University (SC),003418,SC,US,001785,150066,Higher Learning Commission
+005009,Andrew College,False,5009,Andrew College,GA,US,Andrew College,001545,GA,US,001545,138761,Southern Association of Colleges and Schools Commission on Colleges
+005010,Appalachian St Univ,False,5010,Appalachian State University,NC,US,Appalachian State University,002906,NC,US,002906,197869,Southern Association of Colleges and Schools Commission on Colleges
+005013,University of North Carolina Asheville,False,5013,University of North Carolina at Asheville,NC,US,University Of North Carolina - Asheville,002907,NC,US,002907,199111,Southern Association of Colleges and Schools Commission on Colleges
+005019,Anne Arundel C C,False,5019,Anne Arundel Community College,MD,US,Anne Arundel Community College,002058,MD,US,002058,161767,Middle States Commission on Higher Education
+005026,Darton College,False,5026,Darton State College,GA,US,Darton College,001543,GA,US,001543,138691,Southern Association of Colleges and Schools Commission on Colleges
+005032,Tidewater Community College,False,,,,,,,,,,,
+005033,Asheville Buncombe Tech,False,5033,Asheville-Buncombe Technical Community College,NC,US,Asheville - Buncombe Technical Community College,004033,NC,US,004033,197887,Southern Association of Colleges and Schools Commission on Colleges
+005036,"Broward Community College, Central",False,5036,Embry-Riddle Aeronautical University: Worldwide Campus,FL,US,Embry-Riddle Aeronautical University - Worldwide/Online (Florida),666089,FL,US,,426314,Southern Association of Colleges and Schools Commission on Colleges
+005037,Aiken Technical College,False,5037,Aiken Technical College,SC,US,Aiken Technical College,010056,SC,US,010056,217615,Southern Association of Colleges and Schools Commission on Colleges
+005047,Technical College of the Lowcountry,False,5047,Technical College of the Lowcountry,SC,US,Technical College Of The Low Country,009910,SC,US,,,Southern Association of Colleges and Schools Commission on Colleges
+005049,Trident Tech Coll N,False,5049,Trident Technical College,SC,US,Trident Technical College - Berkeley,004921,SC,US,008818,218894,Southern Association of Colleges and Schools Commission on Colleges
+005051,Baltimore City Cc,False,5051,Baltimore City Community College,MD,US,Baltimore City Community College,002061,MD,US,023148,161882,Middle States Commission on Higher Education
+005055,Belmont Abbey Coll,False,5055,Belmont Abbey College,NC,US,Belmont Abbey College,002910,NC,US,002910,197984,Southern Association of Colleges and Schools Commission on Colleges
+005056,Benedict College,False,5056,Benedict College,SC,US,Benedict College,003420,SC,US,003420,217721,Southern Association of Colleges and Schools Commission on Colleges
+005058,Bennett College Nc,False,5058,Bennett College for Women,NC,US,Bennett College,002911,NC,US,002911,197993,Southern Association of Colleges and Schools Commission on Colleges
+005064,Bluefield St Coll,False,5064,Bluefield State College,WV,US,Bluefield State College,003809,WV,US,003809,237215,Higher Learning Commission
+005065,Bob Jones University,False,5065,Bob Jones University,SC,US,Bob Jones University,003421,SC,US,,217749,Southern Association of Colleges and Schools Commission on Colleges
+005066,Brenau Univ,False,5066,Brenau University,GA,US,Brenau University,001556,GA,US,001556,139199,Southern Association of Colleges and Schools Commission on Colleges
+005067,Brevard College,False,5067,Brevard College,NC,US,Brevard College,002912,NC,US,002912,198066,Southern Association of Colleges and Schools Commission on Colleges
+005069,Bridgewater Coll,False,5069,Bridgewater College,VA,US,Bridgewater College,003704,VA,US,003704,231581,Southern Association of Colleges and Schools Commission on Colleges
+005070,Bauder College,False,5070,,,,Bauder College,011574,GA,US,011574,139074,Southern Association of Colleges and Schools Commission on Colleges
+005073,Eastern Florida State College,False,5073,Eastern Florida State College,FL,US,Eastern Florida State College,001470,FL,US,,132693,Southern Association of Colleges and Schools Commission on Colleges
+005074,Broward Cc Ft Lauder,False,5074,Broward College,FL,US,Broward College,001500,FL,US,001500,132709,Southern Association of Colleges and Schools Commission on Colleges
+005079,Charleston Southern Univ,False,5079,Charleston Southern University,SC,US,Charleston Southern University,003419,SC,US,003419,217688,Southern Association of Colleges and Schools Commission on Colleges
+005083,Blue Ridge Cmty Coll,False,5083,Blue Ridge Community College,VA,US,Blue Ridge Community College - Weyers Cave,006819,VA,US,,231536,Southern Association of Colleges and Schools Commission on Colleges
+005094,Cape Fear Cmty Coll,False,5094,Cape Fear Community College,NC,US,Cape Fear Community College,005320,NC,US,005320,198154,Southern Association of Colleges and Schools Commission on Colleges
+005095,Northeastern Technical College,False,5095,Northeastern Technical College,SC,US,Northeastern Technical College,007602,SC,US,007602,217837,Southern Association of Colleges and Schools Commission on Colleges
+005098,Catawba Vly Cmty Clg,False,5098,Catawba Valley Community College,NC,US,Catawba Valley Community College,005318,NC,US,005318,198233,Southern Association of Colleges and Schools Commission on Colleges
+005100,Campbell University,False,5100,Campbell University,NC,US,Campbell University,002913,NC,US,002913,198136,Southern Association of Colleges and Schools Commission on Colleges
+005102,Central Piedmont C C,False,5102,Central Piedmont Community College,NC,US,Central Piedmont Community College,002915,NC,US,002915,198260,Southern Association of Colleges and Schools Commission on Colleges
+005105,"UNC-Charlotte, UG Admissions",False,5105,University of North Carolina at Charlotte,NC,US,University Of North Carolina - Charlotte,002975,NC,US,002975,199139,Southern Association of Colleges and Schools Commission on Colleges
+005107,Chowan College,False,5107,Chowan University,NC,US,Chowan University,002916,NC,US,002916,198303,Southern Association of Colleges and Schools Commission on Colleges
+005108,Citadel The,False,5108,The Citadel,SC,US,Citadel Military College Of South Carolina,003423,SC,US,003423,217864,Southern Association of Colleges and Schools Commission on Colleges
+005109,Claflin University,False,5109,Claflin University,SC,US,Claflin University,003424,SC,US,003424,217873,Southern Association of Colleges and Schools Commission on Colleges
+005110,Clark Atlanta Univ,False,5110,Clark Atlanta University,GA,US,Atlanta University (Now Clark Atlanta University),001551,GA,US,,138947,Southern Association of Colleges and Schools Commission on Colleges
+005111,Clemson University,False,5111,Clemson University,SC,US,Clemson University,003425,SC,US,003425,217882,Southern Association of Colleges and Schools Commission on Colleges
+005112,Coker College,False,5112,Coker College,SC,US,Coker College,003427,SC,US,003427,217907,Southern Association of Colleges and Schools Commission on Colleges
+005113,College Of Charleston,False,5113,College of Charleston,SC,US,College Of Charleston,003428,SC,US,003428,217819,Southern Association of Colleges and Schools Commission on Colleges
+005115,Coll William Mary Va,False,5115,College of William and Mary,VA,US,College Of William And Mary,003705,VA,US,003705,231624,Southern Association of Colleges and Schools Commission on Colleges
+005116,Columbia Interntl U,False,5116,Columbia International University,SC,US,Columbia International University,003429,SC,US,003429,217925,Southern Association of Colleges and Schools Commission on Colleges
+005117,Columbia College Sc,False,5117,Columbia College,SC,US,Columbia College (SC),003430,SC,US,,217934,Southern Association of Colleges and Schools Commission on Colleges
+005123,Columbus State University,False,5123,Columbus State University,GA,US,Columbus State University,001561,GA,US,001561,139366,Southern Association of Colleges and Schools Commission on Colleges
+005126,Old Dominion Univ,False,5126,Old Dominion University,VA,US,Old Dominion University,003728,VA,US,003728,232982,Southern Association of Colleges and Schools Commission on Colleges
+005127,Centrl Florida C C,False,5127,College of Central Florida,FL,US,Central Florida College,022455,FL,US,001471,132851,Southern Association of Colleges and Schools Commission on Colleges
+005134,Coastal Carolina C C,False,5134,Coastal Carolina Community College,NC,US,Coastal Carolina Community College,008084,NC,US,008084,198330,Southern Association of Colleges and Schools Commission on Colleges
+005139,Dabney Lancaster Cmty College,False,5139,Dabney S. Lancaster Community College,VA,US,Mountain Gateway Community College,004996,VA,US,004996,231873,Southern Association of Colleges and Schools Commission on Colleges
+005140,Cleveland Community College,False,5140,Cleveland Community College,NC,US,Cleveland Community College,008082,NC,US,008082,198321,Southern Association of Colleges and Schools Commission on Colleges
+005141,Centrl Virginia C C,False,5141,Central Virginia Community College,VA,US,Central Virginia Community College,004988,VA,US,004988,231697,Southern Association of Colleges and Schools Commission on Colleges
+005142,Clearwater Christn C,False,5142,,,,Clearwater Christian College,001473,FL,US,001473,133085,
+005144,College of Southern Maryland,False,5144,College of Southern Maryland,MD,US,College Of Southern Maryland,002064,MD,US,002064,162122,Middle States Commission on Higher Education
+005146,Caldwell C C Tech In,False,5146,Caldwell Community College and Technical Institute,NC,US,Caldwell Community College And Technical Institute,004835,NC,US,004835,198118,Southern Association of Colleges and Schools Commission on Colleges
+005147,Centrl Caro Comm Col,False,5147,Central Carolina Community College,NC,US,Central Carolina Community College,005449,NC,US,005449,198251,Southern Association of Colleges and Schools Commission on Colleges
+005148,Craven Cmty Coll,False,5148,Craven Community College,NC,US,Craven Community College,008086,NC,US,008086,198367,Southern Association of Colleges and Schools Commission on Colleges
+005159,Daytona State College,False,5159,Daytona State College,FL,US,Daytona State College,001475,FL,US,001475,133386,Southern Association of Colleges and Schools Commission on Colleges
+005163,Danville Cmty Coll,False,5163,Danville Community College,VA,US,Danville Community College,003758,VA,US,003758,231882,Southern Association of Colleges and Schools Commission on Colleges
+005167,Dalton College,False,5167,Dalton State College,GA,US,Dalton State College,003956,GA,US,003956,139463,Southern Association of Colleges and Schools Commission on Colleges
+005170,Davidson-Davie Community College,False,5170,Davidson-Davie Community College,NC,US,Davidson County Community College,002919,NC,US,002919,198376,Southern Association of Colleges and Schools Commission on Colleges
+005180,East Carolina Univ,False,5180,East Carolina University,NC,US,East Carolina University,002923,NC,US,002923,198464,Southern Association of Colleges and Schools Commission on Colleges
+005183,Elon University,False,5183,Elon University,NC,US,Elon University,002927,NC,US,002927,198516,Southern Association of Colleges and Schools Commission on Colleges
+005184,Emmanuel Coll Ga,False,5184,Emmanuel College,GA,US,Emmanuel College (GA),001563,GA,US,,139630,Southern Association of Colleges and Schools Commission on Colleges
+005187,Emory U,False,5187,Emory University,GA,US,Emory University,001564,GA,US,001564,139658,Southern Association of Colleges and Schools Commission on Colleges
+005188,Erskine College,False,5188,Erskine College,SC,US,Erskine College,003432,SC,US,003432,217998,Southern Association of Colleges and Schools Commission on Colleges
+005190,Embry-Riddle Aero Un,False,5190,Embry-Riddle Aeronautical University: Daytona Beach Campus,FL,US,Embry-Riddle Aeronautical University - Daytona Beach,001479,FL,US,001479,133553,Southern Association of Colleges and Schools Commission on Colleges
+005191,Edison Cmty Coll,False,5191,Florida SouthWestern State College,FL,US,Florida Southwestern State College,001477,FL,US,001477,133508,Southern Association of Colleges and Schools Commission on Colleges
+005192,Essex Cmty Coll,False,,,,,,,,,,,
+005200,East Georgia College,False,5200,East Georgia State College,GA,US,East Georgia College,010997,GA,US,010997,139621,Southern Association of Colleges and Schools Commission on Colleges
+005206,Florida Internationl,False,5206,Florida International University,FL,US,Florida International University,009635,FL,US,009635,133951,Southern Association of Colleges and Schools Commission on Colleges
+005207,Florence-Darlington TechnicalCollege,False,5207,Florence-Darlington Technical College,SC,US,Florence-Darlington Technical College,003990,SC,US,003990,218025,Southern Association of Colleges and Schools Commission on Colleges
+005208,Fayetteville Tech Cc,False,5208,Fayetteville Technical Community College,NC,US,Fayetteville Technical Community College,007640,NC,US,007640,198534,Southern Association of Colleges and Schools Commission on Colleges
+005209,Florida Bapt Theo C,False,5209,Baptist College of Florida,FL,US,Baptist College Of Florida,021596,FL,US,021596,132408,Southern Association of Colleges and Schools Commission on Colleges
+005212,Fayetteville St Univ,False,5212,Fayetteville State University,NC,US,Fayetteville State University,002928,NC,US,002928,198543,Southern Association of Colleges and Schools Commission on Colleges
+005218,Florida Southern Col,False,5218,Florida Southern College,FL,US,Florida Southern College,001488,FL,US,001488,134079,Southern Association of Colleges and Schools Commission on Colleges
+005219,Florida State Univ,False,5219,Florida State University,FL,US,Florida State University,001489,FL,US,001489,134097,Southern Association of Colleges and Schools Commission on Colleges
+005220,Fort Valley St Coll,False,5220,Fort Valley State University,GA,US,Fort Valley State University,001566,GA,US,001566,139719,Southern Association of Colleges and Schools Commission on Colleges
+005221,Florida Gulf Coast U,False,5221,Florida Gulf Coast University,FL,US,Florida Gulf Coast University,009842,FL,US,,433660,Southern Association of Colleges and Schools Commission on Colleges
+005222,Furman University,False,5222,Furman University,SC,US,Furman University,003434,SC,US,003434,218070,Southern Association of Colleges and Schools Commission on Colleges
+005223,Eckerd College,False,5223,Eckerd College,FL,US,Eckerd College,001487,FL,US,001487,133492,Southern Association of Colleges and Schools Commission on Colleges
+005226,Tidewater Cc Portsmt,False,5226,Tidewater Community College,VA,US,Tidewater Community College,003712,VA,US,003712,233772,Southern Association of Colleges and Schools Commission on Colleges
+005229,Florida Atlantic Unv,False,5229,Florida Atlantic University,FL,US,Florida Atlantic University,001481,FL,US,001481,133669,Southern Association of Colleges and Schools Commission on Colleges
+005230,Frederick Cmty Coll,False,5230,Frederick Community College,MD,US,Frederick Community College,002071,MD,US,002071,162557,Middle States Commission on Higher Education
+005232,Florida State College at Jacksonville,False,5232,Florida State College at Jacksonville,FL,US,Florida State College - Jacksonville,001484,FL,US,001484,133702,Southern Association of Colleges and Schools Commission on Colleges
+005233,University of Central Florida,False,5233,University of Central Florida,FL,US,University Of Central Florida,003954,FL,US,003954,132903,Southern Association of Colleges and Schools Commission on Colleges
+005234,Forsyth Tech Cmty Co,False,5234,Forsyth Technical Community College,NC,US,Forsyth Technical Community College,005317,NC,US,005317,198552,Southern Association of Colleges and Schools Commission on Colleges
+005235,Flagler College,False,5235,Flagler College,FL,US,Flagler College,007893,FL,US,,133711,Southern Association of Colleges and Schools Commission on Colleges
+005236,Florida Keys C C,False,5236,Florida Keys Community College,FL,US,Florida Keys Community College,001485,FL,US,001485,133960,Southern Association of Colleges and Schools Commission on Colleges
+005237,Floyd College,False,5237,Georgia Highlands College,GA,US,Georgia Highlands College,009507,GA,US,009507,139700,Southern Association of Colleges and Schools Commission on Colleges
+005240,Gallaudet University,False,5240,Gallaudet University,DC,US,Gallaudet University,001443,DC,US,001443,131450,Middle States Commission on Higher Education
+005242,Gardner Webb Univ,False,5242,Gardner-Webb University,NC,US,Gardner-Webb University,002929,NC,US,002929,198561,Southern Association of Colleges and Schools Commission on Colleges
+005244,Georgetown Univ,False,5244,Georgetown University,DC,US,Georgetown University,001445,DC,US,001445,131496,Middle States Commission on Higher Education
+005246,George Washington U,False,5246,George Washington University,DC,US,George Washington University,001444,DC,US,001444,131469,Middle States Commission on Higher Education
+005249,Georgia Military Col,False,5249,Georgia Military College,GA,US,Georgia Military College,001571,GA,US,,423476,Southern Association of Colleges and Schools Commission on Colleges
+005251,Georgia St Univ,False,5251,Georgia State University,GA,US,Georgia State University,001574,GA,US,001574,139940,Southern Association of Colleges and Schools Commission on Colleges
+005252,Georgia College,False,5252,Georgia College and State University,GA,US,Georgia College And State University,001602,GA,US,001602,139861,Southern Association of Colleges and Schools Commission on Colleges
+005253,Georgia Sthrn Univ,False,5253,Georgia Southern University,GA,US,Georgia Southern University,001572,GA,US,001572,139931,Southern Association of Colleges and Schools Commission on Colleges
+005257,Goucher College,False,5257,Goucher College,MD,US,Goucher College,002073,MD,US,002073,162654,Middle States Commission on Higher Education
+005262,Gaston College,False,5262,Gaston College,NC,US,Gaston College,002973,NC,US,002973,198570,Southern Association of Colleges and Schools Commission on Colleges
+005271,Gulf Coast Cmty Coll,False,5271,Gulf Coast State College,FL,US,Gulf Coast State College,001490,FL,US,001490,134343,Southern Association of Colleges and Schools Commission on Colleges
+005275,Guilford Tech Cmty C,False,5275,Guilford Technical Community College,NC,US,Guilford Technical Community College,004838,NC,US,004838,198622,Southern Association of Colleges and Schools Commission on Colleges
+005278,Greenville Technical College,False,5278,Greenville Technical College,SC,US,Greenville Technical College,003991,SC,US,003991,218113,Southern Association of Colleges and Schools Commission on Colleges
+005289,Haywood Cmty College,False,5289,Haywood Community College,NC,US,Haywood Community College,008083,NC,US,008083,198668,Southern Association of Colleges and Schools Commission on Colleges
+005293,High Point Univ,False,5293,High Point University,NC,US,High Point University,002933,NC,US,002933,198695,Southern Association of Colleges and Schools Commission on Colleges
+005294,Hollins University,False,5294,Hollins University,VA,US,Hollins University,003715,VA,US,003715,232308,Southern Association of Colleges and Schools Commission on Colleges
+005304,Hillsborough C C,False,5304,Hillsborough Community College,FL,US,Hillsborough Community College,007870,FL,US,007870,134495,Southern Association of Colleges and Schools Commission on Colleges
+005305,Horry-Georgetown Tech College,False,5305,Horry-Georgetown Technical College,SC,US,Horry-Georgetown Technical College,004925,SC,US,004925,218140,Southern Association of Colleges and Schools Commission on Colleges
+005308,Howard Cmty College,False,5308,Howard Community College,MD,US,Howard Community College,008175,MD,US,008175,162779,Middle States Commission on Higher Education
+005319,Isothermal Comm College,False,5319,Isothermal Community College,NC,US,Isothermal Community College,002934,NC,US,002934,198710,Southern Association of Colleges and Schools Commission on Colleges
+005322,Indian River State College,False,5322,Indian River State College,FL,US,Indian River State College,001493,FL,US,001493,134608,Southern Association of Colleges and Schools Commission on Colleges
+005327,Intrnatl Fine Arts C,False,5327,Miami International University of Art and Design,FL,US,Miami International University Of Art And Design,008878,FL,US,,134811,Southern Association of Colleges and Schools Commission on Colleges
+005333,Johnson C Smith Univ,False,5333,Johnson C. Smith University,NC,US,Johnson C. Smith University,002936,NC,US,002936,198756,Southern Association of Colleges and Schools Commission on Colleges
+005336,Augusta College,False,,,,,,,,,,,
+005342,John Tyler Cmty Coll,False,5342,Brightpoint Community College,VA,US,Brightpoint Community College,004004,VA,US,004004,232450,Southern Association of Colleges and Schools Commission on Colleges
+005347,J Sargent Reynolds Cmty Coll,False,5347,Nile Academy for Science,,EG,,,,,,,
+005359,Kennesaw State University,False,5359,Kennesaw State University,GA,US,Kennesaw State University,001577,GA,US,001577,140164,Southern Association of Colleges and Schools Commission on Colleges
+005363,Lander University,False,5363,Lander University,SC,US,Lander University,003435,SC,US,003435,218229,Southern Association of Colleges and Schools Commission on Colleges
+005364,Lees-McRae College,False,5364,Lees-McRae College,NC,US,Lees-Mcrae College,002939,NC,US,002939,198808,Southern Association of Colleges and Schools Commission on Colleges
+005365,Lenoir-Rhyne College,False,5365,Lenoir-Rhyne University,NC,US,Lenoir-Rhyne University,002941,NC,US,002941,198835,Southern Association of Colleges and Schools Commission on Colleges
+005366,Limestone College,False,5366,Limestone University,SC,US,Limestone University,003436,SC,US,003436,218238,Southern Association of Colleges and Schools Commission on Colleges
+005369,Louisburg College,False,5369,Louisburg College,NC,US,Louisburg College,002943,NC,US,002943,198871,Southern Association of Colleges and Schools Commission on Colleges
+005370,Loyola College,False,5370,Loyola University Maryland,MD,US,Loyola University Maryland,002078,MD,US,002078,163046,Middle States Commission on Higher Education
+005376,Lake- Sumter State College,False,5376,Lake-Sumter State College,FL,US,Lake-Sumter State College,001502,FL,US,001502,135188,Southern Association of Colleges and Schools Commission on Colleges
+005377,Florida Gateway College,False,5377,Florida Gateway College,FL,US,Florida Gateway College,001501,FL,US,001501,135160,Southern Association of Colleges and Schools Commission on Colleges
+005378,Lenoir Cmty College,False,5378,Lenoir Community College,NC,US,Lenoir Community College,002940,NC,US,002940,198817,Southern Association of Colleges and Schools Commission on Colleges
+005381,Lord Fairfax C C,False,5381,Lord Fairfax Community College,VA,US,Laurel Ridge Community College,008659,VA,US,008659,232575,Southern Association of Colleges and Schools Commission on Colleges
+005385,Liberty University,False,5385,Liberty University,VA,US,Liberty University,010392,VA,US,010392,232557,Southern Association of Colleges and Schools Commission on Colleges
+005392,James Madison Univ,False,5392,James Madison University,VA,US,James Madison University,003721,VA,US,003721,232423,Southern Association of Colleges and Schools Commission on Colleges
+005395,Mars Hill University,False,5395,Mars Hill University,NC,US,Mars Hill College,002944,NC,US,002944,198899,Southern Association of Colleges and Schools Commission on Colleges
+005396,Marshall University,False,5396,Marshall University,WV,US,Marshall University,003815,WV,US,003815,237525,Higher Learning Commission
+005397,Mary Baldwin College,False,5397,Mary Baldwin University,VA,US,Mary Baldwin College,003723,VA,US,003723,232672,Southern Association of Colleges and Schools Commission on Colleges
+005399,Maryland Inst C Art,False,5399,Maryland Institute College of Art,MD,US,Maryland Institute College Of Art,002080,MD,US,002080,163295,Middle States Commission on Higher Education
+005407,Medical Univ S C,False,5407,Medical University of South Carolina,SC,US,Medical University Of South Carolina,003438,SC,US,003438,218335,Southern Association of Colleges and Schools Commission on Colleges
+005409,Mercer Univ Macon,False,5409,Mercer University,GA,US,Mercer University - Macon,001580,GA,US,001580,140447,Southern Association of Colleges and Schools Commission on Colleges
+005410,Meredith College,False,5410,Meredith College,NC,US,Meredith College,002945,NC,US,002945,198950,Southern Association of Colleges and Schools Commission on Colleges
+005411,Middle Georgia Coll,False,5411,Middle Georgia State University,GA,US,Middle Georgia College (Now Part Of Middle Georgia State College),001581,GA,US,001581,140483,Southern Association of Colleges and Schools Commission on Colleges
+005412,Mitchell Cmty Coll,False,5412,Mitchell Community College,NC,US,Mitchell Community College,002947,NC,US,002947,198987,Southern Association of Colleges and Schools Commission on Colleges
+005418,Morris College,False,5418,Morris College,SC,US,Morris College,003439,SC,US,003439,218399,Southern Association of Colleges and Schools Commission on Colleges
+005419,Univ Of Charleston,False,5419,University of Charleston,WV,US,University Of Charleston,003818,WV,US,003818,237312,Higher Learning Commission
+005423,Montreat College,False,5423,Montreat College,NC,US,Montreat College,002948,NC,US,002948,199032,Southern Association of Colleges and Schools Commission on Colleges
+005427,State College of Florida-Bradenton,False,5427,"State College of Florida, Manatee-Sarasota",FL,US,Manatee Technical Institute,005612,FL,US,015496,135407,Council on Occupational Education
+005429,Art Institute Atlnta,False,5429,,,,Art Institute Of Atlanta,009270,GA,US,009270,138813,Southern Association of Colleges and Schools Commission on Colleges
+005439,Macon College,False,5439,,,,Macon State College (Now Part Of Middle Georgia State College),007728,GA,US,007728,140322,Southern Association of Colleges and Schools Commission on Colleges
+005440,Montgry Coll Rckvlle,False,5440,Montgomery College Rockville,MD,US,Montgomery College - Rockville,002082,MD,US,002082,163426,Middle States Commission on Higher Education
+005441,Chattahoochee Tech I,False,5441,Chattahoochee Technical College: Marietta,GA,US,Chattahoochee Technical College,005620,GA,US,005620,140331,Southern Association of Colleges and Schools Commission on Colleges
+005442,Francis Marion Univ - Admissions,False,5442,Francis Marion University,SC,US,Francis Marion University,009226,SC,US,009226,218061,Southern Association of Colleges and Schools Commission on Colleges
+005465,Miami-Dade Comm Coll,False,,,,,,,,,,,
+005487,Owens Cmty Coll,False,5487,Owens Community College: Findlay,OH,US,Owens Community College - Findlay Campus,005755,OH,US,005753,204945,Higher Learning Commission
+005490,Univ North Florida,False,5490,University of North Florida,FL,US,University Of North Florida,009841,FL,US,009841,136172,Southern Association of Colleges and Schools Commission on Colleges
+005493,Newberry College,False,5493,Newberry College,SC,US,Newberry College,003440,SC,US,003440,218414,Southern Association of Colleges and Schools Commission on Colleges
+005496,North Carolina St U,False,5496,North Carolina State University,NC,US,North Carolina State University,002972,NC,US,002972,199193,Southern Association of Colleges and Schools Commission on Colleges
+005498,North Greenville University,False,5498,North Greenville University,SC,US,North Greenville University,003441,SC,US,003441,218441,Southern Association of Colleges and Schools Commission on Colleges
+005501,N C Wesleyan Coll,False,5501,North Carolina Wesleyan College,NC,US,North Carolina Wesleyan College,002951,NC,US,002951,199209,Southern Association of Colleges and Schools Commission on Colleges
+005507,North Georgia T V Sc,False,5507,North Georgia Technical College,GA,US,North Georgia Technical College,005619,GA,US,,140678,Southern Association of Colleges and Schools Commission on Colleges
+005513,New River Cmty Coll,False,5513,New River Community College,VA,US,New River Community College,005223,VA,US,005223,232867,Southern Association of Colleges and Schools Commission on Colleges
+005514,Nova Southeastern U,False,5514,Nova Southeastern University,FL,US,Nova Southeastern University,001509,FL,US,001509,136215,Southern Association of Colleges and Schools Commission on Colleges
+005515,Northrn Virg Cc Anan,False,5515,Northern Virginia Community College,VA,US,Northern Virginia Community College,003727,VA,US,003727,232946,Southern Association of Colleges and Schools Commission on Colleges
+005518,Piedmont Comm Coll,False,5518,Piedmont Community College,NC,US,Piedmont Community College,009646,NC,US,009646,199324,Southern Association of Colleges and Schools Commission on Colleges
+005521,Oglethorpe Univ,False,5521,Oglethorpe University,GA,US,Oglethorpe University,001586,GA,US,001586,140696,Southern Association of Colleges and Schools Commission on Colleges
+005526,Okaloosa-Walton C C,False,5526,Northwest Florida State College,FL,US,Northwest Florida State College,666996,FL,US,001510,136233,Southern Association of Colleges and Schools Commission on Colleges
+005527,Orangeburg-Calhoun Tech,False,5527,Orangeburg-Calhoun Technical College,SC,US,Orangeburg-Calhoun Technical College,006815,SC,US,006815,218487,Southern Association of Colleges and Schools Commission on Colleges
+005531,Palm Bch Comm Coll,False,5531,Palm Beach State College,FL,US,Palm Beach State College,001512,FL,US,001512,136358,Southern Association of Colleges and Schools Commission on Colleges
+005533,Peace College,False,5533,William Peace University,NC,US,William Peace University,002953,NC,US,002953,199272,Southern Association of Colleges and Schools Commission on Colleges
+005535,Pensacola State College,False,5535,Pensacola State College,FL,US,Pensacola State College,001513,FL,US,001513,136473,Southern Association of Colleges and Schools Commission on Colleges
+005536,Pfeiffer College,False,5536,Pfeiffer University,NC,US,Pfeiffer University,002955,NC,US,002955,199306,Southern Association of Colleges and Schools Commission on Colleges
+005537,Piedmont College,False,5537,Piedmont University,GA,US,Piedmont College,001588,GA,US,001588,140818,Southern Association of Colleges and Schools Commission on Colleges
+005540,Presbyterian College,False,5540,Presbyterian College,SC,US,Presbyterian College,003445,SC,US,003445,218539,Southern Association of Colleges and Schools Commission on Colleges
+005545,Prince Georges C C,False,5545,Prince George's Community College,MD,US,Prince George'S Community College,002089,MD,US,002089,163657,Middle States Commission on Higher Education
+005548,Polk Cmty College,False,5548,Polk State College,FL,US,Polk State College,001514,FL,US,001514,136516,Southern Association of Colleges and Schools Commission on Colleges
+005549,Patrick Henry Community College,False,5549,Patrick Henry Community College,VA,US,Patrick & Henry Community College,003751,VA,US,003751,233019,Southern Association of Colleges and Schools Commission on Colleges
+005550,Piedmont Tech Coll,False,5550,Piedmont Technical College,SC,US,Piedmont Technical College,003992,SC,US,003992,218520,Southern Association of Colleges and Schools Commission on Colleges
+005551,Trident Tec C Palmer,False,5551,,,,Trident Technical College - Charleston,004920,SC,US,008818,218894,Southern Association of Colleges and Schools Commission on Colleges
+005553,Palm Beach Atl University,False,5553,Palm Beach Atlantic University,FL,US,Palm Beach Atlantic University,008849,FL,US,008849,136330,Southern Association of Colleges and Schools Commission on Colleges
+005556,Pitt Community Coll,False,5556,Pitt Community College,NC,US,Pitt Community College,004062,NC,US,004062,199333,Southern Association of Colleges and Schools Commission on Colleges
+005557,Paul D Camp C C,False,5557,Paul D. Camp Community College,VA,US,Camp Community College,009159,VA,US,009159,233037,Southern Association of Colleges and Schools Commission on Colleges
+005559,Pasco-Hrnando Cc Npr,False,5559,,,,Pasco-Hernando State College,010652,FL,US,010652,136400,Southern Association of Colleges and Schools Commission on Colleges
+005560,Queens Coll Nc,False,5560,Queens University of Charlotte,NC,US,Queens University Of Charlotte,002957,NC,US,002957,199412,Southern Association of Colleges and Schools Commission on Colleges
+005561,Piedmont Virginia Cc,False,5561,Piedmont Virginia Community College,VA,US,Piedmont Virginia Community College,009928,VA,US,009928,233116,Southern Association of Colleges and Schools Commission on Colleges
+005562,Pasco-Hernando CC,False,,,,,,,,,,,
+005567,Randolph-Macon W Col,False,5567,Randolph College,VA,US,Randolph College,003734,VA,US,003734,233301,Southern Association of Colleges and Schools Commission on Colleges
+005568,Reinhardt College,False,5568,Reinhardt University,GA,US,Reinhardt University,001589,GA,US,,,Southern Association of Colleges and Schools Commission on Colleges
+005569,Univ Richmond,False,5569,University of Richmond,VA,US,University Of Richmond,003744,VA,US,003744,233374,Southern Association of Colleges and Schools Commission on Colleges
+005570,Virginia Comm Univer,False,5570,Virginia Commonwealth University,VA,US,Virginia Commonwealth University,003735,VA,US,003735,234030,Southern Association of Colleges and Schools Commission on Colleges
+005571,Roanoke College,False,5571,Roanoke College,VA,US,Roanoke College,003736,VA,US,003736,233426,Southern Association of Colleges and Schools Commission on Colleges
+005573,Ringling Sch Art Des,False,5573,Ringling College of Art and Design,FL,US,Ringling College Of Art And Design,012574,FL,US,012574,136774,Southern Association of Colleges and Schools Commission on Colleges
+005574,Richard Bland Coll,False,5574,Richard Bland College,VA,US,Richard Bland College Of William And Mary,003707,VA,US,003707,233338,Southern Association of Colleges and Schools Commission on Colleges
+005582,Rockingham Cmty Coll,False,5582,Rockingham Community College,NC,US,Rockingham Community College,002958,NC,US,002958,199485,Southern Association of Colleges and Schools Commission on Colleges
+005583,Art Institute of Charleston,False,5583,Art Institute of Charleston,SC,US,,,,,,,
+005584,Midlands Technical College,False,5584,Midlands Technical College,SC,US,Midlands Technical College,003993,SC,US,003993,218353,Southern Association of Colleges and Schools Commission on Colleges
+005585,Randolph Cmty Coll,False,5585,Randolph Community College,NC,US,Randolph Community College,005447,NC,US,005447,199421,Southern Association of Colleges and Schools Commission on Colleges
+005589,Rowan-Cabbarrus Comm College,False,5589,Rowan-Cabarrus Community College,NC,US,Rowan-Cabarrus Community College,005754,NC,US,005754,199494,Southern Association of Colleges and Schools Commission on Colleges
+005590,Rappahannock Cc Glns,False,5590,Rappahannock Community College,VA,US,Rappahannock Community College,009160,VA,US,009160,233310,Southern Association of Colleges and Schools Commission on Colleges
+005596,Saint Augustines University,False,5596,Saint Augustine's University,NC,US,Saint Augustine'S University,002968,NC,US,002968,199582,Southern Association of Colleges and Schools Commission on Colleges
+005606,St Petersburg College,False,5606,St. Petersburg College,FL,US,Saint Petersburg College,001528,FL,US,001528,137078,Southern Association of Colleges and Schools Commission on Colleges
+005607,Salem Coll Nc,False,5607,Salem College,NC,US,Salem College,002960,NC,US,002960,199607,Southern Association of Colleges and Schools Commission on Colleges
+005613,Shenandoah Univ,False,5613,Shenandoah University,VA,US,Shenandoah University,003737,VA,US,003737,233541,Southern Association of Colleges and Schools Commission on Colleges
+005616,Shorter Coll Rome,False,5616,Shorter University,GA,US,Shorter University,001591,GA,US,001591,140988,Southern Association of Colleges and Schools Commission on Colleges
+005618,SC State University,False,5618,South Carolina State University,SC,US,South Carolina State University,003446,SC,US,003446,218733,Southern Association of Colleges and Schools Commission on Colleges
+005619,South Georgia Colleg,False,5619,South Georgia State College,GA,US,South Georgia College,001592,GA,US,001592,140997,Southern Association of Colleges and Schools Commission on Colleges
+005627,Spartanburg Methodist College,False,5627,Spartanburg Methodist College,SC,US,Spartanburg Methodist College,003447,SC,US,003447,218821,Southern Association of Colleges and Schools Commission on Colleges
+005630,Stetson University,False,5630,Stetson University,FL,US,Stetson University,001531,FL,US,001531,137546,Southern Association of Colleges and Schools Commission on Colleges
+005631,Savannah C Art Desgn,False,5631,Savannah College of Art and Design,GA,US,Savannah College Of Art And Design,021415,GA,US,021415,140951,Southern Association of Colleges and Schools Commission on Colleges
+005634,Sweet Briar College,False,5634,Sweet Briar College,VA,US,Sweet Briar College,003742,VA,US,003742,233718,Southern Association of Colleges and Schools Commission on Colleges
+005641,St Johns River C C,False,5641,Saint Johns River State College,FL,US,St. Johns River State College,001523,FL,US,001523,137281,Southern Association of Colleges and Schools Commission on Colleges
+005644,Blue Ridge Cmty Coll,False,5644,Blue Ridge Community College,NC,US,Blue Ridge Community College - Flat Rock,009684,NC,US,,198039,Southern Association of Colleges and Schools Commission on Colleges
+005649,Sandhills Cmty Coll,False,5649,Sandhills Community College,NC,US,Sandhills Community College,002961,NC,US,002961,199634,Southern Association of Colleges and Schools Commission on Colleges
+005653,Santa Fe Cmty Coll,False,5653,Santa Fe College,FL,US,Santa Fe College,001519,FL,US,001519,137096,Southern Association of Colleges and Schools Commission on Colleges
+005656,Surry Cmty Coll,False,5656,Surry Community College,NC,US,Surry Community College,002970,NC,US,002970,199768,Southern Association of Colleges and Schools Commission on Colleges
+005659,Southwst Va Cmty Col,False,5659,Southwest Virginia Community College,VA,US,,,,,,,
+005662,Seminole Cmty Coll,False,5662,Seminole State College of Florida,FL,US,Seminole State College Of Florida,001520,FL,US,003178,207740,Higher Learning Commission
+005665,Central Carolina Tech,False,5665,Central Carolina Technical College,SC,US,Central Carolina Technical College,003995,SC,US,003995,218858,Southern Association of Colleges and Schools Commission on Colleges
+005667,Southwestern Comm Co,False,5667,Southwestern Community College,NC,US,Southwestern Community College - Sylva,008466,NC,US,008466,199731,Southern Association of Colleges and Schools Commission on Colleges
+005668,Spartanburg Community College,False,5668,Spartanburg Community College,SC,US,Spartanburg Community College,003994,SC,US,003994,218830,Southern Association of Colleges and Schools Commission on Colleges
+005711,Dekalb College,False,5711,Georgia Perimeter College,GA,US,Georgia Perimeter College,001562,GA,US,001562,244437,Southern Association of Colleges and Schools Commission on Colleges
+005735,Broward Community Co,False,5735,Broward College-North Campus,FL,US,,,,,,,
+005743,Clinton College,False,5743,Clinton College,SC,US,Clinton Junior College,004923,SC,US,004923,217891,Transnational Association of Christian Colleges and Schools
+005744,Denmark Tech Coll,False,5744,Denmark Technical College,SC,US,Denmark Technical College,005363,SC,US,005363,217989,Southern Association of Colleges and Schools Commission on Colleges
+005785,Tri-County Community College,False,5785,Tri-County Community College,NC,US,Tri-County Community College,009430,NC,US,009430,199795,Southern Association of Colleges and Schools Commission on Colleges
+005789,Tri County Technical College,False,5789,Tri-County Technical College,SC,US,Tri-County Technical College,004926,SC,US,004926,218885,Southern Association of Colleges and Schools Commission on Colleges
+005793,Thomas Nelson C C,False,5793,Virginia Peninsula Community College,VA,US,Virginia Peninsula Community College,006871,VA,US,006871,233754,Southern Association of Colleges and Schools Commission on Colleges
+005794,Tallahassee C C,False,5794,Tallahassee Community College,FL,US,Tallahassee Community College,001533,FL,US,001533,137759,Southern Association of Colleges and Schools Commission on Colleges
+005797,Carroll Cmty College,False,5797,Carroll Community College,MD,US,Carroll Community College,031007,MD,US,,405872,Middle States Commission on Higher Education
+005798,Truett-McConnell College,False,5798,Truett McConnell University,GA,US,Truett-Mcconnell College,001597,GA,US,001597,141237,Southern Association of Colleges and Schools Commission on Colleges
+005801,Aarts Operations Ctr,False,5801,Aarts Office United States Army,KY,US,,,,,,,
+005812,Univ Florida,False,5812,University of Florida,FL,US,University Of Florida,001535,FL,US,001535,134130,Southern Association of Colleges and Schools Commission on Colleges
+005813,Univ Georgia Athens,False,5813,University of Georgia,GA,US,University Of Georgia,001598,GA,US,001598,139959,Southern Association of Colleges and Schools Commission on Colleges
+005814,Univ Maryland Col Pk,False,5814,University of Maryland: College Park,MD,US,University Of Maryland - College Park,002103,MD,US,002103,163286,Middle States Commission on Higher Education
+005816,UNC Chapel Hill,False,5816,University of North Carolina at Chapel Hill,NC,US,University Of North Carolina - Chapel Hill,002974,NC,US,002974,199120,Southern Association of Colleges and Schools Commission on Colleges
+005818,Univ South Carolina,False,5818,University of South Carolina: Columbia,SC,US,University Of South Carolina - Columbia,003448,SC,US,003448,218663,Southern Association of Colleges and Schools Commission on Colleges
+005819,University Of Tampa,False,5819,University of Tampa,FL,US,University Of Tampa,001538,FL,US,001538,137847,Southern Association of Colleges and Schools Commission on Colleges
+005820,Univ Of Virginia,False,5820,University of Virginia,VA,US,University Of Virginia - Charlottesville,003745,VA,US,,234076,Southern Association of Colleges and Schools Commission on Colleges
+005821,Usc Sumter,False,5821,University of South Carolina: Sumter,SC,US,University Of South Carolina - Sumter,003426,SC,US,012112,218690,Southern Association of Colleges and Schools Commission on Colleges
+005827,George Mason Univers,False,5827,George Mason University,VA,US,George Mason University,003749,VA,US,003749,232186,Southern Association of Colleges and Schools Commission on Colleges
+005828,Univ of South Florida,False,5828,University of South Florida,FL,US,University Of South Florida - Polytechnic-Lakeland,011332,FL,US,,451680,Southern Association of Colleges and Schools Commission on Colleges
+005833,Univ West Florida,False,5833,University of West Florida,FL,US,University Of West Florida,003955,FL,US,003955,138354,Southern Association of Colleges and Schools Commission on Colleges
+005835,Univ Md Baltimore Co,False,5835,University of Maryland: Baltimore County,MD,US,University Of Maryland - Baltimore County,002105,MD,US,002105,163268,Middle States Commission on Higher Education
+005837,Coastal Carolina Univ,False,5837,Coastal Carolina University,SC,US,Coastal Carolina University,003451,SC,US,003451,218724,Southern Association of Colleges and Schools Commission on Colleges
+005840,USC Aiken,False,5840,University of South Carolina: Aiken,SC,US,University Of South Carolina - Aiken,003449,SC,US,003449,218645,Southern Association of Colleges and Schools Commission on Colleges
+005845,Usc Beaufort,False,5845,University of South Carolina: Beaufort,SC,US,University Of South Carolina - Beaufort,003450,SC,US,003450,218654,Southern Association of Colleges and Schools Commission on Colleges
+005846,Usc Union,False,5846,University of South Carolina: Union,SC,US,University Of South Carolina - Union,004927,SC,US,004927,218706,Southern Association of Colleges and Schools Commission on Colleges
+005847,Usc Salkehatchie,False,5847,University of South Carolina: Salkehatchie,SC,US,University Of South Carolina - Salkehatchie,003454,SC,US,003454,218681,Southern Association of Colleges and Schools Commission on Colleges
+005849,Usc Lancaster,False,5849,University of South Carolina: Lancaster,SC,US,University Of South Carolina - Lancaster,003453,SC,US,003453,218672,Southern Association of Colleges and Schools Commission on Colleges
+005850,USC Upstate,False,5850,University of South Carolina: Upstate,SC,US,University Of South Carolina - Upstate,006951,SC,US,006951,218742,Southern Association of Colleges and Schools Commission on Colleges
+005855,Valdosta St Univ,False,5855,Valdosta State University,GA,US,Valdosta State University,001599,GA,US,001599,141264,Southern Association of Colleges and Schools Commission on Colleges
+005857,Virginia Intrmt Coll,False,5857,,,,Virginia Intermont College,003752,VA,US,003752,233912,
+005858,Virginia Miltry Inst,False,5858,Virginia Military Institute,VA,US,Virginia Military Institute,003753,VA,US,003753,234085,Southern Association of Colleges and Schools Commission on Colleges
+005863,Voorhees College,False,5863,Voorhees College,SC,US,Voorhees College,003455,SC,US,003455,218919,Southern Association of Colleges and Schools Commission on Colleges
+005868,Virginia Westrn C C,False,5868,Virginia Western Community College,VA,US,Virginia Western Community College,003760,VA,US,003760,233949,Southern Association of Colleges and Schools Commission on Colleges
+005869,Valencia Cmty Coll,False,5869,Valencia College,FL,US,Valencia College,006750,FL,US,006750,138187,Southern Association of Colleges and Schools Commission on Colleges
+005885,Wake Forest Univ,False,5885,Wake Forest University,NC,US,Wake Forest University,002978,NC,US,002978,199847,Southern Association of Colleges and Schools Commission on Colleges
+005886,Warren Wilson Coll,False,5886,Warren Wilson College,NC,US,Warren Wilson College,002979,NC,US,002979,199865,Southern Association of Colleges and Schools Commission on Colleges
+005892,Williamsburg Tech C,False,5892,Williamsburg Technical College,SC,US,Williamsburg Technical College,009322,SC,US,009322,218955,Southern Association of Colleges and Schools Commission on Colleges
+005896,Southern Wesleyan U,False,5896,Southern Wesleyan University,SC,US,Southern Wesleyan University,003422,SC,US,003422,217776,Southern Association of Colleges and Schools Commission on Colleges
+005897,Western Carolina Unv,False,5897,Western Carolina University,NC,US,Western Carolina University,002981,NC,US,002981,200004,Southern Association of Colleges and Schools Commission on Colleges
+005900,University of West Georgia,False,5900,University of West Georgia,GA,US,University Of West Georgia,001601,GA,US,001601,141334,Southern Association of Colleges and Schools Commission on Colleges
+005902,West Virginia Inst T,False,5902,West Virginia University Institute of Technology,WV,US,West Virginia University Institute Of Technology,003825,WV,US,003825,237950,Higher Learning Commission
+005904,West Virginia Univ,False,5904,West Virginia University,WV,US,West Virginia University - Morgantown,003827,WV,US,,237996,Higher Learning Commission
+005908,Wingate University,False,5908,Wingate University,NC,US,Wingate University,002985,NC,US,002985,199962,Southern Association of Colleges and Schools Commission on Colleges
+005909,Winston-Salem St U,False,5909,Winston-Salem State University,NC,US,Winston-Salem State University,002986,NC,US,002986,199999,Southern Association of Colleges and Schools Commission on Colleges
+005910,Winthrop University,False,5910,Winthrop University,SC,US,Winthrop University,003456,SC,US,003456,218964,Southern Association of Colleges and Schools Commission on Colleges
+005912,Wofford College,False,5912,Wofford College,SC,US,Wofford College,003457,SC,US,003457,218973,Southern Association of Colleges and Schools Commission on Colleges
+005913,Unc At Greensboro,False,5913,University of North Carolina at Greensboro,NC,US,University Of North Carolina - Greensboro,002976,NC,US,002976,199148,Southern Association of Colleges and Schools Commission on Colleges
+005921,Wilkes Community Col,False,5921,Wilkes Community College,NC,US,Wilkes Community College,002983,NC,US,002983,199926,Southern Association of Colleges and Schools Commission on Colleges
+005928,Wake Technical Coll,False,5928,Wake Technical Community College,NC,US,Wake Technical Community College,004844,NC,US,004844,199856,Southern Association of Colleges and Schools Commission on Colleges
+005929,Univ Dist Columbia,False,5929,University of the District of Columbia,DC,US,University Of The District Of Columbia,001441,DC,US,001441,131399,Middle States Commission on Higher Education
+005930,Wilson Tech C C,False,5930,Wilson Community College,NC,US,Wilson Technical Community College,004845,NC,US,004845,199953,Southern Association of Colleges and Schools Commission on Colleges
+005973,Kwantlen University College,False,5973,Kwantlen Polytechnic University,,CA,Kwantlen Polytechnic  University,CAN037,BC,CA,,,
+005989,York Technical College,False,5989,York Technical College,SC,US,York Technical College,003996,SC,US,003996,218991,Southern Association of Colleges and Schools Commission on Colleges
+005990,Young Harris Coll,False,5990,Young Harris College,GA,US,Young Harris College,001604,GA,US,001604,141361,Southern Association of Colleges and Schools Commission on Colleges
+006001,Abilene Christian University,False,6001,Abilene Christian University,TX,US,Abilene Christian University,003537,TX,US,003537,222178,Southern Association of Colleges and Schools Commission on Colleges
+006006,Amarillo College,False,6006,Amarillo College,TX,US,Amarillo College,003540,TX,US,003540,222576,Southern Association of Colleges and Schools Commission on Colleges
+006007,Univ Arkansas Montcl,False,6007,University of Arkansas at Monticello,AR,US,University Of Arkansas - Monticello,001085,AR,US,001085,106485,Higher Learning Commission
+006008,Cowley County Cmty C,False,6008,Cowley County Community College,KS,US,Cowley County Community College,001902,KS,US,001902,154952,Higher Learning Commission
+006010,Arkansas Tech Univ,False,6010,Arkansas Tech University,AR,US,Arkansas Tech University - Russellville / Main Campus,001089,AR,US,,106467,Higher Learning Commission
+006012,Univ Cntral Arkansas,False,6012,University of Central Arkansas,AR,US,University Of Central Arkansas,001092,AR,US,001092,106704,Higher Learning Commission
+006025,Angelina Coll,False,6025,Angelina College,TX,US,Angelina College,006661,TX,US,006661,222822,Southern Association of Colleges and Schools Commission on Colleges
+006043,Blinn College,False,6043,Blinn College,TX,US,Blinn College,003549,TX,US,003549,223427,Southern Association of Colleges and Schools Commission on Colleges
+006053,Bellevue University,False,6053,Bellevue University,NE,US,Bellevue University,009743,NE,US,009743,180814,Higher Learning Commission
+006070,Brookhaven College,False,6070,Dallas College: Brookhaven,TX,US,Dallas College - Brookhaven Campus,021002,TX,US,021002,223524,Southern Association of Colleges and Schools Commission on Colleges
+006083,Indian Hills CC Centrv,False,6083,Indian Hills Community College-Centerville,IA,US,,,,,,,
+006091,University of Central Oklahoma,False,6091,University of Central Oklahoma,OK,US,University Of Central Oklahoma,003152,OK,US,003152,206941,Higher Learning Commission
+006093,Neosho Co Cmty Coll,False,6093,Neosho County Community College,KS,US,Neosho County Community College,001936,KS,US,001936,155566,Higher Learning Commission
+006097,Clarendon Coll,False,6097,Clarendon College,TX,US,Clarendon College,003554,TX,US,003554,223922,Southern Association of Colleges and Schools Commission on Colleges
+006101,Coe College,False,6101,Coe College,IA,US,Coe College,001854,IA,US,001854,153144,Higher Learning Commission
+006102,Coffeyville Cmty C,False,6102,Coffeyville Community College,KS,US,Coffeyville Community College,001910,KS,US,001910,154925,Higher Learning Commission
+006110,Univ Of Saint Thomas,False,6110,University of St. Thomas,MN,US,University Of Saint Thomas (MN),002345,MN,US,,174914,Higher Learning Commission
+006120,Cottey College,False,6120,Cottey College,MO,US,Cottey College,002458,MO,US,002458,177117,Higher Learning Commission
+006129,Colby Community Coll,False,6129,Colby Community College,KS,US,Colby Community College,001911,KS,US,001911,154934,Higher Learning Commission
+006130,Centrl Texas Coll,False,6130,Central Texas College,TX,US,Central Texas College,004003,TX,US,004003,223816,Southern Association of Colleges and Schools Commission on Colleges
+006135,Oklahoma Wesleyan Univ,False,6135,Oklahoma Wesleyan University,OK,US,Oklahoma Wesleyan University,003151,OK,US,003151,206835,Higher Learning Commission
+006169,Drury College,False,6169,Drury University,MO,US,Drury University,002461,MO,US,002461,177214,Higher Learning Commission
+006176,Delgado Cmty Coll,False,6176,Delgado Community College,LA,US,Delgado Community College,004625,LA,US,004626,158662,Southern Association of Colleges and Schools Commission on Colleges
+006191,Butler Co Cmty Coll,False,6191,Butler Community College,KS,US,Butler Community College,001906,KS,US,001906,154800,Higher Learning Commission
+006195,Iowa Lakes Cc Emmtsb,False,6195,Iowa Lakes Community College-Emmetsburg Campus,IA,US,,,,,,,
+006198,Evangel College,False,6198,Evangel University,MO,US,Evangel University,002463,MO,US,002463,177339,Higher Learning Commission
+006219,Ft Scott Cmty Col,False,6219,Fort Scott Community College,KS,US,Fort Scott Community College,001916,KS,US,001916,155098,Higher Learning Commission
+006220,University of Arkansas - FortSmith,False,6220,University of Arkansas at Fort Smith,AR,US,University Of Arkansas - Fort Smith,001110,AR,US,001110,108092,Higher Learning Commission
+006221,Nicholls St Univ,False,6221,Nicholls State University,LA,US,Nicholls State University,002005,LA,US,002005,159966,Southern Association of Colleges and Schools Commission on Colleges
+006250,Grambling St Univ,False,6250,Grambling State University,LA,US,Grambling State University,002006,LA,US,002006,159009,Southern Association of Colleges and Schools Commission on Colleges
+006251,Grand View College,False,6251,Grand View University,IA,US,Grand View University,001867,IA,US,001867,153375,Higher Learning Commission
+006265,Hamline University,False,6265,Hamline University,MN,US,Hamline University,002354,MN,US,002354,173665,Higher Learning Commission
+006268,Hardin-Simmons Univ,False,6268,Hardin-Simmons University,TX,US,Hardin-Simmons University,003571,TX,US,003571,225247,Southern Association of Colleges and Schools Commission on Colleges
+006271,Trinity Valley Community College,False,6271,Trinity Valley Community College,TX,US,Trinity Valley Community College,003572,TX,US,003572,225308,Southern Association of Colleges and Schools Commission on Colleges
+006277,Howard College,False,6277,Howard College,TX,US,Howard College,003574,TX,US,003574,225520,Southern Association of Colleges and Schools Commission on Colleges
+006302,Iowa Wstrn Cc Cnclbl,False,6302,Iowa Western Community College,IA,US,Iowa Western Community College,004598,IA,US,008739,153630,Higher Learning Commission
+006307,Univ Northern Iowa,False,6307,University of Northern Iowa,IA,US,University Of Northern Iowa,001890,IA,US,001890,154095,Higher Learning Commission
+006309,Itasca Cmty Coll,False,6309,,,,Itasca Community College,002356,MN,US,002356,173805,Higher Learning Commission
+006334,Kansas State Univ,False,6334,Kansas State University,KS,US,Kansas State University - Manhattan,001928,KS,US,001928,155399,Higher Learning Commission
+006341,Kilgore College,False,6341,Kilgore College,TX,US,Kilgore College,003580,TX,US,003580,226019,Southern Association of Colleges and Schools Commission on Colleges
+006367,Lindenwood College,False,6367,Lindenwood University,MO,US,Lindenwood University,002480,MO,US,002480,177968,Higher Learning Commission
+006373,Louisiana State Un,False,6373,Louisiana State University and Agricultural and Mechanical College,LA,US,Louisiana State University - A & M College - Baton Rouge,002010,LA,US,,159391,Southern Association of Colleges and Schools Commission on Colleges
+006374,Loyola Univ Louisana,False,6374,Loyola University New Orleans,LA,US,Loyola University New Orleans,002016,LA,US,002016,159656,Southern Association of Colleges and Schools Commission on Colleges
+006388,Century College,False,6388,Century College,MN,US,Century College,002338,MN,US,,175315,Higher Learning Commission
+006394,Marshalltown C C,False,6394,Marshalltown Community College,IA,US,Marshalltown Community College,027009,IA,US,001875,153922,Higher Learning Commission
+006415,Morningside College,False,6415,Morningside College,IA,US,Morningside College,001879,IA,US,001879,154004,Higher Learning Commission
+006420,Univ Nebraska Omaha,False,6420,University of Nebraska-Omaha,NE,US,University Of Nebraska - Omaha,002554,NE,US,002554,181394,Higher Learning Commission
+006479,Minot State Univ,False,6479,Minot State University,ND,US,Minot State University - Minot Campus,002994,ND,US,002994,200253,Higher Learning Commission
+006481,Univ North Texas,False,6481,University of North Texas,TX,US,University Of North Texas,003594,TX,US,003594,227216,Southern Association of Colleges and Schools Commission on Colleges
+006482,Northeast La Univ,False,6482,University of Louisiana at Monroe,LA,US,University Of Louisiana - Monroe,002020,LA,US,002020,159993,Southern Association of Colleges and Schools Commission on Colleges
+006488,Northwst Mo St Univ,False,6488,Northwest Missouri State University,MO,US,Northwest Missouri State University,002496,MO,US,002496,178624,Higher Learning Commission
+006492,Northwestern State U,False,6492,Northwestern State University,LA,US,Northwestern State University,002021,LA,US,002021,160038,Southern Association of Colleges and Schools Commission on Colleges
+006498,North Hennepin C C,False,6498,North Hennepin Community College,MN,US,North Hennepin Community College,002370,MN,US,002370,174376,Higher Learning Commission
+006508,Lone Star College System,False,6508,Lone Star College System,TX,US,Lone Star College - Cyfair,027015,TX,US,,227182,Southern Association of Colleges and Schools Commission on Colleges
+006531,Northeast Texas C C,False,6531,Northeast Texas Community College,TX,US,Northeast Texas Community College,023154,TX,US,023154,227225,Southern Association of Colleges and Schools Commission on Colleges
+006547,Ottawa University,False,6547,Ottawa University,KS,US,Ottawa University (AZ),601937,AZ,US,,155627,Higher Learning Commission
+006550,Our Lady Of The Lake,False,6550,Our Lady of the Lake University of San Antonio,TX,US,Our Lady Of The Lake University,003598,TX,US,003598,227331,Southern Association of Colleges and Schools Commission on Colleges
+006573,Paris Jr College,False,6573,Paris Junior College,TX,US,Paris Junior College,003601,TX,US,003601,227401,Southern Association of Colleges and Schools Commission on Colleges
+006576,Labette Cmty College,False,6576,Labette Community College,KS,US,Labette Community College,001930,KS,US,001930,155450,Higher Learning Commission
+006607,Richland College,False,6607,Dallas College: Richland,TX,US,Dallas College - Richland Campus,008504,TX,US,008504,227766,Southern Association of Colleges and Schools Commission on Colleges
+006609,Rice University,False,6609,Rice University,TX,US,Rice University,003604,TX,US,003604,227757,Southern Association of Colleges and Schools Commission on Colleges
+006611,Rockhurst College,False,6611,Rockhurst University,MO,US,Rockhurst University,002499,MO,US,002499,179043,Higher Learning Commission
+006629,St Louis Univ,False,6629,Saint Louis University,MO,US,Saint Louis University (Missouri),002506,MO,US,,179159,Higher Learning Commission
+006637,St Marys University,False,6637,St. Mary's University,TX,US,St. Mary'S University,003623,TX,US,003623,228149,Southern Association of Colleges and Schools Commission on Colleges
+006639,Crown College,False,6639,Crown College,MN,US,Crown College,002383,MN,US,002383,174862,Higher Learning Commission
+006643,Sam Houston St Univ,False,6643,Sam Houston State University,TX,US,Sam Houston State University,003606,TX,US,003606,227881,Southern Association of Colleges and Schools Commission on Colleges
+006645,San Antonio College,False,6645,San Antonio College,TX,US,San Antonio College,009163,TX,US,009163,227924,Southern Association of Colleges and Schools Commission on Colleges
+006647,Schreiner College,False,6647,Schreiner University,TX,US,Schreiner University,003610,TX,US,003610,228042,Southern Association of Colleges and Schools Commission on Colleges
+006656,Southestrn La Univ,False,6656,Southeastern Louisiana University,LA,US,Southeastern Louisiana University,002024,LA,US,002024,160612,Southern Association of Colleges and Schools Commission on Colleges
+006658,Williams Baptist University,False,6658,Williams Baptist University,AR,US,Williams Baptist College,001106,AR,US,001106,107877,Higher Learning Commission
+006661,Southern Ar Univ,False,6661,Southern Arkansas University,AR,US,Southern Arkansas University - Magnolia,001107,AR,US,,107983,Higher Learning Commission
+006664,Southwest Baptist Un,False,6664,Southwest Baptist University,MO,US,Southwest Baptist University,002502,MO,US,002502,179326,Higher Learning Commission
+006669,Southwestern A/G Col,False,6669,Southwestern Assemblies of God University,TX,US,Southwestern Assemblies Of God University,003616,TX,US,003616,228325,Southern Association of Colleges and Schools Commission on Colleges
+006681,University Of Iowa,False,6681,University of Iowa,IA,US,University Of Iowa,001892,IA,US,001892,153658,Higher Learning Commission
+006694,San Jacinto C Centrl,False,6694,San Jacinto College: South Campus,TX,US,San Jacinto College,003609,TX,US,003609,227979,Southern Association of Colleges and Schools Commission on Colleges
+006703,Southwest State Univ,False,6703,Southwest Minnesota State University,MN,US,Southwest Minnesota State University,002375,MN,US,002375,175078,Higher Learning Commission
+006729,San Jacinto C North,False,,,,,,,,,,,
+006759,Austin Cmty Coll Tx,False,6759,Austin Community College,TX,US,Austin Community College,012015,TX,US,,222992,Southern Association of Colleges and Schools Commission on Colleges
+006820,Texas Christian Univ,False,6820,Texas Christian University,TX,US,Texas Christian University,003636,TX,US,003636,228875,Southern Association of Colleges and Schools Commission on Colleges
+006826,Texas Womans Univ,False,6826,Texas Woman's University,TX,US,Texas Woman'S University,003646,TX,US,003646,229179,Southern Association of Colleges and Schools Commission on Colleges
+006829,Univ Texas El Paso,False,6829,University of Texas at El Paso,TX,US,University Of Texas - El Paso,003661,TX,US,003661,228796,Southern Association of Colleges and Schools Commission on Colleges
+006834,Tarrant Co Jr Ftwrth,False,6834,Tarrant County College,TX,US,Tarrant County College - South,008900,TX,US,008898,228547,Southern Association of Colleges and Schools Commission on Colleges
+006836,Three Rivers C C,False,6836,Three Rivers Community College,MO,US,Three Rivers Community College - Poplar Bluff,004713,MO,US,004713,179645,Higher Learning Commission
+006837,Tarrant County College,False,6837,,,,Tarrant County College - Northeast,008899,TX,US,008898,228547,Southern Association of Colleges and Schools Commission on Colleges
+006845,Tarrant County Jr Coll Nw Cmp,False,6845,,,,Tarrant County College - Northwest,010964,TX,US,008898,228547,Southern Association of Colleges and Schools Commission on Colleges
+006854,Edge Hill University,False,6854,Edge Hill University,,UK,Edge Hill University,FR4610,OT,UK,,,
+006870,U Houston Main Cmps*,False,6870,University of Houston,TX,US,University Of Houston - University Park,003652,TX,US,003652,225511,Southern Association of Colleges and Schools Commission on Colleges
+006872,Univ Missouri Kanscy,False,6872,University of Missouri: Kansas City,MO,US,University Of Missouri - Kansas City,002518,MO,US,002518,178402,Higher Learning Commission
+006873,Univ Minn Duluth,False,6873,University of Minnesota: Duluth,MN,US,University Of Minnesota - Duluth,002388,MN,US,002388,174233,Higher Learning Commission
+006874,Univ Minnesota Mpls,False,6874,University of Minnesota: Twin Cities,MN,US,University Of Minnesota - Twin Cities,003969,MN,US,003969,174066,Higher Learning Commission
+006878,Un N Dakota Grnd Frk,False,6878,University of North Dakota,ND,US,University Of North Dakota,003005,ND,US,003005,200280,Higher Learning Commission
+006889,Univ Missouri Stlous,False,6889,University of Missouri: St. Louis,MO,US,University Of Missouri - Saint Louis,002519,MO,US,002519,178420,Higher Learning Commission
+006916,Univ Houston Clr Lke,False,6916,University of Houston: Clear Lake,TX,US,University Of Houston - Clear Lake,011711,TX,US,011711,225414,Southern Association of Colleges and Schools Commission on Colleges
+006919,Univ Texas San Anton,False,6919,University of Texas at San Antonio,TX,US,University Of Texas Medical School - San Antonio,000180,TX,US,010115,229027,Southern Association of Colleges and Schools Commission on Colleges
+006922,Univ Houston Dwntwn,False,6922,University of Houston: Downtown,TX,US,University Of Houston - Downtown,003612,TX,US,012826,225432,Southern Association of Colleges and Schools Commission on Colleges
+006929,Washington Univ,False,6929,Washington University in St. Louis,MO,US,Washington University In Saint Louis,002520,MO,US,002520,179867,Higher Learning Commission
+006931,Weatherford College,False,6931,Weatherford College,TX,US,,,,,,,
+006933,Voorhess College,False,6933,Webster University,MO,US,Webster College - Holiday,666425,FL,US,,179894,Higher Learning Commission
+006938,West Tx A&M Univ,False,6938,West Texas A&M University,TX,US,West Texas A&M University,003665,TX,US,003665,229814,Southern Association of Colleges and Schools Commission on Colleges
+006939,Wharton Co Jr Coll,False,6939,Wharton County Junior College,TX,US,Wharton County Junior College,003668,TX,US,003668,229841,Southern Association of Colleges and Schools Commission on Colleges
+006975,Xavier Univ La,False,6975,Xavier University of Louisiana,LA,US,Xavier University Of Louisiana,002032,LA,US,002032,160904,Southern Association of Colleges and Schools Commission on Colleges
+007050,Seastrn Bapt Theol S,False,7050,Southeastern Baptist Theological Seminary,NC,US,Southeastern Baptist Theological Seminary,002963,NC,US,,,
+007101,Northwst Arkansas Cc,False,7101,Northwest Arkansas Community College,AR,US,Northwest Arkansas Community College,030633,AR,US,,367459,Higher Learning Commission
+007102,Cad Institute,False,,,,,,,,,,,
+007324,Redlands Cmty Coll,False,7324,Redlands Community College,OK,US,Redlands Community College,003156,OK,US,003156,207069,Higher Learning Commission
+007354,Athabasca University,False,,,,,,,,,,,
+008308,Cecil Cmty Coll,False,,,,,,,,,,,
+008660,Germanna Cmty Coll,False,,,,,,,,,,,
+009917,Ivy Tech Community College ofIndiana,False,,,,,,,,,,,
+009976,College of the Ouachitas,False,,,,,,,,,,,
+011673,Dixie Academy,False,,,,,,,,,,,
+01293,Vanguard University,False,,,,,,,,,,,
+021002,Dallas College,False,,,,,,,,,,,
+031229,YORK COUNTY COMMUNITY COLLEGE,False,,,,,,,,,,,
+172682,Salina Area Vocational Tech Sc,False,,,,,,,,,,,
+216208,Charles University,False,,,,,,,,,,,
+290138,Washoe High School,False,,,,,,,,,,,
+687228,Tampines Junior College,False,,,,,,,,,,,
+999111,Foreign College,False,,,,,,,,,,,
+999901,Anhui Medical University,False,,,,,,,,,,,
+999996,CAEL,False,,,,,,,,,,,
