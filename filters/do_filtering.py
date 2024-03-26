@@ -1,18 +1,16 @@
-from read_write_csv import read_from_csv, write_csv
+from read_write_csv import read_transfer_courses_csv, read_sat_csv ,write_csv
 from FilterSchools import filter_schools
-from FilterCourses import filter_courses
 
 def main(args: list[str]) -> int:
-    records = read_from_csv()
-    print(len(records), "records")
+    original_records = read_transfer_courses_csv()
+    print(len(original_records), "records")
 
     # Filter the schools, filtering the records from bad schools by side effect
-    schools_list = filter_schools(records)
+    schools_list = filter_schools(original_records)
     # write the schools out
     write_csv('Schools.csv', schools_list)
 
     # Filter the courses
-    #records = filter_courses(records)
     # write the courses out
 
     # Filter the ARC's

@@ -1,4 +1,17 @@
 import re
+#from read_write_csv import read_sat_csv
+
+# def ceeb_checker(school_code, record)
+#     """The ceeb checker will try to find if the ceeb code exists within the SAT
+#     code list or Master College code list (for older ones). If
+#     no ceeb code is found, then we will determine that later."""
+#     sat_records = read_sat_csv()
+#     print(len(sat_records), "records")
+
+#     if school_code in sat_records:
+#         return school
+#     else:
+#         del record(?)
 
 def fix_name(orgname: str) -> str:
     replacements = {'C C': 'Community College',
@@ -46,10 +59,10 @@ def two_year(record: dict[str,str]) -> bool:
     return junior
 
 def filter_schools(transfer_credits: list[dict[str,str]]):
-    """Takes a list of dictionaries TRANSFER_CREDITS, with one entry per
+    """Takes a list of dictionaries TRANSFER_CREDITS and SAT_CREDITS, with one entry per
     course equivalence; merges the schools in the equivalence list and 
     returns a list of dictionaries, each representing a unique school,
-    filtered to remove the schools we don't want.  The original list of
+    filtered to remove the schools we don't want (while checking ceeb codes).  The original list of
     records is also filtered by side effect."""
     unique_schools = set()
     filtered_schools: list[dict[str,str]] = []
@@ -73,6 +86,7 @@ def filter_schools(transfer_credits: list[dict[str,str]]):
         #   most of these codes appear to be 6 characters
         if len(school) == 4 and school.isdigit():
             school = '00' + school
+        #ceeb_checker(school)
         if school not in unique_schools:
             unique_schools.add(school)
             filtered_schools.append({'OrgCode': school,
