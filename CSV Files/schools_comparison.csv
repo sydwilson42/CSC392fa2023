@@ -1,4 +1,4 @@
-OrgCode,College,TwoOrFourYear,CEEB,CEEB_Name,CEEB_State,CEEB_Country,nursing_name,nursing_mdb_code,nursing_state,nursing_country,nursing_fice_code,nursing_ipeds_code,nursing_accreditation_agency
+OrgCode,College,TwoOrFourYear,CEEB,CEEB_Name,CEEB_State,CEEB_Country,MDB_name,MDB_mdb_code,MDB_state,MDB_country,MDB_fice_code,MDB_ipeds_code,MDB_accreditation_agency
 $00001,Ai Miami Intl University of Art & Design,False,,,,,,,,,,,
 $A002,University of the West Indies,False,,,,,,,,,,,
 ****UC,University of Cambridge,False,,,,,,,,,,,

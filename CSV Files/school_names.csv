@@ -1,4 +1,4 @@
-CEEB,CEEB_Name,CEEB_State,CEEB_Country,nursing_name,nursing_mdb_code,nursing_state,nursing_country,nursing_fice_code,nursing_ipeds_code,nursing_accreditation_agency
+CEEB,CEEB_Name,CEEB_State,CEEB_Country,MDB_name,MDB_mdb_code,MDB_state,MDB_country,MDB_fice_code,MDB_ipeds_code,MDB_accreditation_agency
 0005,American Degree Program,,MY,Intec Education College,FR4702,OT,MY,,,
 0007,Mount Royal University,,CA,Mount Royal University,CAN018,AB,CA,,,
 0020,American Samoa Community College,AS,UST,American Samoa Community College,UST001,AS,UST,010010,240736,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
@@ -247,7 +247,7 @@ CEEB,CEEB_Name,CEEB_State,CEEB_Country,nursing_name,nursing_mdb_code,nursing_sta
 0775,Ohio University: Chillicothe Campus,OH,US,Ohio University - Chillicothe,003102,OH,US,003102,204820,Higher Learning Commission
 0777,Clark State Community College,OH,US,Clark State Community College,004852,OH,US,004852,201973,Higher Learning Commission
 0779,Caribbean University,PR,UST,Caribbean University - Bayamon/Carolina/Ponce/Vega Baja,UST017,PR,UST,,363916,Middle States Commission on Higher Education
-0780,Turabo University,PR,UST,Universidad Ana G. Méndez - Recinto De Gurabo,UST090,PR,UST,012841,243601,Middle States Commission on Higher Education
+0780,Turabo University,PR,UST,Universidad Ana G. MÃ©ndez - Recinto De Gurabo,UST090,PR,UST,012841,243601,Middle States Commission on Higher Education
 0781,Northern Marianas College,MP,UST,Northern Marianas College,UST009,MP,UST,029454,240790,Western Association of Schools and Colleges Senior Colleges and University Commission
 0782,Arkansas State University: Beebe,AR,US,Arkansas State University - Beebe,001091,AR,US,001091,106449,Higher Learning Commission
 0784,Barton County Community College,KS,US,Barton County Community College,004608,KS,US,004608,154697,Higher Learning Commission
@@ -339,7 +339,7 @@ CEEB,CEEB_Name,CEEB_State,CEEB_Country,nursing_name,nursing_mdb_code,nursing_sta
 0882,Shawnee Community College,IL,US,Shawnee Community College,007693,IL,US,007693,148821,Higher Learning Commission
 0883,Universidad del Este,PR,UST,Colegio Universitario Del Este,UST032,PR,UST,,,
 0883,,,,Universidad Ana G. Mendez,UST082,PR,UST,029078,242060,Middle States Commission on Higher Education
-0883,,,,Universidad Del Este (Now Universidad Ana G. Méndez - Recinto De Carolina),UST087,PR,UST,003941,243346,Middle States Commission on Higher Education
+0883,,,,Universidad Del Este (Now Universidad Ana G. MÃ©ndez - Recinto De Carolina),UST087,PR,UST,003941,243346,Middle States Commission on Higher Education
 0885,Memorial University of Newfoundland,,CA,Memorial University Of Newfoundland - Saint John'S,CAN084,NL,CA,,,
 0885,,,,"Memorial University Of Newfoundland - Sir Wilfred Grenfell College, Corner Brook",CAN085,NL,CA,,,
 0886,Ryerson University,,CA,Toronto Metropolitan University (Formerly Ryerson University),CAN136,ON,CA,,,
@@ -2188,8 +2188,8 @@ CEEB,CEEB_Name,CEEB_State,CEEB_Country,nursing_name,nursing_mdb_code,nursing_sta
 3207,,,,Career Training Academy - Monroeville,666051,PA,US,,408312,
 3210,,,,College Of Art Advertising,022614,OH,US,,205391,
 3211,Colorado School of Trades,CO,US,Colorado School Of Trades,011572,CO,US,013513,126784,Accrediting Commission of Career Schools and Colleges
-3212,,,,Thompson Institute – Harrisburg,004910,PA,US,,214254,
-3213,Thompson Institute: Philadelphia,PA,US,Thompson Institute – Philadelphia,929065,PA,US,,,
+3212,,,,Thompson Institute â€“ Harrisburg,004910,PA,US,,214254,
+3213,Thompson Institute: Philadelphia,PA,US,Thompson Institute â€“ Philadelphia,929065,PA,US,,,
 3214,Pennsylvania Institute of Health and Technology,PA,US,,,,,,,
 3215,Columbia Central University: Yauco,PR,UST,Columbia Centro Universitario - Yauco,UST034,PR,UST,,404806,Middle States Commission on Higher Education
 3219,EDP University of Puerto Rico: San Sebastian,PR,UST,Electronic Data Processing College (Now Edp College Of Puerto Rico) San Sebastian,929064,PR,UST,,,
@@ -5306,7 +5306,7 @@ CEEB,CEEB_Name,CEEB_State,CEEB_Country,nursing_name,nursing_mdb_code,nursing_sta
 7418,Colorado Mountain College Breckenridge/Dillon Campus,CO,US,,,,,,,
 7420,Thammasat University Faculty of Law Business International,,TH,,,,,,,
 7421,Curtin Singapore,,SG,Curtin University Singapore,FR4659,OT,SN,,,
-7423,Universidade Catolica Portuguesa,,PT,Universidade Católica Portuguesa,DNT639,OT,PO,,,
+7423,Universidade Catolica Portuguesa,,PT,Universidade CatÃ³lica Portuguesa,DNT639,OT,PO,,,
 7425,Tokyo University of Foreign Studies,,JP,Tokyo University Of Foreign Studies,FR2230,OT,JA,,,
 7427,Bournemouth University,,UK,Bournemouth University,FR1100,OT,UK,,,
 7428,AmeriTech College,UT,US,Joyce University,931415,UT,US,,,
