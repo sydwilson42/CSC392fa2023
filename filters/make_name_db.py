@@ -1,36 +1,56 @@
 from read_write_csv import read_from_csv, write_csv
 import re
 
+def fix_school_name_case(school: dict[str, str]) -> str:
+    name = school['MDB_name'].title()
+
+    # Put back state abbreviations, if they're in the name
+    state = school['MDB_state']
+    if len(state) == 2 and state.isupper() and state != 'OT' and state.title() in school['MDB_name']:
+        school['MDB_name'] = \
+            re.sub(r'\b'+state.title()+r'\b', state, school['MDB_name'])# Fix state references
+        
+    downcased = ('(Now ', '(Now Part Of ', ' Of ')
+    for string in downcased:
+        if string in name:
+            name = name.replace(string, string.lower())
+    upcased = ('Aarts')
+    for string in upcased:
+        if string in name:
+            name = name.replace(string, string.upper())
+
+    return name
+
 def make_master_schools_list(CEEB_list: list[dict[str, str]], 
-                          nursing_list: list[dict[str,str]]) -> list[dict[str,str]]:
+                            MDB_list: list[dict[str,str]]) -> list[dict[str,str]]:
     """Create a single master school name list from the CEEB list
     and the NursingCAS list."""
     CEEB_list.sort(key=lambda school: school['CEEB'])
     #print(CEEB_list[:100])
-    nursing_list = list(filter(lambda school: school['ceeb_code'].isdigit(), 
-                               nursing_list))
-    nursing_list.sort(key=lambda school: school['ceeb_code'])
-    print(len(nursing_list))
-    #print(nursing_list[:100])
+    MDB_list = list(filter(lambda school: school['ceeb_code'].isdigit(), 
+                               MDB_list))
+    MDB_list.sort(key=lambda school: school['ceeb_code'])
+    print(len(MDB_list))
+    #print(MDB_list[:100])
     CEEB_copy_fields = ('Name', 'State', 'Country')
-    nursing_copy_fields = ('name', 'mdb_code', 'state', 'country',
+    MDB_copy_fields = ('name', 'mdb_code', 'state', 'country',
                            'fice_code', 'ipeds_code', 
                            'accreditation_agency')
 
     schools: list[dict[str, str]] = []
     ceeb_i = 0
-    nursing_i = 0
-    while ceeb_i < len(CEEB_list) or nursing_i < len(nursing_list):
+    mdb_i = 0
+    while ceeb_i < len(CEEB_list) or mdb_i < len(MDB_list):
         school: dict[str, str] = {}
         # Set the current CEEB number
         current_ceeb = ''
-        if (nursing_i >= len(nursing_list)):
+        if (mdb_i >= len(MDB_list)):
             current_ceeb = CEEB_list[ceeb_i]['CEEB']
         elif (ceeb_i >= len(CEEB_list)):
-            current_ceeb = nursing_list[nursing_i]['ceeb_code']
+            current_ceeb = MDB_list[mdb_i]['ceeb_code']
         else:
             current_ceeb = min(CEEB_list[ceeb_i]['CEEB'], 
-                               nursing_list[nursing_i]['ceeb_code'])
+                               MDB_list[mdb_i]['ceeb_code'])
         assert current_ceeb.isdigit()
 
         school['CEEB'] = current_ceeb
@@ -43,24 +63,18 @@ def make_master_schools_list(CEEB_list: list[dict[str, str]],
         else: # All the records need to have the same fields, even if they're empty
             for field in CEEB_copy_fields:
                 school['CEEB_'+field] = ''
-        # If this CEEB matches the current CEEB in the nursing_list, copy that data
-        if (nursing_i < len(nursing_list)) \
-            and (current_ceeb == nursing_list[nursing_i]['ceeb_code']):
-            for field in nursing_copy_fields:
-                school['nursing_'+field] = nursing_list[nursing_i][field]
-            nursing_i = nursing_i + 1
-        else: # Put in placeholders for the nursing fields
-            for field in nursing_copy_fields:
-                school['nursing_'+field] = ''
+        # If this CEEB matches the current CEEB in the MDB_list, copy that data
+        if (mdb_i < len(MDB_list)) \
+            and (current_ceeb == MDB_list[mdb_i]['ceeb_code']):
+            for field in MDB_copy_fields:
+                school['MDB_'+field] = MDB_list[mdb_i][field]
+            mdb_i = mdb_i + 1
+        else: # Put in placeholders for the MDB fields
+            for field in MDB_copy_fields:
+                school['MDB_'+field] = ''
         
-        # Fix the case in the nursing_name
-        school['nursing_name'] = school['nursing_name'].title()
-        # Put back state abbreviations, if they're in the name
-        state = school['nursing_state']
-        if state.title() in school['nursing_name']:
-            school['nursing_name'] = \
-                re.sub(r'\b'+state.title()+r'\b', state, school['nursing_name'])
-
+        school['MDB_name'] = fix_school_name_case(school)
+        
         schools.append(school)
 
     print(len(schools))
@@ -99,10 +113,10 @@ def make_comparison_list(transfer_schools_list: list[dict[str,str]],
 def main(args: list[str]) -> int:
     CEEB_list: list[dict[str, str]] = read_from_csv('sat-score-reporting-code-list-working.csv')
     print(len(CEEB_list))
-    nursing_list: list[dict[str,str]] = read_from_csv('Master College Code List 20240314.csv')
-    print(len(nursing_list))
+    MDB_list: list[dict[str,str]] = read_from_csv('MDB_Master College Code List 20240314.csv')
+    print(len(MDB_list))
 
-    schools_list = make_master_schools_list(CEEB_list, nursing_list)
+    schools_list = make_master_schools_list(CEEB_list, MDB_list)
     write_csv('school_names.csv', schools_list)
 
     transfer_schools_list: list[dict[str, str]] = read_from_csv('Schools.csv')
