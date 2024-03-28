@@ -1,6 +1,34 @@
 import re
 
+canonical_name_list: list[dict[str,str]] = read_canonical_name_list()
+
+def read_canonical_name_list() -> list[dict[str,str]]:
+    """Read the canonical name list and return it."""
+    result: list[dict[str,str]] = []
+    # Do the actual reading from csv here
+    return result
+
+
+def find_canonical_name(org_code: str) -> str:
+    """Using the name database, find the canonical
+    name for the school if it can be found.  If it
+    can't be found, just return the empty string."""
+    equivalences = {'*00016': '2519'} # Just use the CEEB for name lookup
+    ceeb = ''
+    if org_code in equivalences:
+        ceeb = equivalences[org_code]
+    elif org_code.startswith('00'):
+        ceeb = org_code[-4:]
+    # If the CEEB can be found in the canonical_name_list,
+    # get the name from there
+    # Else, just return ''
+    return ''
+
 def fix_name(orgname: str) -> str:
+    """Fix the school name.  First, look in the
+    school name database, and get the name from there
+    if possible.  If that is not possible, apply chewing
+    gum, band-aids, and spit (the replacements heuristics)."""
     replacements = {'C C': 'Community College',
                     'Cmty C': 'Community College',
                     'CC': 'Community College',
@@ -44,12 +72,13 @@ def fix_name(orgname: str) -> str:
                     'Cmps': 'Campus',
                     'N': 'North',}
 
-    result = orgname.strip()
-    # Remove strings of spaces
-    result = result.replace('  ',' ')
-    # Fails for reason not yet known
-    for string in replacements.keys():
-        result = re.sub(r'\b'+string+r'\b', replacements[string], result)
+    result = find_canonical_name(orgname)
+    if result == '':
+        result = orgname.strip()
+        # Remove strings of spaces
+        result = result.replace('  ',' ')
+        for string in replacements.keys():
+            result = re.sub(r'\b'+string+r'\b', replacements[string], result)
 
     return result
 
@@ -75,6 +104,8 @@ def filter_schools(transfer_credits: list[dict[str,str]]):
     #               IB        IB        'International (Generic)'
                    '999995']
     #              "Comprehensive Exam"
+    merges = {'$1': '5327'} # Rewrite the OrgCode
+
     for record in transfer_credits:
         #print(record)
         school = record['ORG CDE']
@@ -83,6 +114,12 @@ def filter_schools(transfer_credits: list[dict[str,str]]):
             del record
             continue
         # If this isn't a bad school
+        elif school in merges:
+            school = merges[school]
+            record['ORG CDE'] = school
+        #elif school in equivalences:
+            # Figure out how to get the name right
+
         # Pad 4-digit org codes with two leading zeroes because
         #   most of these codes appear to be 6 characters
         if len(school) == 4 and school.isdigit():
