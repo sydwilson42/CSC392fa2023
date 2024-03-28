@@ -5,19 +5,26 @@ def fix_name(orgname: str) -> str:
                     'Cmty C': 'Community College',
                     'CC': 'Community College',
                     'Cc': 'Community College',
+                    'Cmty Co': 'Community College',
+                    'cmty coll': 'Community College',
                     'Col': 'College',
                     'Coll': 'College',
                     'Clg': 'College',
                     'Comm': 'Community',
                     'Cmty': 'Community',
+                    'centrl': 'Central',
+                    'I': 'Institute',
                     'Inst': 'Institute',
+                    'Sch': 'School',
                     'St': 'State',
+                    'TechnicalCollege': 'Technical College',
                     'U': 'University',
                     'Un': 'University',
                     'Univ': 'University',
                     # State names
                     'Il': 'Illinois',
                     'In': 'Indiana',
+                    'Miss': 'Mississipi',
                     'Nc': 'North Carolina',
                     'Nj': 'New Jersey',
                     'Ny': 'New York',
@@ -26,16 +33,23 @@ def fix_name(orgname: str) -> str:
                     'Tx': 'Texas',
                     'Ut': 'Utah',
                     'Va': 'Virginia',
+                    #Acronyms
+                    'Usc': 'University of South Carolina',
+                    'Unc': 'University of North Carolina',
                     # Random stuff
                     'Centrl': 'Central',
-                    'Vly': 'Valley'}
+                    'Vly': 'Valley',
+                    'Intl': 'International',
+                    'Sthrn': 'Southern',
+                    'Cmps': 'Campus',
+                    'N': 'North',}
 
     result = orgname.strip()
     # Remove strings of spaces
     result = result.replace('  ',' ')
     # Fails for reason not yet known
     for string in replacements.keys():
-        result = re.sub('\b'+string+'\b', replacements[string], result)
+        result = re.sub(r'\b'+string+r'\b', replacements[string], result)
 
     return result
 
