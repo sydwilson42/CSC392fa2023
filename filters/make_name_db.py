@@ -10,7 +10,7 @@ def fix_school_name_case(school: dict[str, str]) -> str:
         school['MDB_name'] = \
             re.sub(r'\b'+state.title()+r'\b', state, school['MDB_name'])# Fix state references
         
-    downcased = ('(Now ', '(Now Part Of ', ' Of ')
+    downcased = ('(Now ', '(Now Part Of ', ' Of ', "'S ")
     for string in downcased:
         if string in name:
             name = name.replace(string, string.lower())
