@@ -6,25 +6,31 @@ def fix_school_name_case(school: dict[str, str]) -> str:
 
     # Put back state abbreviations, if they're in the name
     state = school['MDB_state']
-    if len(state) == 2 and state.isupper() and state != 'OT' and state.title() in school['MDB_name']:
-        school['MDB_name'] = \
-            re.sub(r'\b'+state.title()+r'\b', state, school['MDB_name'])# Fix state references
-        
-    downcased = ('(Now ', '(Now Part Of ', ' Of ', "'S ")
-    for string in downcased:
-        if string in name:
-            name = name.replace(string, string.lower())
-    upcased = ('Aarts')
-    for string in upcased:
-        if string in name:
-            name = name.replace(string, string.upper())
+    if len(state) == 2 and state.isupper() and state != 'OT' and state.title() in name:
+        name = re.sub(r'\b'+state.title()+r'\b', state, name)# Fix state references
+
+    # Strings to be fixed.  Note that if one of these strings is a substring 
+    #   of another of these strings, the long string should come *before* the 
+    #   substring in the tuple of strings.
+    strings_to_fix = (# to downcase
+                    '(previously ', '(now part of ', '(now ', "'s ", "'s ",
+                    ' of the ', ' of ', ' and ', ' de ', ' in ',
+                    # to upcase
+                    'AARTS', 'MCP ',
+                    # to mix case
+                    'McAllister', 'McCann', 'McConnell', 'McCook', 'McDaniel',
+                    'McDowell', 'McGill', 'McHenry', 'McKendree', 'McKenna',
+                    'McLennan', 'McMurry', 'McNeese', 'McPherson', 'McRae')
+    for string in strings_to_fix:
+        if string.title() in name:
+            name = name.replace(string.title(), string)
 
     return name
 
 def make_master_schools_list(CEEB_list: list[dict[str, str]], 
                             MDB_list: list[dict[str,str]]) -> list[dict[str,str]]:
     """Create a single master school name list from the CEEB list
-    and the NursingCAS list."""
+    and the MDB list."""
     CEEB_list.sort(key=lambda school: school['CEEB'])
     #print(CEEB_list[:100])
     MDB_list = list(filter(lambda school: school['ceeb_code'].isdigit(), 
