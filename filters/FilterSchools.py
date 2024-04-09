@@ -1,13 +1,12 @@
 import re
 
-canonical_name_list: list[dict[str,str]] = read_canonical_name_list()
-
 def read_canonical_name_list() -> list[dict[str,str]]:
     """Read the canonical name list and return it."""
     result: list[dict[str,str]] = []
     # Do the actual reading from csv here
     return result
 
+canonical_name_list: list[dict[str,str]] = read_canonical_name_list()
 
 def find_canonical_name(org_code: str) -> str:
     """Using the name database, find the canonical
