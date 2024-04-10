@@ -1,19 +1,28 @@
 import re
 
-canonical_name_list: list[dict[str,str]] = read_canonical_name_list()
-
 def read_canonical_name_list() -> list[dict[str,str]]:
     """Read the canonical name list and return it."""
     result: list[dict[str,str]] = []
+
     # Do the actual reading from csv here
     return result
 
+canonical_name_list: list[dict[str,str]] = read_canonical_name_list()
 
 def find_canonical_name(org_code: str) -> str:
     """Using the name database, find the canonical
     name for the school if it can be found.  If it
     can't be found, just return the empty string."""
-    equivalences = {'*00016': '2519'} # Just use the CEEB for name lookup
+    # Codes on the left should be mapped to codes on the right
+    # Some mappings are already documented in Schools_compared.csv
+    # Others you develop from schools_comparison.csv, as follows:
+    #     - Look for the schools in schools_comparison.csv that have no CEEB or MDB equivalent
+    #     - Search on the name.  If you find the name elsewhere in schools_comparison.csv,
+    #           merge the unmatched on into the matched one.
+    equivalences = {'*00016': '2519',
+                    '***022': '001311',
+                    '009917': '001311',
+                    '$1 ': '005327'} # Just use the CEEB for name lookup
     ceeb = ''
     if org_code in equivalences:
         ceeb = equivalences[org_code]
@@ -24,7 +33,7 @@ def find_canonical_name(org_code: str) -> str:
     # Else, just return ''
     return ''
 
-def fix_name(orgname: str) -> str:
+def fix_name(record: dict[str,str]) -> str:
     """Fix the school name.  First, look in the
     school name database, and get the name from there
     if possible.  If that is not possible, apply chewing
@@ -72,9 +81,9 @@ def fix_name(orgname: str) -> str:
                     'Cmps': 'Campus',
                     'N': 'North',}
 
-    result = find_canonical_name(orgname)
+    result = find_canonical_name(record['ORG CDE'])
     if result == '':
-        result = orgname.strip()
+        result = record['ORG NAME'].strip()
         # Remove strings of spaces
         result = result.replace('  ',' ')
         for string in replacements.keys():
@@ -127,7 +136,7 @@ def filter_schools(transfer_credits: list[dict[str,str]]):
         if school not in unique_schools:
             unique_schools.add(school)
             filtered_schools.append({'OrgCode': school,
-                                     'College': fix_name(record['ORG NAME']),
+                                     'College': fix_name(record),
                                      'TwoOrFourYear': two_year(record)})
             
     return filtered_schools
