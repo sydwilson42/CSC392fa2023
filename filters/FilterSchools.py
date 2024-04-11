@@ -22,7 +22,7 @@ def find_canonical_name(org_code: str) -> str:
     equivalences = {'*00016': '002519',
                     '***022': '001311',
                     '009917': '001311',
-                    '$1 ': '005327',
+                    '$00001 ': '005327',
                     '**007': '006874',
                     '**5711': '005711',
                     '****UC': '007181',
@@ -43,18 +43,18 @@ def find_canonical_name(org_code: str) -> str:
                     '**TUCC': '006839',
                     '**UNCS': '005512',
                     '*00017': '003829',
-                    '389': '006850',
-                    '457': '003623', 
-                    '970': '004381',
-                    '1420': '004007',
-                    '1510': '005526',
-                    '1547': '005029',
-                    '1601': '005900',
-                    '1643': '001154',
-                    '2063': '005137',
-                    '2691': '2063',
-                    '3030': '001088',
-                    '3408': '003733'} # Just use the CEEB for name lookup
+                    '000389': '006850',
+                    '000457': '003623', 
+                    '000970': '004381',
+                    '001420': '004007',
+                    '001510': '005526',
+                    '001547': '005029',
+                    '001601': '005900',
+                    '001643': '001154',
+                    '002063': '005137',
+                    '002691': '002063',
+                    '003030': '001088',
+                    '003408': '003733'} # Just use the CEEB for name lookup
     # Note: ***NOT FINISHED*** Check schools (ones I cannot find distinct/clear/any CEEB codes for): Purdue University, Sherman College of Chiropractic, Sch of Prof Studies - University Cntr, Edexcel Limited,
     # University of Belgrano, Maricopa Community College, Rockport College, Coastal Georgia Community College, Institute Int’l Educ of Sch, Presbyterian Univ-Mackenzie (Brazil),
     # Metropolitan Community College, Indiana University-Indianapolis, Demoratic Socialist Republic of Sri Lanka, University of Madras, Al al-Bayt University -Jordan, 
@@ -209,7 +209,7 @@ def find_canonical_name(org_code: str) -> str:
     equivalences = {'*00016': '2519',
                     '***022': '001311',
                     '009917': '001311',
-                    '$1 ': '005327'} # Just use the CEEB for name lookup
+                    '$00001 ': '005327'} # Just use the CEEB for name lookup
     ceeb = ''
     if org_code in equivalences:
         ceeb = equivalences[org_code]
@@ -327,5 +327,3 @@ def filter_schools(transfer_credits: list[dict[str,str]]) -> list[dict[str,str]]
                                      'TwoOrFourYear': str(two_year(record))})
             
     return filtered_schools
-
->>>>>>> 3874e65a98d33fe9959a1110c01cc1f37e8a10b3
