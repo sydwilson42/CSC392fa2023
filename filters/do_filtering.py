@@ -1,5 +1,5 @@
 from read_write_csv import read_from_csv,write_csv
-#from FilterSchools import filter_schools
+from FilterSchools import filter_schools
 from FilterCourses import filter_courses
 
 def main(args: list[str]) -> int:
@@ -8,9 +8,9 @@ def main(args: list[str]) -> int:
 
     # Filter the schools, 
     #     filtering the records from bad schools by side effect
-    #schools_list = filter_schools(original_records)
+    schools_list = filter_schools(original_records)
     # write the schools out
-    #write_csv('Schools.csv', schools_list)
+    write_csv('Schools.csv', schools_list)
 
     # Filter the courses, 
     #     filtering the records from bad courses by side effect
