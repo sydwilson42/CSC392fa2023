@@ -19,10 +19,53 @@ def find_canonical_name(org_code: str) -> str:
     #     - Look for the schools in schools_comparison.csv that have no CEEB or MDB equivalent
     #     - Search on the name.  If you find the name elsewhere in schools_comparison.csv,
     #           merge the unmatched on into the matched one.
-    equivalences = {'*00016': '2519',
+    equivalences = {'*00016': '002519',
                     '***022': '001311',
                     '009917': '001311',
-                    '$1 ': '005327'} # Just use the CEEB for name lookup
+                    '$1 ': '005327',
+                    '**007': '006874',
+                    '**5711': '005711',
+                    '****UC': '007181',
+                    '***018': '005546',
+                    '***021': '003708',
+                    '***024': '002785',
+                    '**025': '006591',
+                    '**0015': '006000',
+                    '**0016': '005638',
+                    '**0019': '002042',
+                    '**0020': '005120',
+                    '**0NIU': '001090',
+                    '**AASU': '005012',
+                    '**Amer': '000866',
+                    '**ART': '003463',
+                    '**CHIN': '007509',
+                    '**COVE': '006124',
+                    '**TUCC': '006839',
+                    '**UNCS': '005512',
+                    '*00017': '003829',
+                    '389': '006850',
+                    '457': '003623', 
+                    '970': '004381',
+                    '1420': '004007',
+                    '1510': '005526',
+                    '1547': '005029',
+                    '1601': '005900',
+                    '1643': '001154',
+                    '2063': '005137',
+                    '2691': '2063',
+                    '3030': '001088',
+                    '3408': '003733'} # Just use the CEEB for name lookup
+    # Note: ***NOT FINISHED*** Check schools (ones I cannot find distinct/clear/any CEEB codes for): Purdue University, Sherman College of Chiropractic, Sch of Prof Studies - University Cntr, Edexcel Limited,
+    # University of Belgrano, Maricopa Community College, Rockport College, Coastal Georgia Community College, Institute Int’l Educ of Sch, Presbyterian Univ-Mackenzie (Brazil),
+    # Metropolitan Community College, Indiana University-Indianapolis, Demoratic Socialist Republic of Sri Lanka, University of Madras, Al al-Bayt University -Jordan, 
+    # Augusta State University, Baylor College of Medicine, California Lutheran College, ECPI College of Technology-Greenville, Bavarian State Ministry, Goethe Institut, Italiaidea,
+    # Open Universities Australia, University of Maryland College Park, Universite Montpellier II, University of Malaga - Spain, University of Salamanca, Moscow State Academy of PE,
+    # Kaplan University Online (Now Purdue University Global??), University of the West Indies, Institute for American University, Troy St Univ Dothan (specific campus location), 
+    # Voronezh State University, Barat Coll, University of Fine Arts & Design Ganexa, Fairlegh Diknsn Ruth, Rutgers U Sch Arts, Univ Pittsbrgh Gnstd, University of North Carolina (possibly
+    # the Pembroke location), Westminster Choir Co, Johnson & Wales University (just revisit this)
+
+    # Ask Dr. Brown if we are reading in the course codes from Transfer_Courses.csv. Make sure codes match up. 
+
     ceeb = ''
     if org_code in equivalences:
         ceeb = equivalences[org_code]
