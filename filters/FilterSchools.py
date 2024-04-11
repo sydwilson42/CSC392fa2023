@@ -40,9 +40,13 @@ def find_canonical_name(org_code: str) -> str:
                     '**ART': '003463',
                     '**CHIN': '007509',
                     '**COVE': '006124',
+                    '**ECPI': '003145',
+                    '**PURD': '001631',
                     '**TUCC': '006839',
                     '**UNCS': '005512',
+                    '**UMCP': '005814',
                     '*00017': '003829',
+                    '*0009': '005848',
                     '000389': '006850',
                     '000457': '003623', 
                     '000970': '004381',
@@ -52,17 +56,26 @@ def find_canonical_name(org_code: str) -> str:
                     '001601': '005900',
                     '001643': '001154',
                     '002063': '005137',
+                    '002255': '002263',
                     '002691': '002063',
+                    '002736': '002765',
+                    '002940': '002927',
+                    '002954': '005534',
                     '003030': '001088',
+                    '003224': '003465',
                     '003408': '003733'} # Just use the CEEB for name lookup
-    # Note: ***NOT FINISHED*** Check schools (ones I cannot find distinct/clear/any CEEB codes for): Purdue University, Sherman College of Chiropractic, Sch of Prof Studies - University Cntr, Edexcel Limited,
-    # University of Belgrano, Maricopa Community College, Rockport College, Coastal Georgia Community College, Institute Int’l Educ of Sch, Presbyterian Univ-Mackenzie (Brazil),
+    # Note: ***NOT FINISHED*** Check schools (ones I cannot find distinct/clear/any CEEB codes for): 
+    # Sherman College of Chiropractic [leave separate], 
+    # Sch of Prof Studies - University Cntr, Edexcel Limited,
+    # University of Belgrano, Maricopa Community College [fixed name], 
+    # Rockport College [leave separate],
+    # Coastal Georgia Community College, Institute Int’l Educ of Sch, Presbyterian Univ-Mackenzie (Brazil),
     # Metropolitan Community College, Indiana University-Indianapolis, Demoratic Socialist Republic of Sri Lanka, University of Madras, Al al-Bayt University -Jordan, 
-    # Augusta State University, Baylor College of Medicine, California Lutheran College, ECPI College of Technology-Greenville, Bavarian State Ministry, Goethe Institut, Italiaidea,
-    # Open Universities Australia, University of Maryland College Park, Universite Montpellier II, University of Malaga - Spain, University of Salamanca, Moscow State Academy of PE,
-    # Kaplan University Online (Now Purdue University Global??), University of the West Indies, Institute for American University, Troy St Univ Dothan (specific campus location), 
-    # Voronezh State University, Barat Coll, University of Fine Arts & Design Ganexa, Fairlegh Diknsn Ruth, Rutgers U Sch Arts, Univ Pittsbrgh Gnstd, University of North Carolina (possibly
-    # the Pembroke location), Westminster Choir Co, Johnson & Wales University (just revisit this)
+    # Augusta State University, Baylor College of Medicine, California Lutheran College, Bavarian State Ministry, Goethe Institut, Italiaidea,
+    # Open Universities Australia, Universite Montpellier II, University of Malaga - Spain, University of Salamanca, Moscow State Academy of PE,
+    # University of the West Indies, Institute for American University, Troy St Univ Dothan (specific campus location), 
+    # Voronezh State University, Barat Coll, University of Fine Arts & Design Ganexa,
+    # Westminster Choir Co [leave separate]
 
     # Ask Dr. Brown if we are reading in the course codes from Transfer_Courses.csv. Make sure codes match up. 
 
@@ -122,7 +135,8 @@ def fix_name(record: dict[str,str]) -> str:
                     'Intl': 'International',
                     'Sthrn': 'Southern',
                     'Cmps': 'Campus',
-                    'N': 'North',}
+                    'N': 'North',
+                    'Maricopa Community College': 'Maricopa County Community College District'}
 
     result = find_canonical_name(record['ORG CDE'])
     if result == '':
