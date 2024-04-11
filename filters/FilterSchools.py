@@ -1,4 +1,5 @@
 import re
+from typing import Any
 
 def read_canonical_name_list() -> list[dict[str,str]]:
     """Read the canonical name list and return it."""
@@ -97,7 +98,7 @@ def two_year(record: dict[str,str]) -> bool:
     junior = False  # Set to True if the school appears 2-year
     return junior
 
-def filter_schools(transfer_credits: list[dict[str,str]]):
+def filter_schools(transfer_credits: list[dict[str,str]]) -> list[dict[str,str]]:
     """Takes a list of dictionaries TRANSFER_CREDITS and SAT_CREDITS, with one entry per
     course equivalence; merges the schools in the equivalence list and 
     returns a list of dictionaries, each representing a unique school,
@@ -137,7 +138,7 @@ def filter_schools(transfer_credits: list[dict[str,str]]):
             unique_schools.add(school)
             filtered_schools.append({'OrgCode': school,
                                      'College': fix_name(record),
-                                     'TwoOrFourYear': two_year(record)})
+                                     'TwoOrFourYear': str(two_year(record))})
             
     return filtered_schools
 
