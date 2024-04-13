@@ -19,7 +19,7 @@ def find_canonical_name(org_code: str) -> str:
     #     - Look for the schools in schools_comparison.csv that have no CEEB or MDB equivalent
     #     - Search on the name.  If you find the name elsewhere in schools_comparison.csv,
     #           merge the unmatched on into the matched one.
-    equivalences = {'$00001 ': '005327', # Ai Miami Intl University of Art & Design -> Miami International Universit of Art and Design
+    equivalences = {'$00001': '005327', # Ai Miami Intl University of Art & Design -> Miami International Universit of Art and Design
                     '****UC': '007181', # University of Cambridge to Cambridge University
                     '***018': '005546', # Los Angeles Valley College
                     '***020': '007585', # "Sch of Prof Studies - University Cntr" should be CUNY's, since they have a University Center
@@ -30,15 +30,15 @@ def find_canonical_name(org_code: str) -> str:
                     '**0007': '006874', # University of Minnesota - Twin Cities
                     '**0015': '006000', # American Public University System
                     '**0016': '005638', # Saint Leo University
-                    '**0019': '002042',
-                    '**0020': '005120',
+                    '**0019': '000946', # InterAmerican University of Puerto Rico
+                    '**0020': '005120', # Concord University
                     '**0025': '001325', # Indiana University-Indianapolis
-                    '**025': '006591', # Universidad de Monterrey
+                    '**025': '006591',  # Universidad de Monterrey
                     '**5711': '005711', # Georgia Perimeter College
-                    '**0NIU': '001090',
-                    '**AASU': '005012',
-                    '**Amer': '000866',
-                    '**ART': '003463', 
+                    '**0NIU': '001090', # Northeastern Illinois University
+                    '**AASU': '005012', # Armstrong Atlantic State University
+                    '**Amer': '000866', # American University of Paris
+                    '**ART': '003463',  # Art Institute of California-Hollywood
                     '**ASTU': '005406', # Augusta State University, now Augusta University
                     '**CALU': '004088', # California Lutheran College, now California Lutheran University
                     '**CHIN': '005690', # Chinese University of Hong Kong
@@ -52,9 +52,9 @@ def find_canonical_name(org_code: str) -> str:
                     '*00017': '003829', # Capella University
                     '*0009': '005848',  # Kaplan University, now Purdue University 
                     '000346': '001738', # Troy State University Dothan, now Troy University
-                    '000389': '006850',
-                    '000457': '003623', 
-                    '000970': '004381',
+                    '000389': '006850', # University of Texas at Tyler
+                    '000457': '003623', # South Piedmont Community College
+                    '000970': '004381', # University of La Verne Athens
                     '001420': '004007', # Arizona State University
                     '001510': '005526', # Northwest Florida State College
                     '001547': '005029', # Point University
