@@ -1,13 +1,17 @@
 import re
+from read_write_csv import read_from_csv  
 
-def read_canonical_name_list() -> list[dict[str,str]]:
+def read_canonical_name_dict() -> dict[dict[str,str]]:
     """Read the canonical name list and return it."""
-    result: list[dict[str,str]] = []
+    result: dict[dict[str,str]] = {}
+    namelist: list[dict[str,str]] = read_from_csv('school_names.csv')
+    for school in namelist:
+        result[school['CEEB']] = school
 
     # Do the actual reading from csv here
     return result
 
-canonical_name_list: list[dict[str,str]] = read_canonical_name_list()
+canonical_name_dict: dict[dict[str,str]] = read_canonical_name_dict()
 
 def find_canonical_name(org_code: str) -> str:
     """Using the name database, find the canonical
@@ -130,17 +134,22 @@ def find_canonical_name(org_code: str) -> str:
     # Anhui Medical University [Chinese, no CEEB.  Leave separate.]
     # CAEL [Canadian Academic English Language Assessment, a Canadian English-proficiency test.  No CEEB.  Leave it be.]
 
-    # Ask Dr. Brown if we are reading in the course codes from Transfer_Courses.csv. Make sure codes match up. 
-
+    name = ''
     ceeb = ''
     if org_code in equivalences:
         ceeb = equivalences[org_code]
     elif org_code.startswith('00'):
         ceeb = org_code[-4:]
-    # If the CEEB can be found in the canonical_name_list,
+        if ceeb in canonical_name_dict:
+            school = canonical_name_dict['school']
+            if len(school['CEEB_Name']) > 0:
+                name = school['CEEB_Name']
+            elif len(school['MDB_name']) > 0:
+                name = school['MDB_name']
+    # If the CEEB can be found in the canonical_name_dict,
     # get the name from there
     # Else, just return ''
-    return ''
+    return name
 
 def fix_name(record: dict[str,str]) -> str:
     """Fix the school name.  First, look in the
@@ -209,6 +218,21 @@ def fix_name(record: dict[str,str]) -> str:
 def two_year(record: dict[str,str]) -> bool:
     """Returns True if the school in RECORD appears to be a 2-year
     school, based on our best SWAG's applied to its name."""
+    
+    # What to look for in CEEB Names (or MDB Names if no CEEB Names exist) in this order:
+    # Junior College
+    # Community
+    # Technical College
+    # Tech
+
+    # Exceptions:
+    # Texas Tech (3423)
+    # Ontario Tech (4192)
+    # Arkansas Tech (6010)
+
+    # Check if University is anywhere in the name, if there is it is a 4-year. 
+
+
     junior = False  # Set to True if the school appears 2-year
     return junior
 
