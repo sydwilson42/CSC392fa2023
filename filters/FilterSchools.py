@@ -218,22 +218,20 @@ def fix_name(record: dict[str,str]) -> str:
 def two_year(record: dict[str,str]) -> bool:
     """Returns True if the school in RECORD appears to be a 2-year
     school, based on our best SWAG's applied to its name."""
-    
-    # What to look for in CEEB Names (or MDB Names if no CEEB Names exist) in this order:
-    # Junior College
-    # Community
-    # Technical College
-    # Tech
 
-    # Exceptions:
-    # Texas Tech (3423)
-    # Ontario Tech (4192)
-    # Arkansas Tech (6010)
+    # Tech is tricky. Check if University is anywhere in the name, if there is it is a 4-year. 
 
-    # Check if University is anywhere in the name, if there is it is a 4-year. 
-
-
-    junior = False  # Set to True if the school appears 2-year
+    if 'JUNIOR COLLEGE' in record['ORG NAME'].upper() :
+        junior = True
+    elif 'COMMUNITY' in record['ORG NAME'].upper():
+        junior = True
+    elif 'TECHINCAL COLLEGE' in record['ORG NAME'].upper():
+        junior = True
+    elif 'TECH' in record['ORG NAME'].upper():
+        if 'UNIVERSITY' not in record['ORG NAME'].upper():
+            junior = True
+    else:
+         junior = False  # Set to True if the school appears 2-year
     return junior
 
 def filter_schools(transfer_credits: list[dict[str,str]]) -> list[dict[str,str]]:
