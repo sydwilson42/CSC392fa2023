@@ -47,21 +47,21 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 46,005002,BIO104,Principles of Bio B,4,T
 47,005002,DAN213,Intermediate Jazz Dance,1,T
 48,005002,MTH113,Precalculus Trigon,3,T
-49,$00001,CS1101,Computer Basics,4,T
-50,$00001,EN1101,Composition,4,T
-51,$00001,EN1102,English Composition II,4,T
-52,$00001,HU2220,"War, Rel and Love in Mid Ages",4,T
-53,$00001,SC2206,Intro to Physics,4,T
-54,$00001,VA1401,Intermediate Drawing,3,T
-55,$00001,VA14010,Figure Drawing II,3,T
-56,$00001,VA1403,Principles of Design I,3,T
-57,$00001,VA1404,Principles of Design II,3,T
-58,$00001,VA1407,Three Dimensional Design,3,T
-59,$00001,VA1411,Black & White Photography I,3,T
-60,$00001,VA2413,Landscape Painting,3,T
-61,$00001,VA2800,Idea Generation & Creative Pro,3,T
-62,$00001,VA2810,Anatomy,3,T
-63,$00001,VA3415,Figure Sculpture I,3,T
+49,005327,CS1101,Computer Basics,4,T
+50,005327,EN1101,Composition,4,T
+51,005327,EN1102,English Composition II,4,T
+52,005327,HU2220,"War, Rel and Love in Mid Ages",4,T
+53,005327,SC2206,Intro to Physics,4,T
+54,005327,VA1401,Intermediate Drawing,3,T
+55,005327,VA14010,Figure Drawing II,3,T
+56,005327,VA1403,Principles of Design I,3,T
+57,005327,VA1404,Principles of Design II,3,T
+58,005327,VA1407,Three Dimensional Design,3,T
+59,005327,VA1411,Black & White Photography I,3,T
+60,005327,VA2413,Landscape Painting,3,T
+61,005327,VA2800,Idea Generation & Creative Pro,3,T
+62,005327,VA2810,Anatomy,3,T
+63,005327,VA3415,Figure Sculpture I,3,T
 64,005037,ACC101,Principles of Acco,3,T
 65,005037,BIO101,Biological Science,4,T
 66,005037,CHM110,College Chemistry,4,T
@@ -151,24 +151,24 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 150,003856,SOC107,Introduction to Sociology,3,T
 151,003856,SOCI107,Intro to Sociology,3,T
 152,003856,SPCH102,Public Speaking,3,T
-153,2486,BUSN105,Intro to Business,3,T
-154,2486,BUSN150,Legal/Ethical Env Busi,3,T
-155,2486,SCIE210,Environmental Science,3,T
-156,2486,SSCI108,Intro Psychology,3,T
-157,**0015,CS101,Basic Computer Applications,3,T
-158,**0015,CS107,Web Page & Web Des,3,T
-159,**0015,HIST520,Grad Sem in U.S. History,3,T
-160,**0015,HIST555,U.S. in the 20th Century,3,T
-161,**0015,HIST588,History of Religion,3,T
-162,**0015,HIST532,Roman Republic&Empire,3,T
-163,**0015,HIST533,Late Antiquity&Byzantium,3,T
-164,**0015,HIST534,Medieval Europe,3,T
-165,**0015,HM277,Intro to Ethics,3,T
-166,**0015,POL510,US Pres. Congress&Bureaucracy,3,T
-167,**0015,POLS630,Presidentcy:Inst & Perf,3,T
-168,**0015,RE317,Introduction to Bible,0,T
-169,**0015,SS101,Microeconomics,3,T
-170,**0015,SS102,Macroeconomics,3,T
+153,002486,BUSN105,Intro to Business,3,T
+154,002486,BUSN150,Legal/Ethical Env Busi,3,T
+155,002486,SCIE210,Environmental Science,3,T
+156,002486,SSCI108,Intro Psychology,3,T
+157,006000,CS101,Basic Computer Applications,3,T
+158,006000,CS107,Web Page & Web Des,3,T
+159,006000,HIST520,Grad Sem in U.S. History,3,T
+160,006000,HIST555,U.S. in the 20th Century,3,T
+161,006000,HIST588,History of Religion,3,T
+162,006000,HIST532,Roman Republic&Empire,3,T
+163,006000,HIST533,Late Antiquity&Byzantium,3,T
+164,006000,HIST534,Medieval Europe,3,T
+165,006000,HM277,Intro to Ethics,3,T
+166,006000,POL510,US Pres. Congress&Bureaucracy,3,T
+167,006000,POLS630,Presidentcy:Inst & Perf,3,T
+168,006000,RE317,Introduction to Bible,0,T
+169,006000,SS101,Microeconomics,3,T
+170,006000,SS102,Macroeconomics,3,T
 171,004004,ECE300,Intro Early Childhood Ed,3,T
 172,004004,ECE314,Child Family Community,3,T
 173,004004,ECE361,Young Child Visual Art,3,T
@@ -1583,7 +1583,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 1582,005010,TRANS001,Transfer Work,14,T
 1583,005010,TRANS001,Transfer Work,34,T
 1584,005010,UCO1200,ROMANCE: CROSS CULT,3,T
-1585,001420,FAS500,Ed Research & Evaluation,3,T
+1585,004007,FAS500,Ed Research & Evaluation,3,T
 1586,000782,CIS1503,Micro Comp Applications,3,T
 1587,000782,MATH1023,College Algebra,3,T
 1588,006010,AHS2013,Medical Terminology,3,T
@@ -1603,18 +1603,18 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 1602,006010,SOC1003,Sociology,3,T
 1603,006010,SPAN3003,Conversation/Comp I,3,T
 1604,006010,SPAN1013,Spanish I,3,T
-1605,**AASU,BIOL2081,Human Anatomy & Phy I,4,T
-1606,**AASU,BIOL1103,Concepts of Biology,4,T
-1607,**AASU,EEXE7030,Character Lrng Disabilities,3,T
-1608,**AASU,EEXE7401,Lang Dis & Learn Dysfunction,3,T
-1609,**AASU,EEXE7403,Brain Resea & Educ Practice,3,T
-1610,**AASU,ENG102,Composition II,3.35,T
-1611,**AASU,MUS130,Applied Piano,0.67,T
-1612,**AASU,MUS212,Int Theory II,2.01,T
-1613,**AASU,MUS213,Int Theory III,2.01,T
-1614,**AASU,MUS240,Applied Piano,1.34,T
-1615,**AASU,MUS254,Concert Choir,0.67,T
-1616,**AASU,PSYC3100,Psy of Human Sexuality,3,T
+1605,005012,BIOL2081,Human Anatomy & Phy I,4,T
+1606,005012,BIOL1103,Concepts of Biology,4,T
+1607,005012,EEXE7030,Character Lrng Disabilities,3,T
+1608,005012,EEXE7401,Lang Dis & Learn Dysfunction,3,T
+1609,005012,EEXE7403,Brain Resea & Educ Practice,3,T
+1610,005012,ENG102,Composition II,3.35,T
+1611,005012,MUS130,Applied Piano,0.67,T
+1612,005012,MUS212,Int Theory II,2.01,T
+1613,005012,MUS213,Int Theory III,2.01,T
+1614,005012,MUS240,Applied Piano,1.34,T
+1615,005012,MUS254,Concert Choir,0.67,T
+1616,005012,PSYC3100,Psy of Human Sexuality,3,T
 1617,005429,ART111,Drawing,2.66,T
 1618,005429,ART122,2-D Design,2.66,T
 1619,005429,ART123,Color Theory,2.66,T
@@ -1640,13 +1640,13 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 1639,005429,P104,Digital Photo Production,2.66,T
 1640,005429,PS101,Introduction to Psychology,2.66,T
 1641,005429,PS101,Intro to Psychology,2.66,T
-1642,**ART,FS101,Fundamentals/Observational Drawing,2,T
-1643,**ART,FS102,Fundamentalsa of Design,2,T
-1644,**ART,HU111,Effective Speaking,2.67,T
-1645,**ART,HU130,Visual Language & Culture,2.67,T
-1646,**ART,ID1117,Basic Drafting,2,T
-1647,**ART,ID1129,Introduction to AutoCAD,2,T
-1648,**ART,ID2237,Textiles,2,T
+1642,003463,FS101,Fundamentals/Observational Drawing,2,T
+1643,003463,FS102,Fundamentalsa of Design,2,T
+1644,003463,HU111,Effective Speaking,2.67,T
+1645,003463,HU130,Visual Language & Culture,2.67,T
+1646,003463,ID1117,Basic Drafting,2,T
+1647,003463,ID1129,Introduction to AutoCAD,2,T
+1648,003463,ID2237,Textiles,2,T
 1649,005583,ART111,Drawing,4,T
 1650,005583,ART121,3-D Design,4,T
 1651,005583,ART122,2-D Design,4,T
@@ -1771,11 +1771,11 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 1770,005033,TRANS001,Transfer Work,6,T
 1771,005033,TRANS001,Transfer Work,35.3,T
 1772,001021,EDU6130,Improv.Read.Comp,3,T
-1773,7354,BIOL204,Principles of Biology,3,T
-1774,7354,ENGL255,Introductory Comp,3,T
-1775,7354,HLST200,Intro to Human Health,3,T
-1776,7354,SOCI301,Social Statistics,3,T
-1777,7354,WGST266,Intro to Womens Studies,4,T
+1773,007354,BIOL204,Principles of Biology,3,T
+1774,007354,ENGL255,Introductory Comp,3,T
+1775,007354,HLST200,Intro to Human Health,3,T
+1776,007354,SOCI301,Social Statistics,3,T
+1777,007354,WGST266,Intro to Womens Studies,4,T
 1778,000462,AHS192,Human Anatomy & Physiology,3.33,T
 1779,000462,MAT191,College Algebra,3.33,T
 1780,000462,PSY191,Introductory Psychology,3.33,T
@@ -1788,14 +1788,14 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 1787,001005,MATH1150,Precalc Algebra & Trig,4,T
 1788,001005,MUSI7116,Choral Arranging II,3,T
 1789,001005,PSYC2010,Intro to Psychology,3,T
-1790,005336,ART122,Drawing I,3.33,T
-1791,005336,ART222,Printmaking,3.33,T
-1792,005336,ED307,EDUCATIONAL PSYCHOLOGY,3,T
-1793,**ASTU,BIOL1107,Principles of Biology I,4,T
-1794,**ASTU,ENGL1102,College Composition II,3,T
-1795,**ASTU,HIST2111,United States to 1877,3,T
-1796,**ASTU,MATH1111,College Algebra,3,T
-1797,**ASTU,WELL1000,Wellness,3,T
+1790,005406,ART122,Drawing I,3.33,T
+1791,005406,ART222,Printmaking,3.33,T
+1792,005406,ED307,EDUCATIONAL PSYCHOLOGY,3,T
+1793,005406,BIOL1107,Principles of Biology I,4,T
+1794,005406,ENGL1102,College Composition II,3,T
+1795,005406,HIST2111,United States to 1877,3,T
+1796,005406,MATH1111,College Algebra,3,T
+1797,005406,WELL1000,Wellness,3,T
 1798,006759,ART1613,Drawing I,3,T
 1799,006759,ENGL1301,Composition I,3,T
 1800,006759,ENGL1302,Composition II,3,T
@@ -2299,11 +2299,11 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2298,005065,VO442,Sophomore Voice,2,T
 2299,005065,VO452,Junior Voice,2,T
 2300,005065,VOICE,Voice Elective,2,T
-2301,002691,AFN126,Caribbean History,3,T
-2302,002691,ENG201,English II,3,T
-2303,002691,ENG311,Creative Writing,3,T
-2304,002691,SOC100,Intro to Sociology,3,T
-2305,002691,SPE100,Fund of Speech,3,T
+2301,002063,AFN126,Caribbean History,3,T
+2302,002063,ENG201,English II,3,T
+2303,002063,ENG311,Creative Writing,3,T
+2304,002063,SOC100,Intro to Sociology,3,T
+2305,002063,SPE100,Fund of Speech,3,T
 2306,000787,ACCT205,Intro Financial Accounting,3,T
 2307,000787,ART206,Intro to Visual Arts,3,T
 2308,000787,BADM105,Gen Business Adm,3,T
@@ -2523,14 +2523,14 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2522,005074,SYG200-,General Soc,3,T
 2523,005074,SYG2421,Marriage & Fam,3,T
 2524,005074,SYG2000,General Sociology,3,T
-2525,5735,MAC2313,Calculus/Anat Geo III,5,T
-2526,005036,DEP2102,Child Psychology,3,T
-2527,005036,DEP2302,ADOLESCENT PSYCH,3,T
-2528,005036,ENC1101,COMP I,3,T
-2529,005036,ENC1102,COMP II,3,T
-2530,005036,MUL2010,MUSIC APPR,3,T
-2531,005036,OCE1001,INTRO OCEAN,3,T
-2532,005036,SPC1017,INTRO SPE COMM,3,T
+2525,005735,MAC2313,Calculus/Anat Geo III,5,T
+2526,005074,DEP2102,Child Psychology,3,T
+2527,005074,DEP2302,ADOLESCENT PSYCH,3,T
+2528,005074,ENC1101,COMP I,3,T
+2529,005074,ENC1102,COMP II,3,T
+2530,005074,MUL2010,MUSIC APPR,3,T
+2531,005074,OCE1001,INTRO OCEAN,3,T
+2532,005074,SPC1017,INTRO SPE COMM,3,T
 2533,001908,BIB111,Biblical Worldview,3,T
 2534,001908,BIB112,Introduction to the Bible,3,T
 2535,001908,BIB215,Pentateuch,3,T
@@ -2600,7 +2600,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2599,001073,SW232,Womens Studies,3,T
 2600,004136,ENG231,World Lit I,3,T
 2601,004136,MUS121,Music Appre,3,T
-2602,007102,EDD711,Leadership Theory&Practice,3,T
+2602,003608,EDD711,Leadership Theory&Practice,3,T
 2603,999996,PLP810,Organizational Theory,3,T
 2604,999996,PLP850,Community Relations,3,P
 2605,999996,PLP850,Community Relations,3,T
@@ -2688,13 +2688,13 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2687,001356,SPA103,Elementary Spanish I,3.3,T
 2688,001356,THR120,Theatre Appre,3,T
 2689,004094,PHI312,Aesthetics,3,T
-2690,**CALU,BIO221,Gen Anat & Physiol Lect,3,T
-2691,**CALU,BIO222,Gen Anat & Physiol Lect,3,T
-2692,**CALU,CHEM111,Found of Chem,4,T
-2693,**CALU,ENGL111,Freshman English,3,T
-2694,**CALU,MUSIC114,Class Piano,1,T
-2695,**CALU,POLS102A,Thry & Pract Amer Govt,4,T
-2696,**CALU,PSYCH200,General Psych,4,T
+2690,004088,BIO221,Gen Anat & Physiol Lect,3,T
+2691,004088,BIO222,Gen Anat & Physiol Lect,3,T
+2692,004088,CHEM111,Found of Chem,4,T
+2693,004088,ENGL111,Freshman English,3,T
+2694,004088,MUSIC114,Class Piano,1,T
+2695,004088,POLS102A,Thry & Pract Amer Govt,4,T
+2696,004088,PSYCH200,General Psych,4,T
 2697,002647,TRAN001,Transfer Work,3,T
 2698,002121,ECO101,Economics I,3,T
 2699,002121,ECO102,Economics II,3,T
@@ -2747,20 +2747,20 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2746,005094,HIS131,American History I,3,T
 2747,005094,HIS132,American History II,3,T
 2748,005094,MUS161VO,Applied Music I - Voice,2,T
-2749,*00017,COUN5273,Couple & Marital Therapy,3,T
-2750,*00017,COUN5273,Couple&Marital Therapy,4,T
-2751,*00017,ED8113,Adv Study  Research Mthds,4,T
-2752,*00017,ED7822,Entrepreneurial Theory,3,T
-2753,*00017,ED7823,Liegislative Decision-Making,3,T
-2754,*00017,ED8102,Speaking for Professionals,3,T
-2755,*00017,ED8113,Data Analytics,3,T
-2756,*00017,ED8535,Community Relations,3,T
-2757,*00017,ED8536,Time & Project Mgt,3,T
-2758,*00017,ED5007,Foundations of Edu Ldshp,6,T
-2759,*00017,ED5320,School Leadership & Mana,4,T
-2760,*00017,ED5500,Std Based Cu Inst & Assess,3,T
-2761,*00017,ED7857,Personnel Administration,4,T
-2762,*00017,PSY5002,Orient GR Lrng Psy,3.33,T
+2749,003829,COUN5273,Couple & Marital Therapy,3,T
+2750,003829,COUN5273,Couple&Marital Therapy,4,T
+2751,003829,ED8113,Adv Study  Research Mthds,4,T
+2752,003829,ED7822,Entrepreneurial Theory,3,T
+2753,003829,ED7823,Liegislative Decision-Making,3,T
+2754,003829,ED8102,Speaking for Professionals,3,T
+2755,003829,ED8113,Data Analytics,3,T
+2756,003829,ED8535,Community Relations,3,T
+2757,003829,ED8536,Time & Project Mgt,3,T
+2758,003829,ED5007,Foundations of Edu Ldshp,6,T
+2759,003829,ED5320,School Leadership & Mana,4,T
+2760,003829,ED5500,Std Based Cu Inst & Assess,3,T
+2761,003829,ED7857,Personnel Administration,4,T
+2762,003829,PSY5002,Orient GR Lrng Psy,3.33,T
 2763,005797,MATH136,Calc  Single Variable 2,4,T
 2764,001102,ACCT201,Financial Accounting,3,T
 2765,001102,ACCT202,Managerial Acct,3,T
@@ -2855,8 +2855,8 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2854,005098,PSY150,General Psych,3,T
 2855,005098,REL110,World Religions,3,T
 2856,005098,SOC210,Intro to Sociology,3,T
-2857,008308,PSY101,Psychology,3,T
-2858,008308,SOC101,Sociology,3,T
+2857,005091,PSY101,Psychology,3,T
+2858,005091,SOC101,Sociology,3,T
 2859,000740,AH111,Med Terminology I,3,T
 2860,005665,ANT101,Anthropology,3,T
 2861,005665,ART101,Art Hist&Appre,3,T
@@ -2904,20 +2904,20 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2903,005665,SOC101,Sociology,3,T
 2904,005665,SPC205,Public Speaking,3,T
 2905,005665,SPC205,Public Speaking,3,T
-2906,5665,ART101,Art History and Appreciation,3,T
-2907,5665,BIO100,Introduction Biology,4,T
-2908,5665,BIO201,Anatomy and Physiology I,4,T
-2909,5665,CPT102,Basic Computer Concepts,3,T
-2910,5665,ENG101,English Composition I,3,T
-2911,5665,ENG102,English Composition II,3,T
-2912,5665,ENG101,English Composition I,3,T
-2913,5665,ENG102,English Composition II,3,T
-2914,5665,HIS201,American History:Disc-1877,3,T
-2915,5665,HIS202,American History:1877-Pres,3,T
-2916,5665,MAT110,College Algebra,3,T
-2917,5665,PSY201,General Psychology,3,T
-2918,5665,PSY203,Human Growth Development,3,T
-2919,5665,SPC205,Public Speaking,3,T
+2906,005665,ART101,Art History and Appreciation,3,T
+2907,005665,BIO100,Introduction Biology,4,T
+2908,005665,BIO201,Anatomy and Physiology I,4,T
+2909,005665,CPT102,Basic Computer Concepts,3,T
+2910,005665,ENG101,English Composition I,3,T
+2911,005665,ENG102,English Composition II,3,T
+2912,005665,ENG101,English Composition I,3,T
+2913,005665,ENG102,English Composition II,3,T
+2914,005665,HIS201,American History:Disc-1877,3,T
+2915,005665,HIS202,American History:1877-Pres,3,T
+2916,005665,MAT110,College Algebra,3,T
+2917,005665,PSY201,General Psychology,3,T
+2918,005665,PSY203,Human Growth Development,3,T
+2919,005665,SPC205,Public Speaking,3,T
 2920,005102,ANT210,General Anthropology,3,T
 2921,005102,ART114,Art History Survey I,3,T
 2922,005102,ART115,Art History Survey II,3,T
@@ -3984,10 +3984,10 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 3983,005837,TRANS001,Transfer Work,70,T
 3984,005837,WGST103,Intro Women's and Gender,3,T
 3985,005837,WGST103,Women's&Gender Std,3,T
-3986,**0000,ASTR1020,Stellar & Galactic Astronomy,4,T
-3987,**0000,ENGL1101,English Composition I,3,T
-3988,**0000,MATH101,College Algebra,3.3,T
-3989,**0000,SOCI1101,Introduction to Sociology,3,T
+3986,005078,ASTR1020,Stellar & Galactic Astronomy,4,T
+3987,005078,ENGL1101,English Composition I,3,T
+3988,005078,MATH101,College Algebra,3.3,T
+3989,005078,SOCI1101,Introduction to Sociology,3,T
 3990,004097,MAT124,Plane Trig,3,T
 3991,006101,CRW105,Topics:Novel,4,T
 3992,006101,CRW290,Fiction Wkshp I,4,T
@@ -4444,7 +4444,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4443,005144,MTH1120,College Algebra,3,T
 4444,005144,SOC1010,Sociology,3,T
 4445,005144,WFS1702,Health&Fitness,3,T
-4446,009976,MATH1143,College Algebra,3,T
+4446,003619,MATH1143,College Algebra,3,T
 4447,001951,ECON2302,Principles of Microeconomics,3,T
 4448,001951,MATH1332,College Mathematics,3,T
 4449,004659,BIB111,History/Lit of Ancient Israel,3,T
@@ -4655,49 +4655,49 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4654,003286,MAT2030,Prob & Stats,3,T
 4655,003286,PHI1040,Intro to Ethics,3,T
 4656,003286,PSY1010,Intro to Psych,3,T
-4657,002063,CMNS101,Communications,3,T
-4658,002063,CSIT101,Technology&Info Sys,3,T
-4659,002063,HIST116,African-American Hist,3,T
-4660,003408,BIOL2040,Human Sexuality,3,T
-4661,003408,ENGL1010,Composition I,3,T
-4662,003408,ENGL2200,Childrens Lit,3,T
-4663,003408,HMNS1080,"Hlth,Nutr&Young Child",3,T
-4664,003408,HMNS2060,Intro to Education,3,T
-4665,003408,HMNS2070,Char&Needs Spec Pop,3,T
-4666,003408,HMNS2100,Child Grwth&Dev,3,T
-4667,003408,HMNS2120,Curr Young Child,3,T
-4668,003408,HMNS2150,Parent Child Relatns,3,T
-4669,003408,MATH1600,Business Math,3,T
-4670,003408,PSY2030,Developmental Psych,3,T
-4671,003408,PSYC1970,Human Reltns Sem-App,3,T
-4672,003408,PSYC2010,General Psych,3,T
-4673,003408,PSYC2070,Educational Psych,3,T
-4674,003408,PSYC2110,Abnormal Psych,3,T
-4675,003408,SOCS1010,Sociology,3,T
+4657,005137,CMNS101,Communications,3,T
+4658,005137,CSIT101,Technology&Info Sys,3,T
+4659,005137,HIST116,African-American Hist,3,T
+4660,003733,BIOL2040,Human Sexuality,3,T
+4661,003733,ENGL1010,Composition I,3,T
+4662,003733,ENGL2200,Childrens Lit,3,T
+4663,003733,HMNS1080,"Hlth,Nutr&Young Child",3,T
+4664,003733,HMNS2060,Intro to Education,3,T
+4665,003733,HMNS2070,Char&Needs Spec Pop,3,T
+4666,003733,HMNS2100,Child Grwth&Dev,3,T
+4667,003733,HMNS2120,Curr Young Child,3,T
+4668,003733,HMNS2150,Parent Child Relatns,3,T
+4669,003733,MATH1600,Business Math,3,T
+4670,003733,PSY2030,Developmental Psych,3,T
+4671,003733,PSYC1970,Human Reltns Sem-App,3,T
+4672,003733,PSYC2010,General Psych,3,T
+4673,003733,PSYC2070,Educational Psych,3,T
+4674,003733,PSYC2110,Abnormal Psych,3,T
+4675,003733,SOCS1010,Sociology,3,T
 4676,999995,PLP800,Theories in Leadership,3,T
 4677,999995,PLP810,Organizational Theory,3,T
 4678,999995,PLP815,Personnel Theory,3,T
 4679,999995,PLP820,Issues in Leadership,3,T
 4680,999995,PLP825,Writing for Professionals,3,T
 4681,999995,PLP830,Cultural Awareness,3,T
-4682,**0020,ACCT307,Prin of Accounting,3,T
-4683,**0020,ART101A,Intro to Visual Arts,3,T
-4684,**0020,ART103,Drawing I,3,T
-4685,**0020,ART104,Drawing II,3,T
-4686,**0020,ART105,Design I,3,T
-4687,**0020,ART204,Painting I,3,T
-4688,**0020,ART101A,Intro to Vusual Arts,3,T
-4689,**0020,BIOL101,General Biology I,4,T
-4690,**0020,ENGL101,Composition & Rhetoric,3,T
-4691,**0020,ENGL102,Comp & Rhet II,3,T
-4692,**0020,ENGL203,World Lit I,3,T
-4693,**0020,ENGL204,World Lit II,3,T
-4694,**0020,ENGL101,Composition&Rhetoric,3,T
-4695,**0020,GEOG100,Principles Physical Geo,3,T
-4696,**0020,HIST101,History of Civilazation,3,T
-4697,**0020,PED101M,Personal Wellness,2,T
-4698,**0020,SPAN101,Elem Spanish I,3,T
-4699,**0020,SPED303,Intro to Spec Educ,3,T
+4682,005120,ACCT307,Prin of Accounting,3,T
+4683,005120,ART101A,Intro to Visual Arts,3,T
+4684,005120,ART103,Drawing I,3,T
+4685,005120,ART104,Drawing II,3,T
+4686,005120,ART105,Design I,3,T
+4687,005120,ART204,Painting I,3,T
+4688,005120,ART101A,Intro to Vusual Arts,3,T
+4689,005120,BIOL101,General Biology I,4,T
+4690,005120,ENGL101,Composition & Rhetoric,3,T
+4691,005120,ENGL102,Comp & Rhet II,3,T
+4692,005120,ENGL203,World Lit I,3,T
+4693,005120,ENGL204,World Lit II,3,T
+4694,005120,ENGL101,Composition&Rhetoric,3,T
+4695,005120,GEOG100,Principles Physical Geo,3,T
+4696,005120,HIST101,History of Civilazation,3,T
+4697,005120,PED101M,Personal Wellness,2,T
+4698,005120,SPAN101,Elem Spanish I,3,T
+4699,005120,SPED303,Intro to Spec Educ,3,T
 4700,001094,ART191,Stud in Art:Student Pro,1,T
 4701,001094,HIS131,Early Nat and Exp. Am,2,T
 4702,001094,HIS135,US in 20th Cent World,2,T
@@ -4784,16 +4784,16 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4783,002124,ART134,Art History II,3,T
 4784,002124,CHM117,Intro to Chemistry,4,T
 4785,002124,PSY219,Dev Psych-Human Lifespan,3,T
-4786,**COVE,BIB113,Pentateuch,3,T
-4787,**COVE,BIB142,Gospels and Acts,3,T
-4788,**COVE,BIB278,Christian Doctrine II,3,T
-4789,**COVE,BIB360,James,1,T
-4790,**COVE,BIO111,General Biology I,4,T
-4791,**COVE,BIO112,General Biology II,4,T
-4792,**COVE,EDU366,Literature for Children,3,T
-4793,**COVE,ENG12,English Composition II,2,T
-4794,**COVE,ID31,Fdns of Modern Culture,4,T
-4795,**COVE,MAT141,Pre-Calculus Math I,4,T
+4786,006124,BIB113,Pentateuch,3,T
+4787,006124,BIB142,Gospels and Acts,3,T
+4788,006124,BIB278,Christian Doctrine II,3,T
+4789,006124,BIB360,James,1,T
+4790,006124,BIO111,General Biology I,4,T
+4791,006124,BIO112,General Biology II,4,T
+4792,006124,EDU366,Literature for Children,3,T
+4793,006124,ENG12,English Composition II,2,T
+4794,006124,ID31,Fdns of Modern Culture,4,T
+4795,006124,MAT141,Pre-Calculus Math I,4,T
 4796,006008,ACC1160,PRIN OF ACCT II,3,T
 4797,006008,ACC1165,MANAGERIAL ACCT,3,T
 4798,006008,ANT6911,CULTURAL ANTH,3,T
@@ -4851,11 +4851,11 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4850,001146,HIS201,History of the United States I,3,T
 4851,001146,HIS202,Hist of the United States I,3,T
 4852,005139,ENG111,College Comp I,3,T
-4853,021002,ECON2301,Macroeconomics,3,T
-4854,021002,ENGL1301,Composition I,3,T
-4855,021002,ENGL1302,Composition II,3,T
-4856,021002,GOVT2305,Federal Gov't,3,T
-4857,021002,PSYC2301,General Psych,3,T
+4853,006070,ECON2301,Macroeconomics,3,T
+4854,006070,ENGL1301,Composition I,3,T
+4855,006070,ENGL1302,Composition II,3,T
+4856,006070,GOVT2305,Federal Gov't,3,T
+4857,006070,PSYC2301,General Psych,3,T
 4858,005167,CAPS1101,Introduction to Computers,3,T
 4859,005167,COMM1110,Fundamentals of Speech,3,T
 4860,005167,ENGL1101,English Composition I,3,T
@@ -5236,27 +5236,27 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 5235,005223,SP101,Elementary Spanish,3.5,T
 5236,005223,WH181,West Heritage-Global,3.5,T
 5237,005223,WH182,West Heritage-Global Context,3.5,T
-5238,**ECPI,ACG101,Accounting I,3,T
-5239,**ECPI,ACG102,Accounting II,3,T
-5240,**ECPI,CET125,Computer Applications,2,T
-5241,**ECPI,COM110,Principles of Speech,3,T
-5242,**ECPI,ENG101,College Composition,3,T
-5243,**ECPI,ENG120,Advanced Composition,3,T
-5244,**ECPI,ENG205,Critical Thinking,3,T
-5245,**ECPI,ENG230,Major Writers-World Lit,3,T
-5246,**ECPI,MTH115,Finite Mathematics,3,T
-5247,**ECPI,PSY101,Intro to Psychology,3,T
-5248,**ECPI,PSY105,Introduction to Psychology,3,T
-5249,**ECPI,SPH150,Communication,3,T
+5238,003145,ACG101,Accounting I,3,T
+5239,003145,ACG102,Accounting II,3,T
+5240,003145,CET125,Computer Applications,2,T
+5241,003145,COM110,Principles of Speech,3,T
+5242,003145,ENG101,College Composition,3,T
+5243,003145,ENG120,Advanced Composition,3,T
+5244,003145,ENG205,Critical Thinking,3,T
+5245,003145,ENG230,Major Writers-World Lit,3,T
+5246,003145,MTH115,Finite Mathematics,3,T
+5247,003145,PSY101,Intro to Psychology,3,T
+5248,003145,PSY105,Introduction to Psychology,3,T
+5249,003145,SPH150,Communication,3,T
 5250,***023,BAD001,Business Elective Credit,3,T
 5251,***023,ECN202,Economics,3,T
 5252,***023,ENG102,English Literature,3,T
 5253,***023,MTH108,Mathematics,3,T
-5254,6854,TRANS,Beyond Books,13.5,T
-5255,6854,TRANS,Intro to Fiction,6.5,T
-5256,6854,TRANS,Intro to Poetry,6.5,T
-5257,6854,TRANS,Intro to Scriptwriting,6.5,T
-5258,6854,TRANS,Reading the World,6.5,T
+5254,006854,TRANS,Beyond Books,13.5,T
+5255,006854,TRANS,Intro to Fiction,6.5,T
+5256,006854,TRANS,Intro to Poetry,6.5,T
+5257,006854,TRANS,Intro to Scriptwriting,6.5,T
+5258,006854,TRANS,Reading the World,6.5,T
 5259,005191,BSC101,Biological Sc,5,T
 5260,005191,BSC1011,Biological Sc II,5,T
 5261,005191,ENC1101,COMP I,3,T
@@ -5840,8 +5840,8 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 5839,**0004,THR120,Public Speaking,3,T
 5840,**0004,THR120,Transfer Credit,0,T
 5841,**0004,TRAN001,Spanish,0,T
-5842,002255,AC121,Accounting Principles I,3,T
-5843,002255,AC122,Accounting Principles II,3,T
+5842,002263,AC121,Accounting Principles I,3,T
+5843,002263,AC122,Accounting Principles II,3,T
 5844,002257,ED151,Basic Drafting,1.5,T
 5845,004457,GNST1010,American Social History,3,T
 5846,001034,BI1311,The Life of Christ,3,T
@@ -6235,17 +6235,17 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 6234,005442,TRAN001,Transfer Work,3,T
 6235,005442,TRAN001,Transfer Work,29,T
 6236,005442,TRANS001,Transfer Work,12,T
-6237,5442,ART101,Intro to Art,3,T
-6238,5442,BIOL105,Biological Sciences I,4,T
-6239,5442,CHEM102,Gen Chem II,4,T
-6240,5442,CHEM111,General Chem I,4,T
-6241,5442,ENGL102,Rhetoric&Genre Rsch,3,T
-6242,5442,ENGL250,Intro to Lit,3,T
-6243,5442,MATH105,College Algebra I,3,T
-6244,5442,MATH111,College Algebra II,3,T
-6245,5442,POLI103,Intro Political Science,3,T
-6246,5442,SPCO101,Oral Communication,3,T
-6247,5442,THEA101,Intro to Theatre,3,T
+6237,005442,ART101,Intro to Art,3,T
+6238,005442,BIOL105,Biological Sciences I,4,T
+6239,005442,CHEM102,Gen Chem II,4,T
+6240,005442,CHEM111,General Chem I,4,T
+6241,005442,ENGL102,Rhetoric&Genre Rsch,3,T
+6242,005442,ENGL250,Intro to Lit,3,T
+6243,005442,MATH105,College Algebra I,3,T
+6244,005442,MATH111,College Algebra II,3,T
+6245,005442,POLI103,Intro Political Science,3,T
+6246,005442,SPCO101,Oral Communication,3,T
+6247,005442,THEA101,Intro to Theatre,3,T
 6248,001229,ACCT215,Financial Accounting,4,T
 6249,001229,ACCT225,Managerial Accounting,4,T
 6250,001229,BSAD325,Organizational Behavior,4,T
@@ -6639,16 +6639,16 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 6638,005252,PHIL2010,Philosophy,3,T
 6639,005252,PHYS1111,Physics I,4,T
 6640,005252,POLS4950,Politics of South Park,3,T
-6641,5237,ARTS1113,Art Appreciaton,3,T
-6642,5237,BIOL101,Intro Biology I,4,T
-6643,5237,COMM1100,Human Communication,3,T
-6644,5237,ENGL1101,English Comp I,3,T
-6645,5237,ENGL1102,English Comp II,3,T
-6646,5237,HIST2111,American History I,3,T
-6647,5237,MATH1001,Quantitative Reasoning,3,T
-6648,5237,POLS101,American Government,3,T
-6649,5237,PSYC110,General Psych,3,T
-6650,5237,SOC1101,Sociology,3,T
+6641,005237,ARTS1113,Art Appreciaton,3,T
+6642,005237,BIOL101,Intro Biology I,4,T
+6643,005237,COMM1100,Human Communication,3,T
+6644,005237,ENGL1101,English Comp I,3,T
+6645,005237,ENGL1102,English Comp II,3,T
+6646,005237,HIST2111,American History I,3,T
+6647,005237,MATH1001,Quantitative Reasoning,3,T
+6648,005237,POLS101,American Government,3,T
+6649,005237,PSYC110,General Psych,3,T
+6650,005237,SOC1101,Sociology,3,T
 6651,005249,ART194,ART APPRECIATION,3.33,T
 6652,005249,BIO123,Gen Bio I,4,T
 6653,005249,BIO124,Gen Bio II,4,T
@@ -6678,67 +6678,67 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 6677,005249,SOC200,INTRO TO SOC,3.33,T
 6678,002860,CIS106,Computer Concepts,3.33,T
 6679,002860,SCT100,Intro to Microcomputers,2,T
-6680,**5711,ACCT2102,Prin of Acct II,3,T
-6681,**5711,ARTS101,Art Appreciation,3.33,T
-6682,**5711,ARTS1301,Art Appreciation,3,T
-6683,**5711,ARTS1620,Two-D Design & Color Theory,3,T
-6684,**5711,ARTS202,Figure Drawing,3.33,T
-6685,**5711,ARTS205,Ceramic Design,3.33,T
-6686,**5711,ARTS206,Advanced Ceramics,3.33,T
-6687,**5711,ARTS1301,Art Appreciation,3,T
-6688,**5711,ASTR1010,Astronomy of the solar System,4,T
-6689,**5711,BIOL1405,Human Bio&Disease,3,T
-6690,**5711,BIOL2108,Principles of Biology II,4,T
-6691,**5711,BIOL2407,Principles of Biology,4,T
-6692,**5711,BUSA2106,The Environment of Business,3,T
-6693,**5711,CHEM1421,General Chemistry,4,T
-6694,**5711,CHEM1422,General Chemistry II,4,T
-6695,**5711,CSC1401,Intro Comp Science,3,T
-6696,**5711,ECON2105,Principles of Macroeconomics,3,T
-6697,**5711,ECON2105,Principles of Macroeconomics,3,T
-6698,**5711,ECON2105,Prin of Macro,3,T
-6699,**5711,ENGL101,Comp & Rhetoric I,3.33,T
-6700,**5711,ENGL102,Comp & Rhetoric II,3.33,T
-6701,**5711,ENGL1101,English Composition I,3,T
-6702,**5711,ENGL1101,English Composition I,3,T
-6703,**5711,ENGL1102,English composition II,3,T
-6704,**5711,ENGL1102,English Composition II,3,T
-6705,**5711,ENGL203,World Literature,3.33,T
-6706,**5711,ENGL2111,World Literature I,3,T
-6707,**5711,ENGL101,Comp&Rhetoric I,3.33,T
-6708,**5711,ENGL102,Comp&Rhetoric II,3.33,T
-6709,**5711,ENGL2303,World Lit I,3,T
-6710,**5711,ENVS1401,Environmental Science,4,T
-6711,**5711,FILM1301,Film Appreciation,3,T
-6712,**5711,FREN1001,Elementary French I,3,T
-6713,**5711,HIST1503,World Civilization 1500 to,3,T
-6714,**5711,HIST2111,United States History I,3,T
-6715,**5711,HIST2112,United States History II,3,T
-6716,**5711,HIST1503,World Civ From 1500,3,T
-6717,**5711,HIST2111,US History I,3,T
-6718,**5711,MATH1113,Precalculus,4,T
-6719,**5711,MATH1113,Precalculus,4,T
-6720,**5711,MATH117,College Algebra,3.33,T
-6721,**5711,MATH118,Trigonometry,3.33,T
-6722,**5711,MATH117,College Algebra,3.33,T
-6723,**5711,MATH2431,Calculus I,4,T
-6724,**5711,MUSC1752,Concert Band,1,T
-6725,**5711,PHED1042,Modern Dance,1,T
-6726,**5711,PHED1065,Weight Training,1,T
-6727,**5711,PHED1038,Tennis,1,T
-6728,**5711,PHED169,Aerobic Fitness,1.33,T
-6729,**5711,PHED2006,Fisrt Aid&Safety,3,T
-6730,**5711,PHYS1111,General Physics I,4,T
-6731,**5711,POLS1101,American Government,3,T
-6732,**5711,POLS1101,American Gov't,3,T
-6733,**5711,PSYC101,Prin of Psychology,3.33,T
-6734,**5711,PSYC1101,Intro to General Psychology,3,T
-6735,**5711,PSYC1501,Principles of Psych,3,T
-6736,**5711,RELI1301,World Religions,3,T
-6737,**5711,SPAN1001,Elementary Spanish I,3,T
-6738,**5711,SPAN101,Elementary Spanish I,3.33,T
-6739,**5711,SPAN101,Elem Spanish I,3.33,T
-6740,**5711,SPAN102,Elem Spanish II,3.33,T
+6680,005711,ACCT2102,Prin of Acct II,3,T
+6681,005711,ARTS101,Art Appreciation,3.33,T
+6682,005711,ARTS1301,Art Appreciation,3,T
+6683,005711,ARTS1620,Two-D Design & Color Theory,3,T
+6684,005711,ARTS202,Figure Drawing,3.33,T
+6685,005711,ARTS205,Ceramic Design,3.33,T
+6686,005711,ARTS206,Advanced Ceramics,3.33,T
+6687,005711,ARTS1301,Art Appreciation,3,T
+6688,005711,ASTR1010,Astronomy of the solar System,4,T
+6689,005711,BIOL1405,Human Bio&Disease,3,T
+6690,005711,BIOL2108,Principles of Biology II,4,T
+6691,005711,BIOL2407,Principles of Biology,4,T
+6692,005711,BUSA2106,The Environment of Business,3,T
+6693,005711,CHEM1421,General Chemistry,4,T
+6694,005711,CHEM1422,General Chemistry II,4,T
+6695,005711,CSC1401,Intro Comp Science,3,T
+6696,005711,ECON2105,Principles of Macroeconomics,3,T
+6697,005711,ECON2105,Principles of Macroeconomics,3,T
+6698,005711,ECON2105,Prin of Macro,3,T
+6699,005711,ENGL101,Comp & Rhetoric I,3.33,T
+6700,005711,ENGL102,Comp & Rhetoric II,3.33,T
+6701,005711,ENGL1101,English Composition I,3,T
+6702,005711,ENGL1101,English Composition I,3,T
+6703,005711,ENGL1102,English composition II,3,T
+6704,005711,ENGL1102,English Composition II,3,T
+6705,005711,ENGL203,World Literature,3.33,T
+6706,005711,ENGL2111,World Literature I,3,T
+6707,005711,ENGL101,Comp&Rhetoric I,3.33,T
+6708,005711,ENGL102,Comp&Rhetoric II,3.33,T
+6709,005711,ENGL2303,World Lit I,3,T
+6710,005711,ENVS1401,Environmental Science,4,T
+6711,005711,FILM1301,Film Appreciation,3,T
+6712,005711,FREN1001,Elementary French I,3,T
+6713,005711,HIST1503,World Civilization 1500 to,3,T
+6714,005711,HIST2111,United States History I,3,T
+6715,005711,HIST2112,United States History II,3,T
+6716,005711,HIST1503,World Civ From 1500,3,T
+6717,005711,HIST2111,US History I,3,T
+6718,005711,MATH1113,Precalculus,4,T
+6719,005711,MATH1113,Precalculus,4,T
+6720,005711,MATH117,College Algebra,3.33,T
+6721,005711,MATH118,Trigonometry,3.33,T
+6722,005711,MATH117,College Algebra,3.33,T
+6723,005711,MATH2431,Calculus I,4,T
+6724,005711,MUSC1752,Concert Band,1,T
+6725,005711,PHED1042,Modern Dance,1,T
+6726,005711,PHED1065,Weight Training,1,T
+6727,005711,PHED1038,Tennis,1,T
+6728,005711,PHED169,Aerobic Fitness,1.33,T
+6729,005711,PHED2006,Fisrt Aid&Safety,3,T
+6730,005711,PHYS1111,General Physics I,4,T
+6731,005711,POLS1101,American Government,3,T
+6732,005711,POLS1101,American Gov't,3,T
+6733,005711,PSYC101,Prin of Psychology,3.33,T
+6734,005711,PSYC1101,Intro to General Psychology,3,T
+6735,005711,PSYC1501,Principles of Psych,3,T
+6736,005711,RELI1301,World Religions,3,T
+6737,005711,SPAN1001,Elementary Spanish I,3,T
+6738,005711,SPAN101,Elementary Spanish I,3.33,T
+6739,005711,SPAN101,Elem Spanish I,3.33,T
+6740,005711,SPAN102,Elem Spanish II,3.33,T
 6741,005251,ARTHISTORY,ART HISTORY,3,T
 6742,005251,ARTHISTORY,ART HISTORY,3,T
 6743,005251,ART1301,Art & Society,3,T
@@ -6805,8 +6805,8 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 6804,005253,SPA152,Elm Spa II,3.3,T
 6805,005253,SPA153,Elementary Spa III,3.3,T
 6806,005253,SPA311,Discussion Circle,0.66,T
-6807,008660,ENG111,Colleg Comp I,3,T
-6808,008660,ENG112,College Comp II,3,T
+6807,005276,ENG111,Colleg Comp I,3,T
+6808,005276,ENG112,College Comp II,3,T
 6809,004338,SPA101,Elementary Spanish I,4,T
 6810,**GOET,GER365,Foreign Language Study Sem,6,T
 6811,**GOET,TRAN001,Transfer Work,6,T
@@ -8184,27 +8184,27 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8183,001324,SPAN204,Second Year Spanish 2,3,T
 8184,001324,SPCH121,Public Speaking,3,T
 8185,001194,TRAN001,Transfer,24,T
-8186,**0025,AST-A100,The Solar System,3,T
-8187,**0025,BIOL-K101,Concepts of Biology I,5,T
-8188,**0025,BIOL-K103,Concpts of Biology II,5,T
-8189,**0025,CHEM-C101,Elementary Chemistry I,3,T
-8190,**0025,CHEM-C125,Experimental Chemistry I,2,T
-8191,**0025,ECON101,Survey of Econ Issues,3,T
-8192,**0025,EDUC-E201,Multicult Educ/Global Awarens,3,T
-8193,**0025,EDUC-F200,Examining Self as Teacher,3,T
-8194,**0025,EDUC-P251,Educ Psy for Elem Tchrs,3,T
-8195,**0025,EDUC-Q200,Intro to Scienctific  Inquiry,3,T
-8196,**0025,ENG-L204,Introduction to Fiction,3,T
-8197,**0025,ENG-W131,Elementary Composition I,3,T
-8198,**0025,ENG-Z205,Intro to the Eng Lang,3,T
-8199,**0025,HER-H100,Art Appreciation,3,T
-8200,**0025,HIST-H105,American History I,3,T
-8201,**0025,HIST-H114,History of West Civ,3,T
-8202,**0025,MATH111,Algebra,4,T
-8203,**0025,MATH13600,Math for Elem Tchrs,3,T
-8204,**0025,MUS-M174,Music for the Listener,3,T
-8205,**0025,PSY-B104,Psychology as a Soci Science,3,T
-8206,**0025,STAT30100,Elem Stat Method I,3,T
+8186,001325,AST-A100,The Solar System,3,T
+8187,001325,BIOL-K101,Concepts of Biology I,5,T
+8188,001325,BIOL-K103,Concpts of Biology II,5,T
+8189,001325,CHEM-C101,Elementary Chemistry I,3,T
+8190,001325,CHEM-C125,Experimental Chemistry I,2,T
+8191,001325,ECON101,Survey of Econ Issues,3,T
+8192,001325,EDUC-E201,Multicult Educ/Global Awarens,3,T
+8193,001325,EDUC-F200,Examining Self as Teacher,3,T
+8194,001325,EDUC-P251,Educ Psy for Elem Tchrs,3,T
+8195,001325,EDUC-Q200,Intro to Scienctific  Inquiry,3,T
+8196,001325,ENG-L204,Introduction to Fiction,3,T
+8197,001325,ENG-W131,Elementary Composition I,3,T
+8198,001325,ENG-Z205,Intro to the Eng Lang,3,T
+8199,001325,HER-H100,Art Appreciation,3,T
+8200,001325,HIST-H105,American History I,3,T
+8201,001325,HIST-H114,History of West Civ,3,T
+8202,001325,MATH111,Algebra,4,T
+8203,001325,MATH13600,Math for Elem Tchrs,3,T
+8204,001325,MUS-M174,Music for the Listener,3,T
+8205,001325,PSY-B104,Psychology as a Soci Science,3,T
+8206,001325,STAT30100,Elem Stat Method I,3,T
 8207,000004,FRE315,Writing & Oral Techniques,3,T
 8208,000004,HIS345,Major changes French Soc,3,T
 8209,**0008,CN312,Int Adv Interm Chinese,8,T
@@ -8762,20 +8762,20 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8761,002325,THEOR13300,Sightsinging I,1.5,T
 8762,002325,THEOR13400,Sightsinging II,1.5,T
 8763,002325,THEOR25500,Hist & Lit of Music I,3,T
-8764,***022,CHM101,Introductory Chemistry I,3,T
-8765,009917,COMM101,Public Speaking,3,T
-8766,009917,CRIM101,Intro Criminal Justice,3,T
-8767,009917,ECON101,Economic Fundamentals,3,T
-8768,009917,ENGL111,English Composition,3,T
-8769,009917,ENGL111,English Comp I,3,T
-8770,009917,MATH136,College Algebra,3,T
-8771,009917,MATH136,College Algebra,3,T
-8772,009917,MATH137,Trig/Analytic Geom,3,T
-8773,009917,MATH211,Calculus I,4,T
-8774,009917,POLS101,American Government,3,T
-8775,009917,SCIN100,Earth Science,4,T
-8776,009917,SPAN101,Spanish I,4,T
-8777,009917,SPAN102,Spanish II,4,T
+8764,003825,CHM101,Introductory Chemistry I,3,T
+8765,003825,COMM101,Public Speaking,3,T
+8766,003825,CRIM101,Intro Criminal Justice,3,T
+8767,003825,ECON101,Economic Fundamentals,3,T
+8768,003825,ENGL111,English Composition,3,T
+8769,003825,ENGL111,English Comp I,3,T
+8770,003825,MATH136,College Algebra,3,T
+8771,003825,MATH136,College Algebra,3,T
+8772,003825,MATH137,Trig/Analytic Geom,3,T
+8773,003825,MATH211,Calculus I,4,T
+8774,003825,POLS101,American Government,3,T
+8775,003825,SCIN100,Earth Science,4,T
+8776,003825,SPAN101,Spanish I,4,T
+8777,003825,SPAN102,Spanish II,4,T
 8778,001311,ENGL111,English Comp I,3,T
 8779,001311,ENGL112,English Comp II,3,T
 8780,001939,CIS146,Microcomputer Appls,3,T
@@ -8785,25 +8785,25 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8784,001939,HIS201,U.S. History I,3,T
 8785,001939,MTH265,Elem Statistics,3,T
 8786,001939,SOC200,Intro Sociology,3,T
-8787,005347,ART101,History & Appreciation,3,T
-8788,005347,ASL101,American Sign Lang I,4,T
-8789,005347,ASL102,American Sign Lang II,4,T
-8790,005347,ASL201,American Sign Lang III,3,T
-8791,005347,ASL202,American Sign Lang IV,0,T
-8792,005347,BIO101,General Biology I,4,T
-8793,005347,BIO102,General Biology II,4,T
-8794,005347,CST100,Principles of Public Speaking,3,T
-8795,005347,ECO201,Principles EconomicsI-Macro,3,T
-8796,005347,ENG111,College Composition I,3,T
-8797,005347,ENG112,College Composition II,3,T
-8798,005347,ENG217,Creative Writing-Poetry,3,T
-8799,005347,ENG254,Survey/African-Am Lit,3,T
-8800,005347,GEO210,People & Lane:Intro to Cul,3,T
-8801,005347,HIS141,African-American Hist,3,T
-8802,005347,MTH163,Precalculus I,3,T
-8803,005347,MTH270,Applied Calculus,3,T
-8804,005347,PED109,Yoga,2,T
-8805,005347,PSY201,Introduction to Psychology I,3,T
+8787,005340,ART101,History & Appreciation,3,T
+8788,005340,ASL101,American Sign Lang I,4,T
+8789,005340,ASL102,American Sign Lang II,4,T
+8790,005340,ASL201,American Sign Lang III,3,T
+8791,005340,ASL202,American Sign Lang IV,0,T
+8792,005340,BIO101,General Biology I,4,T
+8793,005340,BIO102,General Biology II,4,T
+8794,005340,CST100,Principles of Public Speaking,3,T
+8795,005340,ECO201,Principles EconomicsI-Macro,3,T
+8796,005340,ENG111,College Composition I,3,T
+8797,005340,ENG112,College Composition II,3,T
+8798,005340,ENG217,Creative Writing-Poetry,3,T
+8799,005340,ENG254,Survey/African-Am Lit,3,T
+8800,005340,GEO210,People & Lane:Intro to Cul,3,T
+8801,005340,HIS141,African-American Hist,3,T
+8802,005340,MTH163,Precalculus I,3,T
+8803,005340,MTH270,Applied Calculus,3,T
+8804,005340,PED109,Yoga,2,T
+8805,005340,PSY201,Introduction to Psychology I,3,T
 8806,002266,ENGL1010,English Comp I,3,T
 8807,002266,HIST2010,American Hist I,3,T
 8808,002266,HIST2010,American History I,3,T
@@ -8941,7 +8941,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8940,003465,SEE2005,Business of Sports,3,T
 8941,003465,SEE1010,"Intro to Sports Ent, Event Mgt",3,T
 8942,003465,SOC1001,Sociology,3,T
-8943,003224,EN1020,English Composition,4.5,T
+8943,003465,EN1020,English Composition,4.5,T
 8944,003404,ENG1021,Advanced Comp&Comm,3,T
 8945,003404,ENG1030,Communication Skills,3,T
 8946,003404,FIT1040,Spreadsheet Design,3,T
@@ -8984,7 +8984,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8983,005333,SPE131,Fun Spch I,3,T
 8984,001346,PSYC101,General Psych,3,T
 8985,001346,SPCH101,Prin of Speech Comm,3,T
-8986,***024,EDU562,Educator Eval & K-12 Instruct,3,T
+8986,002785,EDU562,Educator Eval & K-12 Instruct,3,T
 8987,001378,ENG110,College Writing I,3,T
 8988,001378,PSY150,Introductory Psychology,3,T
 8989,001380,BIOL1503,Heredity & Society,3,T
@@ -9006,11 +9006,11 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 9005,001380,SOC2523,Social Problems,3,T
 9006,001380,SOCY2543,Racial&Ethnic Relations,3,T
 9007,006334,ASI318,Fund of Nutrition,3,T
-9008,*0009,HUM300,Art & Hum:20th Cen & Beyond,6,T
-9009,***021,BSC1005,General Biology,3,T
-9010,***021,CGS1000C,Intro to Computers,3,T
-9011,***021,ENC1101,English Composition I,3,T
-9012,***021,MEA1236,Anatomy and Physiology,6,T
+9008,005848,HUM300,Art & Hum:20th Cen & Beyond,6,T
+9009,003708,BSC1005,General Biology,3,T
+9010,003708,CGS1000C,Intro to Computers,3,T
+9011,003708,ENC1101,English Composition I,3,T
+9012,003708,MEA1236,Anatomy and Physiology,6,T
 9013,005359,COM2230,Intro to Mass Communication,3,T
 9014,005359,ECON2100,Principles of Ecn Micro,3,T
 9015,005359,ENGL101,Composition,3,T
@@ -9774,11 +9774,11 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 9773,004409,PSYCH001,General Psychology,3,T
 9774,004409,SOC001,Intro to Sociology,3,T
 9775,004409,SPEECH101,Oral Communication I,3,T
-9776,***018,ART101,Survey Art History I,3,T
-9777,***018,ART102,Survey Art History 2,3,T
-9778,***018,BIOLO003,Introduct to Biology,4,T
-9779,***018,CHEM051,Fund Chem I,5,T
-9780,***018,FRENC001,Elem French I,5,T
+9776,005546,ART101,Survey Art History I,3,T
+9777,005546,ART102,Survey Art History 2,3,T
+9778,005546,BIOLO003,Introduct to Biology,4,T
+9779,005546,CHEM051,Fund Chem I,5,T
+9780,005546,FRENC001,Elem French I,5,T
 9781,005369,BIO111,GENERAL BIO,4,T
 9782,005369,BUS110,INTRO TO BUS,3,T
 9783,005369,BUS260,BUSINESS COMM,3,T
@@ -10165,22 +10165,22 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 10164,**0018,PSYC243,Human Lifespan,3,T
 10165,**0018,PSYC245,Adolescent Psych,3,T
 10166,001463,ART188,Hst of West Art/Renais,3,T
-10167,005465,AMH2020,US History II,3,T
-10168,005465,ART1300,Drawing,4,T
-10169,005465,ART1330,Figure Drawing,4,T
-10170,005465,CLP1006,Psy of Personal Eff,3,T
-10171,005465,DAN2130,History of Dance,3,T
-10172,005465,ENC1101,English Comp I,3,T
-10173,005465,ENC1102,English Comp II,3,T
-10174,005465,GRA2117,Comp Asst Grap Dr,4,T
-10175,005465,HUM1020,Humanities,3,T
-10176,005465,HUN1201,Essentials of Hum Nutr,3,T
-10177,005465,ISS1120,Social Environment,3,T
-10178,005465,MGF1106,Math for Lib Arts I,3,T
-10179,005465,MGF1107,Math Lib Arts II,3,T
-10180,005465,PSC1515,Energy/Nat Environ,3,T
-10181,005465,SPC1017,Speech,3,T
-10182,005465,THE2000,Theatre Appre,3,T
+10167,005457,AMH2020,US History II,3,T
+10168,005457,ART1300,Drawing,4,T
+10169,005457,ART1330,Figure Drawing,4,T
+10170,005457,CLP1006,Psy of Personal Eff,3,T
+10171,005457,DAN2130,History of Dance,3,T
+10172,005457,ENC1101,English Comp I,3,T
+10173,005457,ENC1102,English Comp II,3,T
+10174,005457,GRA2117,Comp Asst Grap Dr,4,T
+10175,005457,HUM1020,Humanities,3,T
+10176,005457,HUN1201,Essentials of Hum Nutr,3,T
+10177,005457,ISS1120,Social Environment,3,T
+10178,005457,MGF1106,Math for Lib Arts I,3,T
+10179,005457,MGF1107,Math Lib Arts II,3,T
+10180,005457,PSC1515,Energy/Nat Environ,3,T
+10181,005457,SPC1017,Speech,3,T
+10182,005457,THE2000,Theatre Appre,3,T
 10183,001465,CJ110,Intro Criminal Justice,3,T
 10184,001465,CJ220,Criminology,3,T
 10185,001465,CJ275,Criminal Procedure,3,T
@@ -11147,16 +11147,16 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 11146,000453,MATH1530,Statistics,3,T
 11147,000453,PSYC1310,General Psychology,3,T
 11148,006531,ARTH100,Sruvey of Western Art l,3.33,T
-11149,**0NIU,ANTH212,Intro to Cultural Anthropology,3,T
-11150,**0NIU,ART107,Intro to Art History II,3,T
-11151,**0NIU,ART170B,Studio Exper:Painting,3,T
-11152,**0NIU,CMTC100,Introduction to Communication,3,T
-11153,**0NIU,ENGL102,Writing II,3,T
-11154,**0NIU,GES150,Introduction to Envirnmntl Studies,3,T
-11155,**0NIU,ITAL101,Italian I,3,T
-11156,**0NIU,MUS101,The Musical Experiences,3,T
-11157,**0NIU,PHIL101,Critical Thinking,3,T
-11158,**0NIU,PSY110,Life Span Development,3,T
+11149,001090,ANTH212,Intro to Cultural Anthropology,3,T
+11150,001090,ART107,Intro to Art History II,3,T
+11151,001090,ART170B,Studio Exper:Painting,3,T
+11152,001090,CMTC100,Introduction to Communication,3,T
+11153,001090,ENGL102,Writing II,3,T
+11154,001090,GES150,Introduction to Envirnmntl Studies,3,T
+11155,001090,ITAL101,Italian I,3,T
+11156,001090,MUS101,The Musical Experiences,3,T
+11157,001090,PHIL101,Critical Thinking,3,T
+11158,001090,PSY110,Life Span Development,3,T
 11159,005095,ART101,Art History&Appreciation,3,T
 11160,005095,BIO101,Biological Science,4,T
 11161,005095,BIO102,Biological Science,4,T
@@ -11184,8 +11184,8 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 11183,005095,SOC201,Intro to Sociology,3,T
 11184,005095,SPA101,Elementary Spanish,4,T
 11185,005095,THE101,Intro to Theatre,3,T
-11186,004365,BUS241,Business Law I,3,T
-11187,004365,BUS280,Int'l Business,3,T
+11186,005515,BUS241,Business Law I,3,T
+11187,005515,BUS280,Int'l Business,3,T
 11188,001574,HIS102,History of US thr 1877,3,T
 11189,001574,MUS100,Music Appreciation,3,T
 11190,001574,SOC100,Introduction to Sociology,3,T
@@ -11200,23 +11200,23 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 11199,004541,ENGL1023,COMP II: RSRCH WRITING,3,T
 11200,004541,PHIL2765,ETHICS,3,T
 11201,004541,THEO2323,JESUS THE MESSIAH,3,T
-11202,001510,ASL1140,ASL I,4,T
-11203,001510,ASL1150,ASL II,4,T
-11204,001510,BSC1010C,Principles of Biology,4,T
-11205,001510,CHM1020,Chemical Science,3,T
-11206,001510,DAA1580,Musical Theatre Dance,1,T
-11207,001510,DAA1580,Musical Theatre Dance I,1,T
-11208,001510,ENC1101,English Comp I,3,T
-11209,001510,ENC1102,English Comp II,3,T
-11210,001510,MAC1105,College Algebra,3,T
-11211,001510,PHI2600,Intro to Ethics,3,T
-11212,001510,PSY2012,Psychology,3,T
-11213,001510,REL2300,World Religions,3,T
-11214,001510,STA2023,Statistics,3,T
-11215,001510,SYG2000,Sociology,3,T
-11216,001510,THE2000,Theatre Appre,3,T
-11217,001510,THE2071,Humanities Cinema Appre,3,T
-11218,001510,THE2821,Musical Theatre Workshop,3,T
+11202,005526,ASL1140,ASL I,4,T
+11203,005526,ASL1150,ASL II,4,T
+11204,005526,BSC1010C,Principles of Biology,4,T
+11205,005526,CHM1020,Chemical Science,3,T
+11206,005526,DAA1580,Musical Theatre Dance,1,T
+11207,005526,DAA1580,Musical Theatre Dance I,1,T
+11208,005526,ENC1101,English Comp I,3,T
+11209,005526,ENC1102,English Comp II,3,T
+11210,005526,MAC1105,College Algebra,3,T
+11211,005526,PHI2600,Intro to Ethics,3,T
+11212,005526,PSY2012,Psychology,3,T
+11213,005526,REL2300,World Religions,3,T
+11214,005526,STA2023,Statistics,3,T
+11215,005526,SYG2000,Sociology,3,T
+11216,005526,THE2000,Theatre Appre,3,T
+11217,005526,THE2071,Humanities Cinema Appre,3,T
+11218,005526,THE2821,Musical Theatre Workshop,3,T
 11219,006492,CHEM1070,Introductory Chem,3,T
 11220,006492,ENGL1020,Comp & Rhetoric II,3,T
 11221,006492,ENGL6640,Syntactic Theories,3,T
@@ -11320,18 +11320,18 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 11319,005521,CHM102,General Chemistry II and Lab,4,T
 11320,005521,CHM201,Organic Chemistry I and Lab,4,T
 11321,005521,MAT110,College Algebra,3,T
-11322,003030,ACC2020,ACCOUNTING I,3,T
-11323,003030,ACC2300,INDIVIDUAL INCOME TAXATION,3,T
-11324,003030,ACC3020,ACCOUNTING II,3,T
-11325,003030,BIB1200,OLD TESTAMENT LIT,3,T
-11326,003030,BIB2000,NEW TESTAMENT LIT,3,T
-11327,003030,BUS2070,MACROECON,3,T
-11328,003030,BUS2800,BUSINESS ETHICS,3,T
-11329,003030,CJU1010,INTRO TO JUST SYST,3,T
-11330,003030,FIN2010,INTRO FIN MGT,3,T
-11331,003030,MGT1000,INTRO TO MGT,3,T
-11332,003030,MKT1050,INTRO TO MKT,3,T
-11333,003030,OCU1200,HEALTH AND WELLNESS,1,T
+11322,001088,ACC2020,ACCOUNTING I,3,T
+11323,001088,ACC2300,INDIVIDUAL INCOME TAXATION,3,T
+11324,001088,ACC3020,ACCOUNTING II,3,T
+11325,001088,BIB1200,OLD TESTAMENT LIT,3,T
+11326,001088,BIB2000,NEW TESTAMENT LIT,3,T
+11327,001088,BUS2070,MACROECON,3,T
+11328,001088,BUS2800,BUSINESS ETHICS,3,T
+11329,001088,CJU1010,INTRO TO JUST SYST,3,T
+11330,001088,FIN2010,INTRO FIN MGT,3,T
+11331,001088,MGT1000,INTRO TO MGT,3,T
+11332,001088,MKT1050,INTRO TO MKT,3,T
+11333,001088,OCU1200,HEALTH AND WELLNESS,1,T
 11334,001592,ANTHR202,Intro Cultr Anthro,3.33,T
 11335,001592,COMM105,Ideas & Attitudes,3.33,T
 11336,001592,HISTO151,Am Civ to 1877,3.33,T
@@ -11527,19 +11527,19 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 11526,006573,HIST1301,US History to 1877,3,T
 11527,006573,HIST1302,US History 1877-Pr,3,T
 11528,004604,TRAN001,Transfer Work,39,T
-11529,005562,AMH2010,History of USA I,3,T
-11530,005562,AMH2020,History of USA II,3,T
-11531,005562,CLP2140,Abnormal Psych,3,T
-11532,005562,ENC1101,Eng Composition I,3,T
-11533,005562,ENC1101,English Composition I,3,T
-11534,005562,ENC1102,Eng Composition II,3,T
-11535,005562,HUM2230,Renaissance-Modern,3,T
-11536,005562,HUN1270,Sports Nutrition,3,T
-11537,005562,MAC1105,College Algebra,3,T
-11538,005562,PSY1012,Intro to Psych,3,T
-11539,005562,SPC2608,Intro Pub Speaking,3,T
-11540,005562,SYG2000,Intro to Sociology,3,T
-11541,005562,SYG2000,Intro to Sociology,3,T
+11529,005569,AMH2010,History of USA I,3,T
+11530,005569,AMH2020,History of USA II,3,T
+11531,005569,CLP2140,Abnormal Psych,3,T
+11532,005569,ENC1101,Eng Composition I,3,T
+11533,005569,ENC1101,English Composition I,3,T
+11534,005569,ENC1102,Eng Composition II,3,T
+11535,005569,HUM2230,Renaissance-Modern,3,T
+11536,005569,HUN1270,Sports Nutrition,3,T
+11537,005569,MAC1105,College Algebra,3,T
+11538,005569,PSY1012,Intro to Psych,3,T
+11539,005569,SPC2608,Intro Pub Speaking,3,T
+11540,005569,SYG2000,Intro to Sociology,3,T
+11541,005569,SYG2000,Intro to Sociology,3,T
 11542,005559,AMH2010,History of USA I,3,T
 11543,005559,BSC1020,Human Biology,3,T
 11544,005559,ECO2013,Principles Economics I,3,T
@@ -11975,12 +11975,12 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 11974,005556,POL102,National Government,2,T
 11975,005556,POL103,State and Local Gov't,2,T
 11976,005556,PSY102,General Psychology,2,T
-11977,001547,BUS321,Macroeconomics,3,T
-11978,001547,ENG101,Reading&Writing I,3,T
-11979,001547,ENG102,Reading&Writing II,3,T
-11980,001547,HIS103,US Government,3,T
-11981,001547,HIS203,US History,3,T
-11982,001547,PSY103,Psychology,3,T
+11977,005029,BUS321,Macroeconomics,3,T
+11978,005029,ENG101,Reading&Writing I,3,T
+11979,005029,ENG102,Reading&Writing II,3,T
+11980,005029,HIS103,US Government,3,T
+11981,005029,HIS203,US History,3,T
+11982,005029,PSY103,Psychology,3,T
 11983,005548,MAC1105,College Algebra,3,T
 11984,005548,SYG2000,Intro Sociology,3,T
 11985,004617,CJA111,Intro Criminal Justice,3,T
@@ -12121,18 +12121,18 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12120,001631,HIST15200,US Since 1877,3,T
 12121,001631,POL10100,American Government,3,T
 12122,001631,SOC100,Intro Sociology,3,T
-12123,**PURD,ANTHE1050,Culture And Society,3,T
-12124,**PURD,BIOL20300,Human Antmy & Physiol,3,T
-12125,**PURD,CHM10400,Living Chemistry,3,T
-12126,**PURD,COM114,Fundament of Speech,3,T
-12127,**PURD,COM11400,Fundament of Speech,3,T
-12128,**PURD,ENGP1310,Elem Comp Practicum,2,T
-12129,**PURD,ENGW1310,Elem Composition I,3,T
-12130,**PURD,MA153,Algebra and Trig I,3,T
-12131,**PURD,MA15300,Algebra And Trig I,3,T
-12132,**PURD,PHIL11200,Religion & Culture,3,T
-12133,**PURD,PSY12000,Elementary Psychology,3,T
-12134,**PURD,SOCS1610,Prin of Sociology,3,T
+12123,001631,ANTHE1050,Culture And Society,3,T
+12124,001631,BIOL20300,Human Antmy & Physiol,3,T
+12125,001631,CHM10400,Living Chemistry,3,T
+12126,001631,COM114,Fundament of Speech,3,T
+12127,001631,COM11400,Fundament of Speech,3,T
+12128,001631,ENGP1310,Elem Comp Practicum,2,T
+12129,001631,ENGW1310,Elem Composition I,3,T
+12130,001631,MA153,Algebra and Trig I,3,T
+12131,001631,MA15300,Algebra And Trig I,3,T
+12132,001631,PHIL11200,Religion & Culture,3,T
+12133,001631,PSY12000,Elementary Psychology,3,T
+12134,001631,SOCS1610,Prin of Sociology,3,T
 12135,005560,ART100,Intro to Art,3,T
 12136,005560,ART212,Renas to Present,3,T
 12137,005560,ART223,Ceramics,3,T
@@ -12363,12 +12363,12 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12362,005589,PSY150,General Psych,3,T
 12363,005589,SOC210,Sociology,3,T
 12364,005589,SPA111,Spanish I,3,T
-12365,002736,ASL101,American Sign Language I,4,T
-12366,002736,CHM110,College Chemistry I,4,T
-12367,002736,HIST202,America & The World,3,T
-12368,002736,MATH113,College Algebra,3,T
-12369,002736,MUS105,Music Appreciation,3,T
-12370,002736,MUT100,Fundam of Music I,3,T
+12365,002765,ASL101,American Sign Language I,4,T
+12366,002765,CHM110,College Chemistry I,4,T
+12367,002765,HIST202,America & The World,3,T
+12368,002765,MATH113,College Algebra,3,T
+12369,002765,MUS105,Music Appreciation,3,T
+12370,002765,MUT100,Fundam of Music I,3,T
 12371,005596,CHE131,Fund of Physical Science,3,T
 12372,005596,ENG131,Writ/Read/Acc Curr,3,T
 12373,005596,ENG132,Writing Across Curr,3,T
@@ -12377,36 +12377,36 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12376,005596,MAT131,College Algebra,3,T
 12377,005596,MAT133,Trigonometry,3,T
 12378,005596,SOC132,Intro to Sociology,3,T
-12379,**0016,ART100,INTRO TO DRAWING,3,T
-12380,**0016,ART123,ART APPRECIATION,3,T
-12381,**0016,ART223,BEGINNING PAINTING,3,T
-12382,**0016,ART330,CONTEMPORARY HUMANITIES,3,T
-12383,**0016,BIO125,BIO PRINCIPLES I,4,T
-12384,**0016,BIO125L,BIO PRIN I LAB,0,T
-12385,**0016,COM140,BASIC COMPUTER SKILLS,3,T
-12386,**0016,ECO202,Principles of Microecon,3,T
-12387,**0016,FAS121,Intro to Fine Arts,3,T
-12388,**0016,GBA334,Quantitative Methods,3,T
-12389,**0016,HUM110,GIANTS OF THE ARTS,3,T
-12390,**0016,HUM115,FILM:  ART OF CHOICE,3,T
-12391,**0016,IDS310,CREATIVE PROCESS,3,T
-12392,**0016,MAT141,Finite Mathematics,3,T
-12393,**0016,MAT131,COLLEGE MATHEMATICS,3,T
-12394,**0016,MHU201,FOUND OF MED HUMANITIES,3,T
-12395,**0016,PHI324,BIO ETHICS,3,T
-12396,**0016,PSY110,PSYCHOLOGICAL WELL BEING,3,T
-12397,**0016,PSY161,INTRO TO PSYCH,3,T
-12398,**0016,PSY325,DEVELOPMENTAL PSYCH,3,T
-12399,**0016,PSY427,PERSONALITY THEORY,3,T
-12400,**0016,REL131,Intro to Religion,3,T
-12401,**0016,REL223,Religions of the World,3,T
-12402,**0016,REL223,WORLD RELIGIONS,3,T
-12403,**0016,SCI110,EVALUATING GLOBAL WARMING,3,T
-12404,**0016,SCI115,EVOLUTION - INNER,3,T
-12405,**0016,SLU125,CHOOSING WELLNESS,3,T
-12406,**0016,SOC121,Intro to Sociology,3,T
-12407,**0016,SOC110HA,MCDONALDIZATION OF SOCIETY,3,T
-12408,**0016,SOC110HM,BUILDING MULTIRACIAL SOCIETY,3,T
+12379,005638,ART100,INTRO TO DRAWING,3,T
+12380,005638,ART123,ART APPRECIATION,3,T
+12381,005638,ART223,BEGINNING PAINTING,3,T
+12382,005638,ART330,CONTEMPORARY HUMANITIES,3,T
+12383,005638,BIO125,BIO PRINCIPLES I,4,T
+12384,005638,BIO125L,BIO PRIN I LAB,0,T
+12385,005638,COM140,BASIC COMPUTER SKILLS,3,T
+12386,005638,ECO202,Principles of Microecon,3,T
+12387,005638,FAS121,Intro to Fine Arts,3,T
+12388,005638,GBA334,Quantitative Methods,3,T
+12389,005638,HUM110,GIANTS OF THE ARTS,3,T
+12390,005638,HUM115,FILM:  ART OF CHOICE,3,T
+12391,005638,IDS310,CREATIVE PROCESS,3,T
+12392,005638,MAT141,Finite Mathematics,3,T
+12393,005638,MAT131,COLLEGE MATHEMATICS,3,T
+12394,005638,MHU201,FOUND OF MED HUMANITIES,3,T
+12395,005638,PHI324,BIO ETHICS,3,T
+12396,005638,PSY110,PSYCHOLOGICAL WELL BEING,3,T
+12397,005638,PSY161,INTRO TO PSYCH,3,T
+12398,005638,PSY325,DEVELOPMENTAL PSYCH,3,T
+12399,005638,PSY427,PERSONALITY THEORY,3,T
+12400,005638,REL131,Intro to Religion,3,T
+12401,005638,REL223,Religions of the World,3,T
+12402,005638,REL223,WORLD RELIGIONS,3,T
+12403,005638,SCI110,EVALUATING GLOBAL WARMING,3,T
+12404,005638,SCI115,EVOLUTION - INNER,3,T
+12405,005638,SLU125,CHOOSING WELLNESS,3,T
+12406,005638,SOC121,Intro to Sociology,3,T
+12407,005638,SOC110HA,MCDONALDIZATION OF SOCIETY,3,T
+12408,005638,SOC110HM,BUILDING MULTIRACIAL SOCIETY,3,T
 12409,005607,HUM400,Social Science,3,T
 12410,172682,COM105,Public Speaking,3,T
 12411,004864,ART1020,Intro Drawing,3,T
@@ -12464,13 +12464,13 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12463,006694,PSYC2308,Child Psychology,3,T
 12464,006694,SPCH1315,Public Speaking,3,T
 12465,006694,SPCH1315,Public Speaking,3,T
-12466,006729,DFTG1405,Tech Drafting,4,T
-12467,006729,DFTG1409,Basic Cad,4,T
-12468,006729,DFTG1421,Arch Illustration,4,T
-12469,006729,PHED1114,Jogging,1,T
-12470,006729,PHED1145,Kickboxing,1,T
-12471,006729,SOCI1301,Intro to Sociology,3,T
-12472,006729,SPCH1321,Business & Prof Spch,3,T
+12466,006694,DFTG1405,Tech Drafting,4,T
+12467,006694,DFTG1409,Basic Cad,4,T
+12468,006694,DFTG1421,Arch Illustration,4,T
+12469,006694,PHED1114,Jogging,1,T
+12470,006694,PHED1145,Kickboxing,1,T
+12471,006694,SOCI1301,Intro to Sociology,3,T
+12472,006694,SPCH1321,Business & Prof Spch,3,T
 12473,004706,BIOL11,Human Biology,4,T
 12474,004706,BUS1A,Principles of Accounting,5,T
 12475,004706,BUS20,Intro to Business,3,T
@@ -12711,8 +12711,8 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12710,005618,SPC150,Fund of Speech,3,T
 12711,005618,SPED216,Intor to Excep To Child,3,T
 12712,005618,TRAN001,Transfer Work,5,T
-12713,***020,GASTR610,The Solar System,3,T
-12714,***020,GESCI610,Earth-Inside & Out,3,T
+12713,007585,GASTR610,The Solar System,3,T
+12714,007585,GESCI610,Earth-Inside & Out,3,T
 12715,001764,ANTH112,Intro Anthropology,3,T
 12716,001764,ART115,Art History,4,T
 12717,001764,ENG102,English Composition,3,T
@@ -12911,12 +12911,12 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12910,004734,PED102XP,Phys Act: Weight Training,1,T
 12911,004734,PED120AF,Spec Emph Act:Weigh Trng,2,T
 12912,004734,PED202WT,Phys Act: Volleyball,1,T
-12913,000457,ART111,Art Appreciation,3,T
-12914,000457,ENG111,Writing&Inquiry,3,T
-12915,000457,HIS111,World Civ I,3,T
-12916,000457,PSY150,GENERAL PSYCH,3,T
-12917,000457,SOC210,Sociology,3,T
-12918,000457,SPA111,Spanish I,3,T
+12913,003623,ART111,Art Appreciation,3,T
+12914,003623,ENG111,Writing&Inquiry,3,T
+12915,003623,HIS111,World Civ I,3,T
+12916,003623,PSY150,GENERAL PSYCH,3,T
+12917,003623,SOC210,Sociology,3,T
+12918,003623,SPA111,Spanish I,3,T
 12919,001727,BIO111,Anatomy,3,T
 12920,001727,BIOL101,Anat & Phys I,4,T
 12921,001727,BIOL101,Anat&Phys I,4,T
@@ -12967,7 +12967,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12966,006661,MSTH1545,Calculus II,5,T
 12967,006661,PHYS2203,Univ Physics I,4,T
 12968,006661,PHYS2213,Univ Physics II,4,T
-12969,1728,ENG101,ENGLISH COMP I,3,T
+12969,001728,ENG101,ENGLISH COMP I,3,T
 12970,005896,ACCT1204,Survey of Accounting,4,T
 12971,005896,ACCT2003,FINANCIAL ACCT,3,T
 12972,005896,ACCT2013,MANAGERIAL ACCT,3,T
@@ -15356,30 +15356,30 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 15355,005627,TRANS001,Transfer Work,58,T
 15356,005627,TRANS001,Transfer Work,62,T
 15357,005627,TRANS001,Transfer Work,64,T
-15358,001643,ACC101,Accounting I,3,T
-15359,001643,ART106,Fundamentals of Drawing,3,T
-15360,001643,ART201,His of Art I: Ancnt to Med,3,T
-15361,001643,ART202,Hist of Art II: Ren to Cont,3,T
-15362,001643,ASL111,Beg American Sign Lang,4,T
-15363,001643,ASL112,Beg American Sign Lang II,4,T
-15364,001643,AST101,Astronomy,3,T
-15365,001643,CRT105,Micro Concepts & Apps for Mac,1,T
-15366,001643,ENG111,Composition I,3,T
-15367,001643,ENG112,Composition II,3,T
-15368,001643,GEO111,Intro to Geology/Hydrology,3,T
-15369,001643,IST100,Fundamentals of Computing,1,T
-15370,001643,MTH110,Intro to College Algebra/Trig,4,T
-15371,001643,PHO121,Black & White Photography,3,T
-15372,001643,PHO122,Color Photography I,3,T
-15373,001643,PHO202,History & Theory of Photo,3,T
-15374,001643,PHO221,Black & White Photography II,3,T
-15375,001643,PSY101,General Psychology,3,T
-15376,001643,PSY215,Social Psychology,3,T
-15377,001643,SOC101,Sociology,3,T
-15378,001643,SOC220,Multicultural Diversity US,3,T
-15379,001643,SPA111,Spanish I,4,T
-15380,001643,SPE101,Public Speaking,3,T
-15381,001643,SPE102,Interpersonal Com,3,T
+15358,001154,ACC101,Accounting I,3,T
+15359,001154,ART106,Fundamentals of Drawing,3,T
+15360,001154,ART201,His of Art I: Ancnt to Med,3,T
+15361,001154,ART202,Hist of Art II: Ren to Cont,3,T
+15362,001154,ASL111,Beg American Sign Lang,4,T
+15363,001154,ASL112,Beg American Sign Lang II,4,T
+15364,001154,AST101,Astronomy,3,T
+15365,001154,CRT105,Micro Concepts & Apps for Mac,1,T
+15366,001154,ENG111,Composition I,3,T
+15367,001154,ENG112,Composition II,3,T
+15368,001154,GEO111,Intro to Geology/Hydrology,3,T
+15369,001154,IST100,Fundamentals of Computing,1,T
+15370,001154,MTH110,Intro to College Algebra/Trig,4,T
+15371,001154,PHO121,Black & White Photography,3,T
+15372,001154,PHO122,Color Photography I,3,T
+15373,001154,PHO202,History & Theory of Photo,3,T
+15374,001154,PHO221,Black & White Photography II,3,T
+15375,001154,PSY101,General Psychology,3,T
+15376,001154,PSY215,Social Psychology,3,T
+15377,001154,SOC101,Sociology,3,T
+15378,001154,SOC220,Multicultural Diversity US,3,T
+15379,001154,SPA111,Spanish I,4,T
+15380,001154,SPE101,Public Speaking,3,T
+15381,001154,SPE102,Interpersonal Com,3,T
 15382,001628,ACCT211,Principles of Acct I,4,T
 15383,001628,BUS221,Principles of Economics I,3,T
 15384,001628,CIS115,Microcomputer Applications,4,T
@@ -15771,8 +15771,8 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 15770,006834,HPE1641,Aerobics-Begin,1,T
 15771,006834,MUS1613,Music Apprec,3,T
 15772,006834,SOC1613,Intro Socio,3,T
-15773,6837,ECON2301,Prin of Macroeconomics,3,T
-15774,6837,GOVT2305,United States Government,3,T
+15773,006837,ECON2301,Prin of Macroeconomics,3,T
+15774,006837,GOVT2305,United States Government,3,T
 15775,006845,TRANTRAN,Transfered,38,T
 15776,005047,PSY201,PsychologY,3,T
 15777,005047,ART101,Art History and Ap,3,T
@@ -15857,38 +15857,38 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 15856,006820,RTVF10053,Survey of Film,3,T
 15857,006820,SPCO10343,Basic Sign Language,3,T
 15858,006826,TRANTRAN,Transferred,12,T
-15859,**Amer,CM266,Sociology of Pop Music,3,T
-15860,**CHIN,ANTH2340,"Magic,Myth&Supernatural",3,T
-15861,**CHIN,CPTH2233,Com ContII-Putonghua,3,T
-15862,**CHIN,FINA2010,Finanical Management,3,T
-15863,**CHIN,MGNT1020,Principles of Management,3,T
-15864,*00016,ASL102,American Sign Language II,4,T
-15865,*00016,ASL103,American Sign Language III,4,T
-15866,*00016,ASL150,American Sign Language I,4,T
-15867,*00016,DHH105,Prg/Srv for Ind Who Are Deaf,4,T
-15868,*00016,DHH303,Lang Dev in Ind Who are D/HH,4,T
-15869,*00016,HIS365,African-American Women,4,T
-15870,*00016,MAT105,Math Struc & Algorithms for Ed,4,T
-15871,*00016,MST202,Metds of Tchg Sci Hlth&Tech,4,T
-15872,*00016,MTT202,Tchg Math in Ec/Elem/Med Sch,4,T
-15873,*00016,RAL220,"Lit Strat, Assess & Instr-SP",4,T
-15874,*00016,RAL225,Children's Literature,4,T
-15875,*00016,REL100,Basic Issues in Religion,4,T
-15876,*00016,SLP102,"Lang, Speech & Communic Develo",4,T
-15877,*00016,SLP140,Intro Measurement of Hearin,4,T
-15878,*00016,SPA210,Spanish for Heritage Student,4,T
-15879,*00016,SPA211,Composition & Grammar Review,4,T
-15880,*00016,SPA215,Spanish Phonetics,4,T
-15881,*00016,SPA217,Intro to Hispanic Culture,4,T
-15882,*00016,SPA241,Intro to Lit in Spanish,4,T
-15883,*00016,SPA301,Adv Spanish Grammar,4,T
-15884,*00016,SPA303,Culture and Society in Spain,4,T
-15885,*00016,SPA304,Civilization of Span America,4,T
-15886,*00016,SPA311,Survey of Span Penninsular,4,T
-15887,*00016,SPE103,Social & Legal Found Spc Ed,4,T
-15888,*00016,SPE203,Psych Dev Child & Adol,4,T
-15889,*00016,WGS220,Gender & Popular Culture,4,T
-15890,*00016,WRI102,Acadmic Wrigint,4,T
+15859,000866,CM266,Sociology of Pop Music,3,T
+15860,005690,ANTH2340,"Magic,Myth&Supernatural",3,T
+15861,005690,CPTH2233,Com ContII-Putonghua,3,T
+15862,005690,FINA2010,Finanical Management,3,T
+15863,005690,MGNT1020,Principles of Management,3,T
+15864,002519,ASL102,American Sign Language II,4,T
+15865,002519,ASL103,American Sign Language III,4,T
+15866,002519,ASL150,American Sign Language I,4,T
+15867,002519,DHH105,Prg/Srv for Ind Who Are Deaf,4,T
+15868,002519,DHH303,Lang Dev in Ind Who are D/HH,4,T
+15869,002519,HIS365,African-American Women,4,T
+15870,002519,MAT105,Math Struc & Algorithms for Ed,4,T
+15871,002519,MST202,Metds of Tchg Sci Hlth&Tech,4,T
+15872,002519,MTT202,Tchg Math in Ec/Elem/Med Sch,4,T
+15873,002519,RAL220,"Lit Strat, Assess & Instr-SP",4,T
+15874,002519,RAL225,Children's Literature,4,T
+15875,002519,REL100,Basic Issues in Religion,4,T
+15876,002519,SLP102,"Lang, Speech & Communic Develo",4,T
+15877,002519,SLP140,Intro Measurement of Hearin,4,T
+15878,002519,SPA210,Spanish for Heritage Student,4,T
+15879,002519,SPA211,Composition & Grammar Review,4,T
+15880,002519,SPA215,Spanish Phonetics,4,T
+15881,002519,SPA217,Intro to Hispanic Culture,4,T
+15882,002519,SPA241,Intro to Lit in Spanish,4,T
+15883,002519,SPA301,Adv Spanish Grammar,4,T
+15884,002519,SPA303,Culture and Society in Spain,4,T
+15885,002519,SPA304,Civilization of Span America,4,T
+15886,002519,SPA311,Survey of Span Penninsular,4,T
+15887,002519,SPE103,Social & Legal Found Spc Ed,4,T
+15888,002519,SPE203,Psych Dev Child & Adol,4,T
+15889,002519,WGS220,Gender & Popular Culture,4,T
+15890,002519,WRI102,Acadmic Wrigint,4,T
 15891,001145,MMOL531,Old Testament Survey,3,T
 15892,001145,MMOL534,New Testament Survey,3,T
 15893,001876,BUA105,Intro to Business,3,T
@@ -15915,131 +15915,131 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 15914,003558,SOCK210,Sociology of the Family,3,T
 15915,003558,TRANS001,Transfer Work,27.3,T
 15916,005226,AMTH158,College Algebra,3,T
-15917,005032,BIO101,General Biology I,4,T
-15918,005032,BIO102, General Biology II,4,T
-15919,005032,CHD118,Language Arts-Child,3,T
-15920,005032,CHD119,Intro to Reading Mthds,3,T
-15921,005032,CHD120,Intro Early Child Ed,3,T
-15922,005032,CHD145,"Teach Art, Music. Mvnt Children",3,T
-15923,005032,CHD146,"Math, Science, Soc Studies",3,T
-15924,005032,CHD210,Intro Exceptional Child,3,T
-15925,005032,CHM121,Health Science Chemistry I,4,T
-15926,005032,CST100,Principles of Public Speaking,3,T
-15927,005032,CST100,Public Speaking,3,T
-15928,005032,ECO202,Prin of Microecon,3,T
-15929,005032,ENG111,College Comp I,3,T
-15930,005032,ENG111,College Composition I,3,T
-15931,005032,ENG112,College Comp II,3,T
-15932,005032,ENG112,College Composition II,3,T
-15933,005032,ENG241,Survey of American Lit I,3,T
-15934,005032,ENV220,Environmental Problems,3,T
-15935,005032,FRN102,French II,0,T
-15936,005032,GOL105,Physical Geology,4,T
-15937,005032,HIS112,World Civ II,3,T
-15938,005032,HIS121,US History I,3,T
-15939,005032,HIS122,US History II,3,T
-15940,005032,HLT116,Intro Personal Wellness Concepts,3,T
-15941,005032,ITE115,Intro to Computer Apps&Concepts,4,T
-15942,005032,MATH152,Mathematics LA II,3,T
-15943,005032,MTH130,Fundamentals of Reasoning,3,T
-15944,005032,MTH152,Math for Liberal Arts II,3,T
-15945,005032,MTH157,Elementary Statistics,3,T
-15946,005032,MTH157,Elementary Stats,3,T
-15947,005032,PHI226,Social Ethics,3,T
-15948,005032,PSY201,Intro to Psychology,3,T
-15949,005032,PSY230,Developmental Psychology,3,T
-15950,005032,PSY235,Child Psychology,3,T
-15951,005032,REL230,Religions of the World,3,T
-15952,005032,SOC201,Intro to Sociology I,3,T
-15953,005032,SOC215,Sociology of Family,3,T
-15954,005032,SPA101,Beginning Spanish I,4,T
-15955,005032,SPN102,Begining Spanish II,4,T
+15917,005226,BIO101,General Biology I,4,T
+15918,005226,BIO102, General Biology II,4,T
+15919,005226,CHD118,Language Arts-Child,3,T
+15920,005226,CHD119,Intro to Reading Mthds,3,T
+15921,005226,CHD120,Intro Early Child Ed,3,T
+15922,005226,CHD145,"Teach Art, Music. Mvnt Children",3,T
+15923,005226,CHD146,"Math, Science, Soc Studies",3,T
+15924,005226,CHD210,Intro Exceptional Child,3,T
+15925,005226,CHM121,Health Science Chemistry I,4,T
+15926,005226,CST100,Principles of Public Speaking,3,T
+15927,005226,CST100,Public Speaking,3,T
+15928,005226,ECO202,Prin of Microecon,3,T
+15929,005226,ENG111,College Comp I,3,T
+15930,005226,ENG111,College Composition I,3,T
+15931,005226,ENG112,College Comp II,3,T
+15932,005226,ENG112,College Composition II,3,T
+15933,005226,ENG241,Survey of American Lit I,3,T
+15934,005226,ENV220,Environmental Problems,3,T
+15935,005226,FRN102,French II,0,T
+15936,005226,GOL105,Physical Geology,4,T
+15937,005226,HIS112,World Civ II,3,T
+15938,005226,HIS121,US History I,3,T
+15939,005226,HIS122,US History II,3,T
+15940,005226,HLT116,Intro Personal Wellness Concepts,3,T
+15941,005226,ITE115,Intro to Computer Apps&Concepts,4,T
+15942,005226,MATH152,Mathematics LA II,3,T
+15943,005226,MTH130,Fundamentals of Reasoning,3,T
+15944,005226,MTH152,Math for Liberal Arts II,3,T
+15945,005226,MTH157,Elementary Statistics,3,T
+15946,005226,MTH157,Elementary Stats,3,T
+15947,005226,PHI226,Social Ethics,3,T
+15948,005226,PSY201,Intro to Psychology,3,T
+15949,005226,PSY230,Developmental Psychology,3,T
+15950,005226,PSY235,Child Psychology,3,T
+15951,005226,REL230,Religions of the World,3,T
+15952,005226,SOC201,Intro to Sociology I,3,T
+15953,005226,SOC215,Sociology of Family,3,T
+15954,005226,SPA101,Beginning Spanish I,4,T
+15955,005226,SPN102,Begining Spanish II,4,T
 15956,002904,BIOL104,GENERAL BIO I,4,T
 15957,002904,BIOL105,GENERAL BIO II,4,T
 15958,002904,BUAD222,MONEY AND BANK,3,T
 15959,002904,CHEM101,PRIN CHEM I,4,T
 15960,002904,CHEM102,PRIN CHEM II,4,T
-15961,5789,ACC101,Accounting I,3,T
-15962,5789,ACC101,Accounting Principles I,3,T
-15963,5789,ACC102,Accounting Prin II,3,T
-15964,5789,AHS104,Med Vocab/Anatomy & Phy,3,T
-15965,5789,ANT101,Anthropology,3,T
-15966,5789,ART101,Art History and Appreciation,3,T
-15967,5789,ART101,Art History & Appre,3,T
-15968,5789,ART101,Art History&Appre,3,T
-15969,5789,ART107,History of Western Art I,3,T
-15970,5789,ART108,History Western Art II,3,T
-15971,5789,ART111,Basic Drawing I,3,T
-15972,5789,BIO101,Biological Science I,4,T
-15973,5789,BIO101,Biological Science I,4,T
-15974,5789,BIO101,Biological Science I,4,T
-15975,5789,BIO211,Anatomy&Physiology II,4,T
-15976,5789,BIO225,Microbiology,4,T
-15977,5789,CHM105,Gen Chemistry&Biochemistry,4,T
-15978,5789,CHM110,Chemistry I,4,T
-15979,5789,CPT170,MICROCOMP APPS,3,T
-15980,5789,CPT170,Computer Applications,3,T
-15981,5789,CPT170,Microcomp Application,3,T
-15982,5789,CPT170,Microcomp Apps,3,T
-15983,5789,CPT170,Microcomputer Apps,3,T
-15984,5789,CPT170,Microcomputer Apps,3,T
-15985,5789,ECD101,Intro to Early Childhood,3,T
-15986,5789,ECD107,Exceptional Children,3,T
-15987,5789,ECD132,Creative Experience,3,T
-15988,5789,ECO210,Macroeconomics,3,T
-15989,5789,ECO210,Macroeconomics,3,T
-15990,5789,ECO211,Microeconomics,3,T
-15991,5789,ENG101,ENGLISH COMP I,3,T
-15992,5789,ENG102,ENGLISH COMP II,3,T
-15993,5789,ENG101,English Comp I,3,T
-15994,5789,ENG101,English Composition I,3,T
-15995,5789,ENG101,Englsih Comp I,3,T
-15996,5789,ENG102,English Comp II,3,T
-15997,5789,ENG102,English Composition II,3,T
-15998,5789,ENG201,American Lit I,3,T
-15999,5789,ENG230,Women In Literature,3,T
-16000,5789,GEO102,World Geography,3,T
-16001,5789,HIS101,WESTERN CIV,3,T
-16002,5789,HIS101,Western Civ I,3,T
-16003,5789,HIS101,Western Civ I,3,T
-16004,5789,HIS101,Western Civ to1689,3,T
-16005,5789,HIS102,Western Civ II,3,T
-16006,5789,HIS102,Western Civ Post 1689,3,T
-16007,5789,HIS102,Western Civilization,3,T
-16008,5789,HIS122,History Technology Society,3,T
-16009,5789,HIS201,American History I,3,T
-16010,5789,HIS202,American Hist II,3,T
-16011,5789,MAT103,Quantitative Reasoning,3,T
-16012,5789,MAT120,PROB/STAT,3,T
-16013,5789,MAT120,PROB/STATS,3,T
-16014,5789,MAT109,College Algebra,3,T
-16015,5789,MAT120,Probability and Statistics,3,T
-16016,5789,MAT120,Probability&Statistics,3,T
-16017,5789,MAT120,Statistics,3,T
-16018,5789,MAT130,Elementary Calculus,3,T
-16019,5789,MAT140,Geometry&Calculus I,4,T
-16020,5789,MATH103,Quantitative Reasoning,3,T
-16021,5789,MGT101,Prin of Management,3,T
-16022,5789,MUS105,MUSIC APP,3,T
-16023,5789,MUS105,MUSIC APPR,3,T
-16024,5789,MUS105,Music Appreciation,3,T
-16025,5789,PHI101,Introduction to Philosophy,3,T
-16026,5789,PHI105,Intro to Logic,3,T
-16027,5789,PHY101,Survey of Physics,3,T
-16028,5789,PSC201,American Government,3,T
-16029,5789,PSC215,State&Local Gov't,3,T
-16030,5789,PSY201,Gen Psych,3,T
-16031,5789,PSY201,General Psych,3,T
-16032,5789,PSY201,General Psychology,3,T
-16033,5789,PSY203,Human Grwth&Dev,3,T
-16034,5789,SOC101,Intro to Sociology,3,T
-16035,5789,SPA101,ELEM SPAN I,4,T
-16036,5789,SPA102,ELEM SPAN II,4,T
-16037,5789,SPA101,Elementary Spanish I,4,T
-16038,5789,SPA101,Spanish I,4,T
-16039,5789,SPA102,Elementary Spanish II,4,T
-16040,5789,SPA102,Spanish II,4,T
-16041,5789,SPC205,Public Speaking,3,T
+15961,005789,ACC101,Accounting I,3,T
+15962,005789,ACC101,Accounting Principles I,3,T
+15963,005789,ACC102,Accounting Prin II,3,T
+15964,005789,AHS104,Med Vocab/Anatomy & Phy,3,T
+15965,005789,ANT101,Anthropology,3,T
+15966,005789,ART101,Art History and Appreciation,3,T
+15967,005789,ART101,Art History & Appre,3,T
+15968,005789,ART101,Art History&Appre,3,T
+15969,005789,ART107,History of Western Art I,3,T
+15970,005789,ART108,History Western Art II,3,T
+15971,005789,ART111,Basic Drawing I,3,T
+15972,005789,BIO101,Biological Science I,4,T
+15973,005789,BIO101,Biological Science I,4,T
+15974,005789,BIO101,Biological Science I,4,T
+15975,005789,BIO211,Anatomy&Physiology II,4,T
+15976,005789,BIO225,Microbiology,4,T
+15977,005789,CHM105,Gen Chemistry&Biochemistry,4,T
+15978,005789,CHM110,Chemistry I,4,T
+15979,005789,CPT170,MICROCOMP APPS,3,T
+15980,005789,CPT170,Computer Applications,3,T
+15981,005789,CPT170,Microcomp Application,3,T
+15982,005789,CPT170,Microcomp Apps,3,T
+15983,005789,CPT170,Microcomputer Apps,3,T
+15984,005789,CPT170,Microcomputer Apps,3,T
+15985,005789,ECD101,Intro to Early Childhood,3,T
+15986,005789,ECD107,Exceptional Children,3,T
+15987,005789,ECD132,Creative Experience,3,T
+15988,005789,ECO210,Macroeconomics,3,T
+15989,005789,ECO210,Macroeconomics,3,T
+15990,005789,ECO211,Microeconomics,3,T
+15991,005789,ENG101,ENGLISH COMP I,3,T
+15992,005789,ENG102,ENGLISH COMP II,3,T
+15993,005789,ENG101,English Comp I,3,T
+15994,005789,ENG101,English Composition I,3,T
+15995,005789,ENG101,Englsih Comp I,3,T
+15996,005789,ENG102,English Comp II,3,T
+15997,005789,ENG102,English Composition II,3,T
+15998,005789,ENG201,American Lit I,3,T
+15999,005789,ENG230,Women In Literature,3,T
+16000,005789,GEO102,World Geography,3,T
+16001,005789,HIS101,WESTERN CIV,3,T
+16002,005789,HIS101,Western Civ I,3,T
+16003,005789,HIS101,Western Civ I,3,T
+16004,005789,HIS101,Western Civ to1689,3,T
+16005,005789,HIS102,Western Civ II,3,T
+16006,005789,HIS102,Western Civ Post 1689,3,T
+16007,005789,HIS102,Western Civilization,3,T
+16008,005789,HIS122,History Technology Society,3,T
+16009,005789,HIS201,American History I,3,T
+16010,005789,HIS202,American Hist II,3,T
+16011,005789,MAT103,Quantitative Reasoning,3,T
+16012,005789,MAT120,PROB/STAT,3,T
+16013,005789,MAT120,PROB/STATS,3,T
+16014,005789,MAT109,College Algebra,3,T
+16015,005789,MAT120,Probability and Statistics,3,T
+16016,005789,MAT120,Probability&Statistics,3,T
+16017,005789,MAT120,Statistics,3,T
+16018,005789,MAT130,Elementary Calculus,3,T
+16019,005789,MAT140,Geometry&Calculus I,4,T
+16020,005789,MATH103,Quantitative Reasoning,3,T
+16021,005789,MGT101,Prin of Management,3,T
+16022,005789,MUS105,MUSIC APP,3,T
+16023,005789,MUS105,MUSIC APPR,3,T
+16024,005789,MUS105,Music Appreciation,3,T
+16025,005789,PHI101,Introduction to Philosophy,3,T
+16026,005789,PHI105,Intro to Logic,3,T
+16027,005789,PHY101,Survey of Physics,3,T
+16028,005789,PSC201,American Government,3,T
+16029,005789,PSC215,State&Local Gov't,3,T
+16030,005789,PSY201,Gen Psych,3,T
+16031,005789,PSY201,General Psych,3,T
+16032,005789,PSY201,General Psychology,3,T
+16033,005789,PSY203,Human Grwth&Dev,3,T
+16034,005789,SOC101,Intro to Sociology,3,T
+16035,005789,SPA101,ELEM SPAN I,4,T
+16036,005789,SPA102,ELEM SPAN II,4,T
+16037,005789,SPA101,Elementary Spanish I,4,T
+16038,005789,SPA101,Spanish I,4,T
+16039,005789,SPA102,Elementary Spanish II,4,T
+16040,005789,SPA102,Spanish II,4,T
+16041,005789,SPC205,Public Speaking,3,T
 16042,005785,CIS110,Introduction to Computers,3,T
 16043,005785,POL201,Government of US,2,T
 16044,005785,REL101,Intro to Old Testament,2,T
@@ -16224,127 +16224,127 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16223,005049,SPC205,Public Speaking,3,T
 16224,005049,THE101,Introduction to Theater,3,T
 16225,005049,THR120,Public Speaking,3,T
-16226,5551,ANT101,Anthropology,3,T
-16227,5551,ANT101,General Anthropology,3,T
-16228,5551,ART101,Art History & Appre,3,T
-16229,5551,ART101,Art History&Appre,3,T
-16230,5551,ART101,Art Hst & Appreciation,3,T
-16231,5551,ART108,History of Westr'n Art,3,T
-16232,5551,ARV110,Computer Graphics I,3,T
-16233,5551,ARV114,Photography I,3,T
-16234,5551,ARV121,Design,3,T
-16235,5551,AST101,SOLAR SYST AST,4,T
-16236,5551,AST101,Solar System Astronomy,4,T
-16237,5551,BIO102,BIOLOGICAL SCIENCE,4,T
-16238,5551,BIO112,BASIC ANAT/PHY,4,T
-16239,5551,BIO210,ANATOMY/PHYS,4,T
-16240,5551,BIO101,Biological Science,4,T
-16241,5551,BIO101,Biological Science I,4,T
-16242,5551,BIO102,Biological Science II,4,T
-16243,5551,BIO112,Anatomy&Physio,4,T
-16244,5551,BIO210,Anatomy&Physiology I,4,T
-16245,5551,BIO210,Anatomy&Physiology I,4,T
-16246,5551,BIO211,Anatomy &Physiology II,4,T
-16247,5551,CHM211,Organic Chemistry I,4,T
-16248,5551,CHM211,Organic Chemistry I,4,T
-16249,5551,CPT101,Intro to Computers,3,T
-16250,5551,CPT101,Intro to Computers,3,T
-16251,5551,ECO210,MACROCECON,3,T
-16252,5551,ECO210,MACROECON,3,T
-16253,5551,ECO210,Macroeconimics,3,T
-16254,5551,ECO210,Macroeconomics,3,T
-16255,5551,ECO210,Macroeconomics,3,T
-16256,5551,ENG101,ENG COMP I,3,T
-16257,5551,ENG101,ENGLISH COMP I,3,T
-16258,5551,ENG102,ENGLISH COMP II,3,T
-16259,5551,ENG102,English Composition II,3,T
-16260,5551,ENG205,ENGLISH LIT,3,T
-16261,5551,ENG238,CREATIVE WRITING,3,T
-16262,5551,ENG101,English Comp  I,3,T
-16263,5551,ENG101,English Comp 1,3,T
-16264,5551,ENG101,English Comp I,3,T
-16265,5551,ENG101,English Composition I,3,T
-16266,5551,ENG102,English Comp Ii,3,T
-16267,5551,ENG102,English Comp ll,3,T
-16268,5551,ENG102,English Composition II,3,T
-16269,5551,ENG111,Adv Freshman Comp,4,T
-16270,5551,ENG205,English Lit I,3,T
-16271,5551,ENG208,World Lit I,3,T
-16272,5551,ENG209,World Literature I,3,T
-16273,5551,ENG238,Creative Writing,3,T
-16274,5551,EXEMPTION,Swimming,0,EX
-16275,5551,FRE101,ELEM FRENCH I,4,T
-16276,5551,FRE101,French I,4,T
-16277,5551,FRE102,French II,4,T
-16278,5551,GEO102,WORLD GEOGRAPHY,3,T
-16279,5551,HIS101,WEST CIV I,3,T
-16280,5551,HIS101,WESTERN CIV I,3,T
-16281,5551,HIS102,WESTERN CIV II,3,T
-16282,5551,HIS101,Western Civ I,3,T
-16283,5551,HIS101,Western Civ I,3,T
-16284,5551,HIS101,World Civ I,3,T
-16285,5551,HIS102,Western Civ II,3,T
-16286,5551,HIS102,Western Civ Post 1689,3,T
-16287,5551,HIS104,World History,3,T
-16288,5551,HIS131,Afro-Amer History,3,T
-16289,5551,JOU101,INTRO TO JOURNALISM,3,T
-16290,5551,LEG135,Intro to Law&Ethics,3,T
-16291,5551,MAT110,COLLEGE ALG,3,T
-16292,5551,MAT110,COLLEGE ALGEBRA,3,T
-16293,5551,MAT111,COLLEGE TRIG,3,T
-16294,5551,MAT120,PROB/STAT,3,T
-16295,5551,MAT140,ANALYTIC GEO/CALC I,4,T
-16296,5551,MAT110,College Algebra,3,T
-16297,5551,MAT110,College Algebra,3,T
-16298,5551,MAT110,College Algebra,3,T
-16299,5551,MAT111,Trigonometry,3,T
-16300,5551,MAT120,Probability&Statistics,3,T
-16301,5551,MAT120,Statistics,3,T
-16302,5551,MAT140,Analytical Geometry,4,T
-16303,5551,MGT101,Management,3,T
-16304,5551,MGT120,Small Business Mgmt,3,T
-16305,5551,MUS105,MUSIC APP,3,T
-16306,5551,MUS105,MUSIC APP,3,T
-16307,5551,MUS105,MUSIC APPRE,3,T
-16308,5551,MUS105,Music Appreciation,3,T
-16309,5551,MUS105,Music Aprreciation,3,T
-16310,5551,PHI101,INTRO TO PHILOSOPHY,3,T
-16311,5551,PHI110,ETHICS,3,T
-16312,5551,PHI101,Intor to Philosophy,3,T
-16313,5551,PHI101,Intro to Philosophy,3,T
-16314,5551,PHI110,Ethics,3,T
-16315,5551,PSC201,AMERICAN GOVT,3,T
-16316,5551,PSC101,American Gov't,3,T
-16317,5551,PSC201,American Gov't,3,T
-16318,5551,PSC201,American Government,3,T
-16319,5551,PSC201,American Govt,3,T
-16320,5551,PSC215,State&Local Gov't,3,T
-16321,5551,PSC220,International Relations,3,T
-16322,5551,PSY201,GENERAL PSYCH,3,T
-16323,5551,PSY201,GENERAL PSYCHOLOGY,3,T
-16324,5551,PSY201,General Psych,3,T
-16325,5551,PSY201,General Psychology,3,T
-16326,5551,PSY203,Human Growth&Devel,3,T
-16327,5551,PSY203,Human Grwth&Dev,3,T
-16328,5551,REL101,INTRO TO RELIGION,3,T
-16329,5551,REL101,Intro to Religion,3,T
-16330,5551,SOC101,INTRO TO SOC,3,T
-16331,5551,SOC101,INTRO TO SOCIOLOGY,3,T
-16332,5551,SOC210,JUVENILE DELINGUENCY,3,T
-16333,5551,SOC101,Sociology,3,T
-16334,5551,SOC102,Marriage & Famiy,3,T
-16335,5551,SPA101,ELEMENTARY SPANISH I,4,T
-16336,5551,SPA102,ELEMENTARY SPAN II,4,T
-16337,5551,SPA101,Spanish I,4,T
-16338,5551,SPA102,Spanish II,4,T
-16339,5551,SPA201,Intermediate Spanish,3,T
-16340,5551,SPC205,PUBLIC SPEAKING,3,T
-16341,5551,SPC209,INTERPERS COMM,3,T
-16342,5551,SPC205,Public Speaking,3,T
-16343,5551,SPC205,Public Spealking,3,T
-16344,5551,THE101,INTRO TO THEATER,3,T
-16345,5551,THE101,INTRO TO THEATRE,3,T
-16346,5551,THE101,Intro to Theatre,3,T
+16226,005551,ANT101,Anthropology,3,T
+16227,005551,ANT101,General Anthropology,3,T
+16228,005551,ART101,Art History & Appre,3,T
+16229,005551,ART101,Art History&Appre,3,T
+16230,005551,ART101,Art Hst & Appreciation,3,T
+16231,005551,ART108,History of Westr'n Art,3,T
+16232,005551,ARV110,Computer Graphics I,3,T
+16233,005551,ARV114,Photography I,3,T
+16234,005551,ARV121,Design,3,T
+16235,005551,AST101,SOLAR SYST AST,4,T
+16236,005551,AST101,Solar System Astronomy,4,T
+16237,005551,BIO102,BIOLOGICAL SCIENCE,4,T
+16238,005551,BIO112,BASIC ANAT/PHY,4,T
+16239,005551,BIO210,ANATOMY/PHYS,4,T
+16240,005551,BIO101,Biological Science,4,T
+16241,005551,BIO101,Biological Science I,4,T
+16242,005551,BIO102,Biological Science II,4,T
+16243,005551,BIO112,Anatomy&Physio,4,T
+16244,005551,BIO210,Anatomy&Physiology I,4,T
+16245,005551,BIO210,Anatomy&Physiology I,4,T
+16246,005551,BIO211,Anatomy &Physiology II,4,T
+16247,005551,CHM211,Organic Chemistry I,4,T
+16248,005551,CHM211,Organic Chemistry I,4,T
+16249,005551,CPT101,Intro to Computers,3,T
+16250,005551,CPT101,Intro to Computers,3,T
+16251,005551,ECO210,MACROCECON,3,T
+16252,005551,ECO210,MACROECON,3,T
+16253,005551,ECO210,Macroeconimics,3,T
+16254,005551,ECO210,Macroeconomics,3,T
+16255,005551,ECO210,Macroeconomics,3,T
+16256,005551,ENG101,ENG COMP I,3,T
+16257,005551,ENG101,ENGLISH COMP I,3,T
+16258,005551,ENG102,ENGLISH COMP II,3,T
+16259,005551,ENG102,English Composition II,3,T
+16260,005551,ENG205,ENGLISH LIT,3,T
+16261,005551,ENG238,CREATIVE WRITING,3,T
+16262,005551,ENG101,English Comp  I,3,T
+16263,005551,ENG101,English Comp 1,3,T
+16264,005551,ENG101,English Comp I,3,T
+16265,005551,ENG101,English Composition I,3,T
+16266,005551,ENG102,English Comp Ii,3,T
+16267,005551,ENG102,English Comp ll,3,T
+16268,005551,ENG102,English Composition II,3,T
+16269,005551,ENG111,Adv Freshman Comp,4,T
+16270,005551,ENG205,English Lit I,3,T
+16271,005551,ENG208,World Lit I,3,T
+16272,005551,ENG209,World Literature I,3,T
+16273,005551,ENG238,Creative Writing,3,T
+16274,005551,EXEMPTION,Swimming,0,EX
+16275,005551,FRE101,ELEM FRENCH I,4,T
+16276,005551,FRE101,French I,4,T
+16277,005551,FRE102,French II,4,T
+16278,005551,GEO102,WORLD GEOGRAPHY,3,T
+16279,005551,HIS101,WEST CIV I,3,T
+16280,005551,HIS101,WESTERN CIV I,3,T
+16281,005551,HIS102,WESTERN CIV II,3,T
+16282,005551,HIS101,Western Civ I,3,T
+16283,005551,HIS101,Western Civ I,3,T
+16284,005551,HIS101,World Civ I,3,T
+16285,005551,HIS102,Western Civ II,3,T
+16286,005551,HIS102,Western Civ Post 1689,3,T
+16287,005551,HIS104,World History,3,T
+16288,005551,HIS131,Afro-Amer History,3,T
+16289,005551,JOU101,INTRO TO JOURNALISM,3,T
+16290,005551,LEG135,Intro to Law&Ethics,3,T
+16291,005551,MAT110,COLLEGE ALG,3,T
+16292,005551,MAT110,COLLEGE ALGEBRA,3,T
+16293,005551,MAT111,COLLEGE TRIG,3,T
+16294,005551,MAT120,PROB/STAT,3,T
+16295,005551,MAT140,ANALYTIC GEO/CALC I,4,T
+16296,005551,MAT110,College Algebra,3,T
+16297,005551,MAT110,College Algebra,3,T
+16298,005551,MAT110,College Algebra,3,T
+16299,005551,MAT111,Trigonometry,3,T
+16300,005551,MAT120,Probability&Statistics,3,T
+16301,005551,MAT120,Statistics,3,T
+16302,005551,MAT140,Analytical Geometry,4,T
+16303,005551,MGT101,Management,3,T
+16304,005551,MGT120,Small Business Mgmt,3,T
+16305,005551,MUS105,MUSIC APP,3,T
+16306,005551,MUS105,MUSIC APP,3,T
+16307,005551,MUS105,MUSIC APPRE,3,T
+16308,005551,MUS105,Music Appreciation,3,T
+16309,005551,MUS105,Music Aprreciation,3,T
+16310,005551,PHI101,INTRO TO PHILOSOPHY,3,T
+16311,005551,PHI110,ETHICS,3,T
+16312,005551,PHI101,Intor to Philosophy,3,T
+16313,005551,PHI101,Intro to Philosophy,3,T
+16314,005551,PHI110,Ethics,3,T
+16315,005551,PSC201,AMERICAN GOVT,3,T
+16316,005551,PSC101,American Gov't,3,T
+16317,005551,PSC201,American Gov't,3,T
+16318,005551,PSC201,American Government,3,T
+16319,005551,PSC201,American Govt,3,T
+16320,005551,PSC215,State&Local Gov't,3,T
+16321,005551,PSC220,International Relations,3,T
+16322,005551,PSY201,GENERAL PSYCH,3,T
+16323,005551,PSY201,GENERAL PSYCHOLOGY,3,T
+16324,005551,PSY201,General Psych,3,T
+16325,005551,PSY201,General Psychology,3,T
+16326,005551,PSY203,Human Growth&Devel,3,T
+16327,005551,PSY203,Human Grwth&Dev,3,T
+16328,005551,REL101,INTRO TO RELIGION,3,T
+16329,005551,REL101,Intro to Religion,3,T
+16330,005551,SOC101,INTRO TO SOC,3,T
+16331,005551,SOC101,INTRO TO SOCIOLOGY,3,T
+16332,005551,SOC210,JUVENILE DELINGUENCY,3,T
+16333,005551,SOC101,Sociology,3,T
+16334,005551,SOC102,Marriage & Famiy,3,T
+16335,005551,SPA101,ELEMENTARY SPANISH I,4,T
+16336,005551,SPA102,ELEMENTARY SPAN II,4,T
+16337,005551,SPA101,Spanish I,4,T
+16338,005551,SPA102,Spanish II,4,T
+16339,005551,SPA201,Intermediate Spanish,3,T
+16340,005551,SPC205,PUBLIC SPEAKING,3,T
+16341,005551,SPC209,INTERPERS COMM,3,T
+16342,005551,SPC205,Public Speaking,3,T
+16343,005551,SPC205,Public Spealking,3,T
+16344,005551,THE101,INTRO TO THEATER,3,T
+16345,005551,THE101,INTRO TO THEATRE,3,T
+16346,005551,THE101,Intro to Theatre,3,T
 16347,004821,ART145,Digital Darkroom,3,T
 16348,004821,ART239,Digital Photography II,3,T
 16349,004821,BIO105,Science of Biology,4,T
@@ -16385,10 +16385,10 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16384,006271,PSYC2301,General Psychology,3,T
 16385,006271,SOCI1301,Intro Sociology,3,T
 16386,006271,SPCH1315,Public Speaking,3,T
-16387,000346,ADM1614,School Law,3,T
-16388,000346,ADM636,Admn of Sch Persnl,3,T
-16389,000346,ADM636,School Finance & Taxation,3,T
-16390,000346,TRAN001,Transfer Work,29,T
+16387,001738,ADM1614,School Law,3,T
+16388,001738,ADM636,Admn of Sch Persnl,3,T
+16389,001738,ADM636,School Finance & Taxation,3,T
+16390,001738,TRAN001,Transfer Work,29,T
 16391,001798,DRA220,Intro to Drama,2,T
 16392,001798,ENG2206,World Lit Since 1660,3,T
 16393,001798,HIS1112,US Since 1877,3,T
@@ -16453,9 +16453,9 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16452,005798,SP101,Intro Spanish I,3,T
 16453,005798,SP102,Intro Spanish II,3,T
 16454,005798,TG101,Old Testament Survey,3,T
-16455,**TUCC,BIO1224,Intro to Biology for Majors,4,T
-16456,**TUCC,PSY1113,Intro to Psychology,3,T
-16457,**TUCC,SPE1113,Speech Communication I,3,T
+16455,006839,BIO1224,Intro to Biology for Majors,4,T
+16456,006839,PSY1113,Intro to Psychology,3,T
+16457,006839,SPE1113,Speech Communication I,3,T
 16458,003897,ARTJ100,Art Appreciation,3,T
 16459,003897,ARTJ101,Art History I,3,T
 16460,003897,ARTJ109,Color Theory,3,T
@@ -16618,7 +16618,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16617,005816,STAT011,BA Cpt Stat/Da Anal,3,T
 16618,005816,TRAN001,Transfer Work,42,T
 16619,005816,WMST340,Leadership Violence Prev,3,T
-16620,5105,SPAN2201,Spanish I,3,T
+16620,005105,SPAN2201,Spanish I,3,T
 16621,001826,ART395,Bronze Casting/Environmtl Work,3,T
 16622,006007,BIOL1063,Intro Biol Science & Lab,4,T
 16623,006007,CHEM1103,Gen Chem I & Lab,4,T
@@ -16804,7 +16804,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16803,001837,JOU101,Intro to Jurnalism,3,T
 16804,001837,PS101,American Government,3,T
 16805,001837,TRANS001,Transfer Work,18,T
-16806,000970,EDUC711O,The Lewis & Clark Expedition,3,T
+16806,004381,EDUC711O,The Lewis & Clark Expedition,3,T
 16807,003929,BIO122,BIO LIVING SCI,3,T
 16808,003929,FSN101,INTO FOOD/NUT,3,T
 16809,003929,LDR100,FOUND OF LEAD,3,T
@@ -16992,15 +16992,15 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16991,004845,GRMN481,Lecture Series in German St,2,T
 16992,002926,EDCE548,Teaching Teachers,3,T
 16993,002926,EDUC699,Masters Research Methods,3,T
-16994,1024,PLP805,Legacies of Lead,3,T
-16995,1024,PLP845,Data Analytics,3,T
-16996,1024,PLP846,Data Analytics II,3,T
-16997,1024,PLP850,Community Relations,3,T
-16998,1024,PLP855,Speaking for Professionals,3,T
-16999,1024,PLP860,Tech for Profess,3,T
-17000,1024,PLP870,Legislative Dec Making,3,T
-17001,1024,PLP885,Time and Project Mgt,3,T
-17002,1024,VTEED578,Classroom Mgmt,3,T
+16994,001024,PLP805,Legacies of Lead,3,T
+16995,001024,PLP845,Data Analytics,3,T
+16996,001024,PLP846,Data Analytics II,3,T
+16997,001024,PLP850,Community Relations,3,T
+16998,001024,PLP855,Speaking for Professionals,3,T
+16999,001024,PLP860,Tech for Profess,3,T
+17000,001024,PLP870,Legislative Dec Making,3,T
+17001,001024,PLP885,Time and Project Mgt,3,T
+17002,001024,VTEED578,Classroom Mgmt,3,T
 17003,006110,CTED737,Discipline with Dignity,3,T
 17004,006110,CTED880,Building Successful Readers,3,T
 17005,004849,COM220,INTRO MEDIA WRITING,3,T
@@ -17058,7 +17058,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17057,005820,SPA1010,Elementary Span,3,T
 17058,005820,SPA1020,Elementary Spanish,3,T
 17059,004065,PEDU9485,Math Facts & Strategies Prac,3,T
-17060,002940,TRAN001,Transfer Work,40,T
+17060,002927,TRAN001,Transfer Work,40,T
 17061,002927,GEOG1020,Global Perspectives,3,T
 17062,002927,HIST0402,History of East Asia,3,T
 17063,002927,RELGS0505,Religion in Asia,3,T
@@ -17637,8 +17637,8 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17636,006919,DAN2783,Dance-Jazz,3,T
 17637,006919,MAT1023,College Algebra,3,T
 17638,006919,SOC1013,Sociology,3,T
-17639,000389,ART1316,Drawing  I,3,T
-17640,000389,MATH1342,Statistics,3,T
+17639,006850,ART1316,Drawing  I,3,T
+17640,006850,MATH1342,Statistics,3,T
 17641,001845,ENGL111,College Composition I,3,T
 17642,001845,GSSC116,Marriage & Family,3,T
 17643,001845,GSSC140,Soc: Cult & Concepts I,3,T
@@ -17713,15 +17713,15 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17712,000938,PC11401,Thought and Language,3,T
 17713,000938,PS11101,Introduction to Psychology,3,T
 17714,000938,PS20403,Learning and Memory,3,T
-17715,**025,AD1361,Leadership & Org Change,3,T
-17716,**025,AD2055,Soc Entrepreneurship,3,T
-17717,**0019,ACCT1151,Introduction to Accounting I,4,T
-17718,**0019,ACCT1152,Introduction to Accounting II,4,T
-17719,**0019,ACCT2051,Intermediate Accounting I,4,T
-17720,**0019,CRSG2010,Introduction to Computers,2,T
-17721,**0019,HCHG3020,Music,3,T
-17722,**0019,MAEC1211,Principls of Economics (Macro),3,T
-17723,**0019,SCSG1102,Spanish Language II,3,T
+17715,006591,AD1361,Leadership & Org Change,3,T
+17716,006591,AD2055,Soc Entrepreneurship,3,T
+17717,000946,ACCT1151,Introduction to Accounting I,4,T
+17718,000946,ACCT1152,Introduction to Accounting II,4,T
+17719,000946,ACCT2051,Intermediate Accounting I,4,T
+17720,000946,CRSG2010,Introduction to Computers,2,T
+17721,000946,HCHG3020,Music,3,T
+17722,000946,MAEC1211,Principls of Economics (Macro),3,T
+17723,000946,SCSG1102,Spanish Language II,3,T
 17724,**UMII,FRN001,Service Internship,4,T
 17725,**UMII,FRN002,Civilization,3,T
 17726,**UMII,FRN101,French I,4,T
@@ -17861,10 +17861,10 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17860,006220,POLS2753,American National Government,3,T
 17861,006220,PSYC1163,General Psychology,3,T
 17862,006220,SOCI2753,Introduction to Sociology,3,T
-17863,****UC,ENG001,General Paper,3,T
-17864,****UC,ENG102,English Literature,3,T
-17865,6091,FMCD,Families in Crisis,3,T
-17866,6091,PTE5013,Foundations of Educ Research,3,T
+17863,007181,ENG001,General Paper,3,T
+17864,007181,ENG102,English Literature,3,T
+17865,006091,FMCD,Families in Crisis,3,T
+17866,006091,PTE5013,Foundations of Educ Research,3,T
 17867,004842,PLSC1000,American Politics,4,T
 17868,004842,PLSC110,Comparative Politics,4,T
 17869,004842,WRIT1122,Rhetoric&Writing,4,T
@@ -17894,16 +17894,16 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17893,*0001,INTFRENCH,Int French,3,T
 17894,*0001,SPN300,Spanish Peninsular Culture,3,T
 17895,*0001,SPN415,Advanced Grammar,3,T
-17896,**UMCP,ASTR100,Intro to Astronomy & Lab,4,T
-17897,**UMCP,BMGT110,Intro to Bus & Mgt,3,T
-17898,**UMCP,ENGL101,Intro to Writing,3,T
-17899,**UMCP,ENGL246,The Short Story,3,T
-17900,**UMCP,FMSC298F,Future of Families,3,T
-17901,**UMCP,HIST156,Hist U.S. to 1865,3,T
-17902,**UMCP,HIST360,Women & Civl Rights Mvmt,3,T
-17903,**UMCP,MATH110,Intro to Math I,3,T
-17904,**0007,FOST1201,Intermediate German,3,T
-17905,**0007,FOST3201,Mus Viennese Classical Period,3,T
+17896,005814,ASTR100,Intro to Astronomy & Lab,4,T
+17897,005814,BMGT110,Intro to Bus & Mgt,3,T
+17898,005814,ENGL101,Intro to Writing,3,T
+17899,005814,ENGL246,The Short Story,3,T
+17900,005814,FMSC298F,Future of Families,3,T
+17901,005814,HIST156,Hist U.S. to 1865,3,T
+17902,005814,HIST360,Women & Civl Rights Mvmt,3,T
+17903,005814,MATH110,Intro to Math I,3,T
+17904,006874,FOST1201,Intermediate German,3,T
+17905,006874,FOST3201,Mus Viennese Classical Period,3,T
 17906,001840,AH101,Intro to Western Art,3,T
 17907,001840,AH202,History of Art II,3,T
 17908,001840,BISC102,Inq into Life/Hum Biol,3,T
@@ -17932,9 +17932,9 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17931,001840,SPCH105,Bus/Prof Speech,3,T
 17932,001840,SPCH102,Public Speaking,3,T
 17933,001840,SW321,Hum Behav/Soc Envir I,3,T
-17934,**UNCS,MUS19920,Sumr Violin Program,1,T
-17935,002954,CHM1300,General Chemistry I,3,T
-17936,002954,EED5510,Teaching of Writing,3,T
+17934,005512,MUS19920,Sumr Violin Program,1,T
+17935,005534,CHM1300,General Chemistry I,3,T
+17936,005534,EED5510,Teaching of Writing,3,T
 17937,*0002,SPN001,Spanish Grammar,3.3,T
 17938,*0002,SPN002,Spanish Culture,3,T
 17939,*0002,SPN003,Practice of Oral Skills,1.3,T
@@ -17995,12 +17995,12 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17994,005900,THEA2050,a Self-Staging:Oral Com,3,T
 17995,005900,XIDX2100,Representing American Women,3,T
 17996,005900,XIDX2201,Science Foundations,4,T
-17997,001601,BIOL1010,Fundamentals of Biology,4,T
-17998,001601,ENGL1101,English Comp I,3,T
-17999,001601,MATH111,College Algebra,3,T
-18000,001601,POLS1101,American Gov't,3,T
-18001,001601,PSYC1101,General Psych,3,T
-18002,001601,SOCI1101,Sociology,3,T
+17997,005900,BIOL1010,Fundamentals of Biology,4,T
+17998,005900,ENGL1101,English Comp I,3,T
+17999,005900,MATH111,College Algebra,3,T
+18000,005900,POLS1101,American Gov't,3,T
+18001,005900,PSYC1101,General Psych,3,T
+18002,005900,SOCI1101,Sociology,3,T
 18003,000881,ENG397,Contemp Brit Journalism,3,T
 18004,000881,PHI401,Monsters and Vampires,3,T
 18005,000881,REL306,Religion and Conflict,3,T
@@ -18120,173 +18120,173 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 18119,005845,SOCY305,Sociology&Families,3,T
 18120,005845,SPAN101,BEGINNING SPAN I,3,T
 18121,005845,TRAN001,Transfer,18,T
-18122,5818,ACCT225,Intro Financial Acct,3,T
-18123,5818,ACCT225,Intro to Financial Acct,3,T
-18124,5818,ACCT226,Intro Managerial Acct,3,T
-18125,5818,ACCT226,Managerial Accounting,3,T
-18126,5818,ACCT325,Commercial Law,3,T
-18127,5818,ARTHU105,History Western Art I,3,T
-18128,5818,ARTHU106,History Western Art II,3,T
-18129,5818,ARTHU106,History Westrn Art II,3,T
-18130,5818,BIOL101,Biological Principles I,4,T
-18131,5818,BIOLU101,Biology I,4,T
-18132,5818,BIOLU101,Intro Biology,4,T
-18133,5818,CHEM111,General Chemistry I,4,T
-18134,5818,CHEMU101,Fundamentals of Chemistry,4,T
-18135,5818,CHEMU106,Chemistry&Society,3,T
-18136,5818,CHIN121,Elem Chinese Mandarin,4,T
-18137,5818,CHIN122,Basic Prof/Chin Man,4,T
-18138,5818,CHINU101,Chinese I,3,T
-18139,5818,CHINU102,Chinese II,3,T
-18140,5818,CSCE101,Intro Computer Concepts,3,T
-18141,5818,CSCIU138,Intro to Computer Tech,3,T
-18142,5818,DANC101,Dance Appre,3,T
-18143,5818,DANC101,Dance Appreciation,3,T
-18144,5818,DANC112B,Cont Dance Technique I,2,T
-18145,5818,ECON221,Microeconomics,3,T
-18146,5818,ECON222,Macroeconomics,3,T
-18147,5818,ECONU221,Macroeconomics,3,T
-18148,5818,EDADR718,Sch/Comm Relationships,3,T
-18149,5818,EDCE600,Comm Skills Counseling,3,T
-18150,5818,EDCE700,Cross Cultural Counseling,3,T
-18151,5818,EDEC201,Inq in Early Chldhd Ed,3,T
-18152,5818,EDEC250,Play & Early Learning,3,T
-18153,5818,EDEL760,Soc Std Elem Sch,3,T
-18154,5818,EDEX640,Managing Prblm Bhvr,3,T
-18155,5818,EDHE738,Speaking for Professionals,3,T
-18156,5818,EDHE835,Current Issues Ldrshp,3,T
-18157,5818,EDHE839,Legislative Decision Making,3,T
-18158,5818,EDIT680,Int. Curric/Inst. Gift Student,3,T
-18159,5818,EDIT680,Nature&Needs GT Students,3,T
-18160,5818,EDIT690,Arts Assement Inst,3,T
-18161,5818,EDITU680,Literacy Assessment&Strategy,3,T
-18162,5818,EDITU690,Using Literacy to Learn,2,T
-18163,5818,EDPY401,Learners & Diversity,4,T
-18164,5818,EDPYR705,Human Growth & Develop,3,T
-18165,5818,EDRD,Tch Rdg/Wrtg/Cnt Area,3,T
-18166,5818,EDRD600,Fndtns of Reading Instr,3,T
-18167,5818,EDRD600,Fndtns Reading Inst,3,T
-18168,5818,EDRD600,Fndtns Reading Instruction,3,T
-18169,5818,EDRD715,Inst Strategies,3,T
-18170,5818,EDRD715,Instr Strategies Reading,3,T
-18171,5818,EDRD716,Fndtns Reading Assessment,3,T
-18172,5818,EDRD730,Tchng Reading&Writing,3,T
-18173,5818,EDRD730,Tchng Reading/Wrtng CNtnt,3,T
-18174,5818,EDRD730M,Intro Tch Rd Cont Area,3,T
-18175,5818,EDRDR600,Found of Reading Instr,3,T
-18176,5818,EDRDR600,Found of Reading Instr,3,T
-18177,5818,EDRDR715,Instr Stat-Rdg,3,T
-18178,5818,EDRDR715,Instr Strateg-Rdg,3,T
-18179,5818,EDRDR716,Foundatns Rdg Ass,3,T
-18180,5818,EDRDR719,Dev & Guiding-Rdg Pr,3,T
-18181,5818,EDRDR730,Intro Tch Rd:Cnt Area,3,T
-18182,5818,EDRDR776,Coaching Within Clrms,3,T
-18183,5818,EDTE,Col Issues Writing Inst,6,T
-18184,5818,EDUCR634W,Prob/Init Math & Sc,3,T
-18185,5818,EDUCR635P,Prob/Tch Applied Bio,3,T
-18186,5818,EDUC633,Feild Problems in Educ II,3,T
-18187,5818,EDUCR634,Prob/Reading Lit EMP,3,T
-18188,5818,ENG101,Critical Rdg&Composition,3,T
-18189,5818,ENG102,English Comp II,3,T
-18190,5818,ENGL101,Composition,3,T
-18191,5818,ENGL101,Composition I,3,T
-18192,5818,ENGL101,Critical Reading&Comp,3,T
-18193,5818,ENGL101,Critical Reading&Comp,3,T
-18194,5818,ENGL101,Criticl Readg&Comp,3,T
-18195,5818,ENGL101,English Comp I,3,T
-18196,5818,ENGL102,Comp & Literature,3,T
-18197,5818,ENGL102,English Comp II,3,T
-18198,5818,ENGL102,Rhetoric & Comp,3,T
-18199,5818,ENGL102,Rhetoric&Comp,3,T
-18200,5818,ENGL102,Rhetoric&Comp,3,T
-18201,5818,ENGL102,Rhetoric&Compostion,3,T
-18202,5818,ENGLU275,World Lit,3,T
-18203,5818,FINA363,Intro to Finance,3,T
-18204,5818,FREN121,Elementary French,3,T
-18205,5818,FREN122,Proficiency in French,3,T
-18206,5818,GEOG103,Intro Geography,3,T
-18207,5818,GEOL575,Groundwater Modeling,3,T
-18208,5818,HIST109,Latin American Civilization,3,T
-18209,5818,HIST111,US History I,3,T
-18210,5818,HIST112,US History II,3,T
-18211,5818,HISTU102,World History,3,T
-18212,5818,HISTU102,World History II,3,T
-18213,5818,HISTU105,US History I,3,T
-18214,5818,HISTU106,US History II,3,T
-18215,5818,JOUR201,Mass Communications,3,T
-18216,5818,LIBR101,Information Literacy,1,T
-18217,5818,MATH102,Elem Statistics,3,T
-18218,5818,MATH102,Elementary Stats,3,T
-18219,5818,MATH111,College MAthematics,3,T
-18220,5818,MATH115,Precalculus Mathematics,4,T
-18221,5818,MATH122,Calculus for BA,3,T
-18222,5818,MATH122,Calculus For BA&Soc Sci,3,T
-18223,5818,MATH141,Calculus,4,T
-18224,5818,MATH172,Math Modeling for Life,3,T
-18225,5818,MATH221,Basic Cncpts-Elem Math,3,T
-18226,5818,MATH544,Linear Algebra,3,T
-18227,5818,MATHU102,Elem Statistics,3,T
-18228,5818,MATHU126,Precalculus I,3,T
-18229,5818,MATHU126,Precalculus I,3,T
-18230,5818,MATHU127,Precalculus II,3,T
-18231,5818,MATHU127,Preclaculus II,3,T
-18232,5818,MATHU141,Calculus I,4,T
-18233,5818,MATHU141,Calculus I,4,T
-18234,5818,MATHU142,Calculus II,4,T
-18235,5818,MATHU142,Calculus II,4,T
-18236,5818,MGSC290,Comp Info Systems,3,T
-18237,5818,MGSC290,Compt Info Systems,3,T
-18238,5818,MUSC110,Intro to Music,3,T
-18239,5818,MUSC115,Music Theory I,3,T
-18240,5818,MUSC117,Aural Skills I,1,T
-18241,5818,MUSC129,Chorus,1,T
-18242,5818,MUSC140,History of Rock Music,3,T
-18243,5818,MUSC211V,LD Performance/Voice,3,T
-18244,5818,MUSC278,Intro Singers Diction,2,T
-18245,5818,NSCI210,Oceans and Man,3,T
-18246,5818,PHIL102,Intro Philosophy,3,T
-18247,5818,PHIL110,Intro to Logic,3,T
-18248,5818,PHIL110,Intro to Logic I,3,T
-18249,5818,PHYSU101,Intro to Physical Science,4,T
-18250,5818,PHYSU101,Physical Science,4,T
-18251,5818,POLI101,Controv World Politics,3,T
-18252,5818,POLI101,Global Politics,3,T
-18253,5818,POLIU101,American Nat'l Gov't,3,T
-18254,5818,POLIU101,American Nat'l Govt,3,T
-18255,5818,PSYC101,Intro Psychology,3,T
-18256,5818,PSYC101,Intro to Psych,3,T
-18257,5818,PSYCJ101,Intro to Psychology,3,T
-18258,5818,PSYCU101,Intro Psychology,3,T
-18259,5818,PSYCU302,Developmental Psych,3,T
-18260,5818,Q680B,Topics in Education,3,T
-18261,5818,RELGU103,World Religions,3,T
-18262,5818,S100,Transfer Work,6,T
-18263,5818,SCSCW138,Intro to Computers,3,T
-18264,5818,SEDCW300,Resource & Tech Tch,3,T
-18265,5818,SEDEW398,Topics in ECE,3,T
-18266,5818,SEDFW341,Intro to Except Learner,3,T
-18267,5818,SEGLW484,Children's Literature,3,T
-18268,5818,SERM0700,Intro to Res in Ed,3,T
-18269,5818,SETE680L, Issues in Literacy,6,T
-18270,5818,SGISW201,American Nat Gov't,3,T
-18271,5818,SMTHW232,Concepts Elem Math,3,T
-18272,5818,SMTHW233,Geometry Measurement,3,T
-18273,5818,SOCY101,Intro Sociology,3,T
-18274,5818,SOWK712,Human Behav & Soc Env,3,T
-18275,5818,SPAN122,Basic Proficiency/Span,3,T
-18276,5818,SPANU101,Spanish I,3,T
-18277,5818,SPANU102,Spanish II,3,T
-18278,5818,SPANU201,Int Spanish,3,T
-18279,5818,SPANU201,Intermediate Spanish I,3,T
-18280,5818,SPCH140,Public Communication,3,T
-18281,5818,SPCH230,Bus&Professional Speaking,3,T
-18282,5818,SPCHU201,Public Speaking,3,T
-18283,5818,SPHLW102,Intro to Philosophy,3,T
-18284,5818,SPTE201,Intro Sports Mgmt,3,T
-18285,5818,SPTE203,Events & Venues,3,T
-18286,5818,SSPHW201,Public Speaking,3,T
-18287,5818,STAT206,Statistics for Business,3,T
-18288,5818,THEA201,Intro to Theatre,3,T
+18122,005818,ACCT225,Intro Financial Acct,3,T
+18123,005818,ACCT225,Intro to Financial Acct,3,T
+18124,005818,ACCT226,Intro Managerial Acct,3,T
+18125,005818,ACCT226,Managerial Accounting,3,T
+18126,005818,ACCT325,Commercial Law,3,T
+18127,005818,ARTHU105,History Western Art I,3,T
+18128,005818,ARTHU106,History Western Art II,3,T
+18129,005818,ARTHU106,History Westrn Art II,3,T
+18130,005818,BIOL101,Biological Principles I,4,T
+18131,005818,BIOLU101,Biology I,4,T
+18132,005818,BIOLU101,Intro Biology,4,T
+18133,005818,CHEM111,General Chemistry I,4,T
+18134,005818,CHEMU101,Fundamentals of Chemistry,4,T
+18135,005818,CHEMU106,Chemistry&Society,3,T
+18136,005818,CHIN121,Elem Chinese Mandarin,4,T
+18137,005818,CHIN122,Basic Prof/Chin Man,4,T
+18138,005818,CHINU101,Chinese I,3,T
+18139,005818,CHINU102,Chinese II,3,T
+18140,005818,CSCE101,Intro Computer Concepts,3,T
+18141,005818,CSCIU138,Intro to Computer Tech,3,T
+18142,005818,DANC101,Dance Appre,3,T
+18143,005818,DANC101,Dance Appreciation,3,T
+18144,005818,DANC112B,Cont Dance Technique I,2,T
+18145,005818,ECON221,Microeconomics,3,T
+18146,005818,ECON222,Macroeconomics,3,T
+18147,005818,ECONU221,Macroeconomics,3,T
+18148,005818,EDADR718,Sch/Comm Relationships,3,T
+18149,005818,EDCE600,Comm Skills Counseling,3,T
+18150,005818,EDCE700,Cross Cultural Counseling,3,T
+18151,005818,EDEC201,Inq in Early Chldhd Ed,3,T
+18152,005818,EDEC250,Play & Early Learning,3,T
+18153,005818,EDEL760,Soc Std Elem Sch,3,T
+18154,005818,EDEX640,Managing Prblm Bhvr,3,T
+18155,005818,EDHE738,Speaking for Professionals,3,T
+18156,005818,EDHE835,Current Issues Ldrshp,3,T
+18157,005818,EDHE839,Legislative Decision Making,3,T
+18158,005818,EDIT680,Int. Curric/Inst. Gift Student,3,T
+18159,005818,EDIT680,Nature&Needs GT Students,3,T
+18160,005818,EDIT690,Arts Assement Inst,3,T
+18161,005818,EDITU680,Literacy Assessment&Strategy,3,T
+18162,005818,EDITU690,Using Literacy to Learn,2,T
+18163,005818,EDPY401,Learners & Diversity,4,T
+18164,005818,EDPYR705,Human Growth & Develop,3,T
+18165,005818,EDRD,Tch Rdg/Wrtg/Cnt Area,3,T
+18166,005818,EDRD600,Fndtns of Reading Instr,3,T
+18167,005818,EDRD600,Fndtns Reading Inst,3,T
+18168,005818,EDRD600,Fndtns Reading Instruction,3,T
+18169,005818,EDRD715,Inst Strategies,3,T
+18170,005818,EDRD715,Instr Strategies Reading,3,T
+18171,005818,EDRD716,Fndtns Reading Assessment,3,T
+18172,005818,EDRD730,Tchng Reading&Writing,3,T
+18173,005818,EDRD730,Tchng Reading/Wrtng CNtnt,3,T
+18174,005818,EDRD730M,Intro Tch Rd Cont Area,3,T
+18175,005818,EDRDR600,Found of Reading Instr,3,T
+18176,005818,EDRDR600,Found of Reading Instr,3,T
+18177,005818,EDRDR715,Instr Stat-Rdg,3,T
+18178,005818,EDRDR715,Instr Strateg-Rdg,3,T
+18179,005818,EDRDR716,Foundatns Rdg Ass,3,T
+18180,005818,EDRDR719,Dev & Guiding-Rdg Pr,3,T
+18181,005818,EDRDR730,Intro Tch Rd:Cnt Area,3,T
+18182,005818,EDRDR776,Coaching Within Clrms,3,T
+18183,005818,EDTE,Col Issues Writing Inst,6,T
+18184,005818,EDUCR634W,Prob/Init Math & Sc,3,T
+18185,005818,EDUCR635P,Prob/Tch Applied Bio,3,T
+18186,005818,EDUC633,Feild Problems in Educ II,3,T
+18187,005818,EDUCR634,Prob/Reading Lit EMP,3,T
+18188,005818,ENG101,Critical Rdg&Composition,3,T
+18189,005818,ENG102,English Comp II,3,T
+18190,005818,ENGL101,Composition,3,T
+18191,005818,ENGL101,Composition I,3,T
+18192,005818,ENGL101,Critical Reading&Comp,3,T
+18193,005818,ENGL101,Critical Reading&Comp,3,T
+18194,005818,ENGL101,Criticl Readg&Comp,3,T
+18195,005818,ENGL101,English Comp I,3,T
+18196,005818,ENGL102,Comp & Literature,3,T
+18197,005818,ENGL102,English Comp II,3,T
+18198,005818,ENGL102,Rhetoric & Comp,3,T
+18199,005818,ENGL102,Rhetoric&Comp,3,T
+18200,005818,ENGL102,Rhetoric&Comp,3,T
+18201,005818,ENGL102,Rhetoric&Compostion,3,T
+18202,005818,ENGLU275,World Lit,3,T
+18203,005818,FINA363,Intro to Finance,3,T
+18204,005818,FREN121,Elementary French,3,T
+18205,005818,FREN122,Proficiency in French,3,T
+18206,005818,GEOG103,Intro Geography,3,T
+18207,005818,GEOL575,Groundwater Modeling,3,T
+18208,005818,HIST109,Latin American Civilization,3,T
+18209,005818,HIST111,US History I,3,T
+18210,005818,HIST112,US History II,3,T
+18211,005818,HISTU102,World History,3,T
+18212,005818,HISTU102,World History II,3,T
+18213,005818,HISTU105,US History I,3,T
+18214,005818,HISTU106,US History II,3,T
+18215,005818,JOUR201,Mass Communications,3,T
+18216,005818,LIBR101,Information Literacy,1,T
+18217,005818,MATH102,Elem Statistics,3,T
+18218,005818,MATH102,Elementary Stats,3,T
+18219,005818,MATH111,College MAthematics,3,T
+18220,005818,MATH115,Precalculus Mathematics,4,T
+18221,005818,MATH122,Calculus for BA,3,T
+18222,005818,MATH122,Calculus For BA&Soc Sci,3,T
+18223,005818,MATH141,Calculus,4,T
+18224,005818,MATH172,Math Modeling for Life,3,T
+18225,005818,MATH221,Basic Cncpts-Elem Math,3,T
+18226,005818,MATH544,Linear Algebra,3,T
+18227,005818,MATHU102,Elem Statistics,3,T
+18228,005818,MATHU126,Precalculus I,3,T
+18229,005818,MATHU126,Precalculus I,3,T
+18230,005818,MATHU127,Precalculus II,3,T
+18231,005818,MATHU127,Preclaculus II,3,T
+18232,005818,MATHU141,Calculus I,4,T
+18233,005818,MATHU141,Calculus I,4,T
+18234,005818,MATHU142,Calculus II,4,T
+18235,005818,MATHU142,Calculus II,4,T
+18236,005818,MGSC290,Comp Info Systems,3,T
+18237,005818,MGSC290,Compt Info Systems,3,T
+18238,005818,MUSC110,Intro to Music,3,T
+18239,005818,MUSC115,Music Theory I,3,T
+18240,005818,MUSC117,Aural Skills I,1,T
+18241,005818,MUSC129,Chorus,1,T
+18242,005818,MUSC140,History of Rock Music,3,T
+18243,005818,MUSC211V,LD Performance/Voice,3,T
+18244,005818,MUSC278,Intro Singers Diction,2,T
+18245,005818,NSCI210,Oceans and Man,3,T
+18246,005818,PHIL102,Intro Philosophy,3,T
+18247,005818,PHIL110,Intro to Logic,3,T
+18248,005818,PHIL110,Intro to Logic I,3,T
+18249,005818,PHYSU101,Intro to Physical Science,4,T
+18250,005818,PHYSU101,Physical Science,4,T
+18251,005818,POLI101,Controv World Politics,3,T
+18252,005818,POLI101,Global Politics,3,T
+18253,005818,POLIU101,American Nat'l Gov't,3,T
+18254,005818,POLIU101,American Nat'l Govt,3,T
+18255,005818,PSYC101,Intro Psychology,3,T
+18256,005818,PSYC101,Intro to Psych,3,T
+18257,005818,PSYCJ101,Intro to Psychology,3,T
+18258,005818,PSYCU101,Intro Psychology,3,T
+18259,005818,PSYCU302,Developmental Psych,3,T
+18260,005818,Q680B,Topics in Education,3,T
+18261,005818,RELGU103,World Religions,3,T
+18262,005818,S100,Transfer Work,6,T
+18263,005818,SCSCW138,Intro to Computers,3,T
+18264,005818,SEDCW300,Resource & Tech Tch,3,T
+18265,005818,SEDEW398,Topics in ECE,3,T
+18266,005818,SEDFW341,Intro to Except Learner,3,T
+18267,005818,SEGLW484,Children's Literature,3,T
+18268,005818,SERM0700,Intro to Res in Ed,3,T
+18269,005818,SETE680L, Issues in Literacy,6,T
+18270,005818,SGISW201,American Nat Gov't,3,T
+18271,005818,SMTHW232,Concepts Elem Math,3,T
+18272,005818,SMTHW233,Geometry Measurement,3,T
+18273,005818,SOCY101,Intro Sociology,3,T
+18274,005818,SOWK712,Human Behav & Soc Env,3,T
+18275,005818,SPAN122,Basic Proficiency/Span,3,T
+18276,005818,SPANU101,Spanish I,3,T
+18277,005818,SPANU102,Spanish II,3,T
+18278,005818,SPANU201,Int Spanish,3,T
+18279,005818,SPANU201,Intermediate Spanish I,3,T
+18280,005818,SPCH140,Public Communication,3,T
+18281,005818,SPCH230,Bus&Professional Speaking,3,T
+18282,005818,SPCHU201,Public Speaking,3,T
+18283,005818,SPHLW102,Intro to Philosophy,3,T
+18284,005818,SPTE201,Intro Sports Mgmt,3,T
+18285,005818,SPTE203,Events & Venues,3,T
+18286,005818,SSPHW201,Public Speaking,3,T
+18287,005818,STAT206,Statistics for Business,3,T
+18288,005818,THEA201,Intro to Theatre,3,T
 18289,005849,ANTH102,Understanding Other Cult,3,T
 18290,005849,ANTHL102,Understand Other Cult,3,T
 18291,005849,ARTE101,ITNRO TO ART,3,T
@@ -20037,7 +20037,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 20036,005869,STA2023,Statistics,3,T
 20037,005869,STA2023,Statistics,3,T
 20038,005869,SYG2000,Intro Sociology,3,T
-20039,5869,TRANS001,Transfer Work,15,T
+20039,005869,TRANS001,Transfer Work,15,T
 20040,001874,BLAW104,Legal Env Business,3,T
 20041,001874,CORE110,Human Experience,4,T
 20042,001874,CORE115,Human Experience,4,T
@@ -20066,33 +20066,33 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 20065,001871,PHIL100,Intro to Philosophy,3,T
 20066,001871,PSY101,General Psychology,3,T
 20067,001872,GRAD7244,Name Learning Network,1,T
-20068,01293,ACC321,Acc for Decision Making,3,T
-20069,01293,ACCT225,Financial Accounting,3,T
-20070,01293,ANTH102C,Cultural Anthropology,3,T
-20071,01293,BUS216,Microeconomics,3,T
-20072,01293,BUSN114,Intro to Business,0,T
-20073,01293,BUSN125,Computer Applications,3,T
-20074,01293,BUSN215,Macroeconomics,3,T
-20075,01293,BUSN316,Legal Aspects/Business,3,T
-20076,01293,BUSN317,Leg&Ethical Environ,3,T
-20077,01293,COMM201C,Speech,3,T
-20078,01293,COMM246,American Cinema History,3,T
-20079,01293,ENGL220C,Researched Writing,3,T
-20080,01293,FINA215C,Intro to the Arts,3,T
-20081,01293,FINC320,Personal Finance,3,T
-20082,01293,FINC335,Corporate Finance,3,T
-20083,01293,HIST203C,World Civilizations,3,T
-20084,01293,KINE145C,Fitness/Wellness Lecture,1,T
-20085,01293,KINE146C,Zumba,1,T
-20086,01293,MATG265C,Statistical Methods,3,T
-20087,01293,MRKT360,Principles Marketing,3,T
-20088,01293,MUSC202C,Intro to Music,3,T
-20089,01293,NCSI210C,Empirical World,4,T
-20090,01293,NTC101C,New Testament,3,T
-20091,01293,OT201C,Old Testament,3,T
-20092,01293,PSYC103C,General Psych,3,T
-20093,01293,THEO101C,Fnds of Christian Life,3,T
-20094,01293,THEO300C,Christian World View,3,T
+20068,004701,ACC321,Acc for Decision Making,3,T
+20069,004701,ACCT225,Financial Accounting,3,T
+20070,004701,ANTH102C,Cultural Anthropology,3,T
+20071,004701,BUS216,Microeconomics,3,T
+20072,004701,BUSN114,Intro to Business,0,T
+20073,004701,BUSN125,Computer Applications,3,T
+20074,004701,BUSN215,Macroeconomics,3,T
+20075,004701,BUSN316,Legal Aspects/Business,3,T
+20076,004701,BUSN317,Leg&Ethical Environ,3,T
+20077,004701,COMM201C,Speech,3,T
+20078,004701,COMM246,American Cinema History,3,T
+20079,004701,ENGL220C,Researched Writing,3,T
+20080,004701,FINA215C,Intro to the Arts,3,T
+20081,004701,FINC320,Personal Finance,3,T
+20082,004701,FINC335,Corporate Finance,3,T
+20083,004701,HIST203C,World Civilizations,3,T
+20084,004701,KINE145C,Fitness/Wellness Lecture,1,T
+20085,004701,KINE146C,Zumba,1,T
+20086,004701,MATG265C,Statistical Methods,3,T
+20087,004701,MRKT360,Principles Marketing,3,T
+20088,004701,MUSC202C,Intro to Music,3,T
+20089,004701,NCSI210C,Empirical World,4,T
+20090,004701,NTC101C,New Testament,3,T
+20091,004701,OT201C,Old Testament,3,T
+20092,004701,PSYC103C,General Psych,3,T
+20093,004701,THEO101C,Fnds of Christian Life,3,T
+20094,004701,THEO300C,Christian World View,3,T
 20095,001877,FREN101,French I,4,T
 20096,001877,FREN103,French II,4,T
 20097,001877,MATH111,Finite Mathematics,3,T
@@ -20162,9 +20162,9 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 20161,005863,PE120,Introduction to Physical Edu,2,T
 20162,005863,SPAN131,Elementary Spanish I,3,T
 20163,005863,SPCH130,Fundamentals of Speech,3,T
-20164,006933,COUN5540,Family Systems Theory,3,T
-20165,006933,COUN5560,Human Sexuality,3,T
-20166,006933,COUN5640,Marriage and Family Coun,3,T
+20164,005863,COUN5540,Family Systems Theory,3,T
+20165,005863,COUN5560,Human Sexuality,3,T
+20166,005863,COUN5640,Marriage and Family Coun,3,T
 20167,001000,CSC001,Info Science & Computers,3,T
 20168,001000,ECN001,Economics,1,T
 20169,001000,EDU001,Education and Culture,1,T
@@ -20223,13 +20223,13 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 20222,001893,ENGL1020,English Comp II,3,T
 20223,001893,MATH1630,Finite Matematics,3,T
 20224,001893,MATH1530,Statistics,3,T
-20225,1893,ART2210,Photography I,3,T
-20226,1893,ARTP2220,Photography II,3,T
-20227,1893,ENGL1010,Composition I,3,T
-20228,1893,GEOG1030,Cultural Geography,3,T
-20229,1893,HIST2010,American History I,3,T
-20230,1893,MATH1530,Probability and Statistics,3,T
-20231,1893,PSYC1030,General Pschology,3,T
+20225,001893,ART2210,Photography I,3,T
+20226,001893,ARTP2220,Photography II,3,T
+20227,001893,ENGL1010,Composition I,3,T
+20228,001893,GEOG1030,Cultural Geography,3,T
+20229,001893,HIST2010,American History I,3,T
+20230,001893,MATH1530,Probability and Statistics,3,T
+20231,001893,PSYC1030,General Pschology,3,T
 20232,005886,ART1160,Drawing I,4,T
 20233,005886,ART1470,Art History,4,T
 20234,005886,BA3150,Managing People,4,T
@@ -20449,9 +20449,9 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 20448,005921,SOC210,Introduction to Sociology,3,T
 20449,002518,ECON201,Macroeonomic Principles,3,T
 20450,002518,ENG110,Writing Effective Prose,3,T
-20451,6658,EN1113,Composition I,2,T
-20452,6658,PE2213,Health&Safety,3,T
-20453,6658,PY1113,General Psych,3,T
+20451,006658,EN1113,Composition I,2,T
+20452,006658,PE2213,Health&Safety,3,T
+20453,006658,PY1113,General Psych,3,T
 20454,005892,ENG101,English Comp I,3,T
 20455,005892,ENG102,English Comp II,3,T
 20456,005892,HIS201,American History I,3,T
@@ -21000,9 +21000,9 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 20999,006975,ENGL2010,Intro to World Lit,3,T
 21000,006975,HST104H,World Civilization Since 1500,3,T
 21001,001965,UNST124,Criminalistics:Intr Forensic,3,T
-21002,031229,PSY101,Intro to Psych,3,T
-21003,031229,PSY226,Forensic Psych,3,T
-21004,031229,PSY230,Abnormal Psych,3,T
+21002,003990,PSY101,Intro to Psych,3,T
+21003,003990,PSY226,Forensic Psych,3,T
+21004,003990,PSY230,Abnormal Psych,3,T
 21005,005989,AHS102,Medical Terminology,3,T
 21006,005989,AHS102,MEDICAL TERMINOLOGY,3,T
 21007,005989,AHS102,Medical Terminology,3,T

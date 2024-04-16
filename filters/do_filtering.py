@@ -15,6 +15,7 @@ def main(args: list[str]) -> int:
     # Filter the courses, 
     #     filtering the records from bad courses by side effect
     course_list = filter_courses(original_records)
+
     # write the courses out
     write_csv('Courses.csv', course_list)
 
