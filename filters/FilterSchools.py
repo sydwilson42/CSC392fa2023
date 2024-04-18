@@ -1,9 +1,9 @@
 import re
 from read_write_csv import read_from_csv  
 
-def read_canonical_name_dict() -> dict[dict[str,str]]:
+def read_canonical_name_dict() -> dict[str,dict[str,str]]:
     """Read the canonical name list and return it."""
-    result: dict[dict[str,str]] = {}
+    result: dict[str,dict[str,str]] = {}
     namelist: list[dict[str,str]] = read_from_csv('school_names.csv')
     for school in namelist:
         result[school['CEEB']] = school
@@ -11,7 +11,7 @@ def read_canonical_name_dict() -> dict[dict[str,str]]:
     # Do the actual reading from csv here
     return result
 
-canonical_name_dict: dict[dict[str,str]] = read_canonical_name_dict()
+canonical_name_dict: dict[str,dict[str,str]] = read_canonical_name_dict()
 
 def find_canonical_name(record: dict[str,str]) -> str:
     """Using the name database, find the canonical
@@ -256,12 +256,13 @@ def filter_schools(transfer_credits: list[dict[str,str]]) -> list[dict[str,str]]
                    '999995']
     #              "Comprehensive Exam"
 
-    for record in transfer_credits:
+    for i in range(len(transfer_credits)-1, -1, -1):
+        record = transfer_credits[i]
         #print(record)
         school = record['ORG CDE']
         if school in bad_schools:
-            # Will this work?
-            del record
+            # Will this work?  Answer: no.
+            del transfer_credits[i]
             continue
         # If this isn't a bad school
         elif school in equivalences:
