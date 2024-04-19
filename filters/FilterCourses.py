@@ -1,47 +1,43 @@
 def merge_courses(original: dict[str, str], duplicate: dict[str, str]) -> None:
-    """Merge courses ORIGINAL and DUPLICATE, leaving the result in ORIGINAL."""
+    """Merge courses ORIGINAL and DUPLICATE, leaving the result in ORIGINAL.
+    This is done unconditionally (The idea is to improve the quality of the data in ORIGINAL."""
+    # Pre:
+    assert original['ORG CDE'] == duplicate['ORG CDE'] and original['CRS CDE'] == duplicate['CRS CDE']
     # Things to look at for the merge:
     #   - Which copy has a better name?  (How do you tell?)
     #   - Does one copy have an ARC code and the other not? done
     #   - Do they have different ARC codes? (don't merge!) done
     #   - Do the credit hours and grade codes match?
 
-    # Check ARC codes first, to see whether to merge at all
-    mergeable = True
-    if len(original['ADV REQ CDE']) > 0 and len(duplicate['ADV REQ CDE']) > 0 \
-        and original['ADV REQ CDE'] != duplicate['ADV REQ CDE']:
-        mergeable = False
+    # If original has no ARC but duplicate does, take the ARC
+    if len(original['ADV REQ CDE']) == 0 and len(duplicate['ADV REQ CDE']) > 0:
+        original['ADV REQ CDE'] = duplicate['ADV REQ CDE']
+    
+    # Take the longer name.  This is basically a WAG (no S), based on the
+    # intuition that the longer name *might* be less abbreviated.
+    if len(original['CRS TITLE']) < len(duplicate['CRS TITLE']):
+        original['CRS TITLE'] = duplicate['CRS TITLE']
 
-    if mergeable:
-        # If original has no ARC but duplicate does, take the ARC
-        if len(original['ADV REQ CDE']) == 0 and len(duplicate['ADV REQ CDE']) > 0:
-            original['ADV REQ CDE'] = duplicate['ADV REQ CDE']
-        
-        # Take the longer name.  This is basically a WAG (no S), based on the
-        # intuition that the longer name might be less abbreviated.
-        if len(original['CRS TITLE']) < len(duplicate['CRS TITLE']):
-            original['CRS TITLE'] = duplicate['CRS TITLE']
+    if original['CREDIT HRS'] != duplicate['CREDIT HRS']:
+        # Make a range.  Yes, there are floating-point values in CREDIT HRS.
+        new_hours = float(duplicate['CREDIT HRS'])
+        if '-' in original['CREDIT HRS']:
+            hour_strs = original['CREDIT HRS'].split('-')
+            assert len(hour_strs) == 2, f"bad hour_strs: {hour_strs}"
+            hours_low = float(hour_strs[0])
+            hours_high = float(hour_strs[1])
+        else:
+            hours_low = float(original['CREDIT HRS'])
+            hours_high = hours_low
+        hours_low = min(hours_low, new_hours)
+        hours_high = max(hours_high, new_hours)
+        if hours_low == int(hours_low):
+            hours_low = int(hours_low)
+        if hours_high == int(hours_high):
+            hours_high = int(hours_high)
+        original['CREDIT HRS'] = f"{hours_low}-{hours_high}"            
 
-        if original['CREDIT HRS'] != duplicate['CREDIT HRS']:
-            # Make a range.  Yes, there are floating-point values in CREDIT HRS.
-            new_hours = float(duplicate['CREDIT HRS'])
-            if '-' in original['CREDIT HRS']:
-                hour_strs = original['CREDIT HRS'].split('-')
-                assert len(hour_strs) == 2, f"bad hour_strs: {hour_strs}"
-                hours_low = float(hour_strs[0])
-                hours_high = float(hour_strs[1])
-            else:
-                hours_low = float(original['CREDIT HRS'])
-                hours_high = hours_low
-            hours_low = min(hours_low, new_hours)
-            hours_high = max(hours_high, new_hours)
-            if hours_low == int(hours_low):
-                hours_low = int(hours_low)
-            if hours_high == int(hours_high):
-                hours_high = int(hours_high)
-            original['CREDIT HRS'] = f"{hours_low}-{hours_high}"            
-
-        # For right now, ignore GRADE CDE, TRANS YR, and TRANS TRM.
+    # For right now, ignore GRADE CDE, TRANS YR, and TRANS TRM.
 
 
 def merge_duplicates(transfer_credits: list[dict[str,str]]) -> dict[str, int]:

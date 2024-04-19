@@ -292,12 +292,12 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 1493,000787,BADM202,Principles of Microeconomics,3,T
 1494,000787,BADM212,Principles of Management,3,T
 1495,000787,BADM213,Human Resource Mgmt,3,T
-1496,000787,BLGY105,Elements of Biology,4,T
+1496,000787,BLGY105,Elements of Biology,3-4,T
 1498,000787,CIS105,Computer Concepts,3,T
 1500,000787,CJUS101,Criminal Justice,3,T
 1501,000787,ENGL101,Composition&Rhetoric I,3,T
 1503,000787,ENGL102,Composition &Rhetoric II,0-3,T
-1505,000787,HIST101,Western Civ I,3,T
+1505,000787,HIST101,Western Civilization I,3,T
 1507,000787,HLPE221,First Aid,3,T
 1508,000787,MATH102,College Algebra,3,T
 1509,000787,POSC201,National Gov't in US,3,T
@@ -315,7 +315,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8656,000789,ENG241,British Literature l,3,T
 8657,000789,ENG242,British Lit ll,3,T
 8658,000789,HIS111,World Civilizations l,3,T
-8660,000789,HIS112,World Civilization ll,3,T
+8660,000789,HIS112,World Civilizations ll,3,T
 8662,000789,HPE120,Walking for Fitness,1,T
 8663,000789,HUM122,Southern Culture,3,T
 8664,000789,MAT140,Survey of Mathematics,4,T
@@ -637,7 +637,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 1122,001058,MUN3930,Women's Choir,1,T
 1123,001058,MUN4890,World Fiddle Ensemble,1,T
 1124,001058,MUN4930,Symphony Orchestra,1,T
-1129,001058,MUT1300,Fundamentals of Music,1,T
+1129,001058,MUT1300,Fundamentals of Music,1-3,T
 1125,001058,MUT1310,Harmony I,3,T
 1126,001058,MUT1320,Harmony II,3,T
 1127,001058,MUT1330,Ear Training I,1,T
@@ -737,7 +737,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 1946,001102,BAD215,Business Info Tools,3,T
 1947,001102,BAD301,Legal Ethical Environ,3,T
 1948,001102,BIOL101,Human Biology,3,T
-1949,001102,BIOL102,Environ Science,3,T
+1949,001102,BIOL102,Environmental Science,3-4,T
 1951,001102,BIOL105,General Biology l,4,T
 1952,001102,CA135,Speech Fundamentals,3,T
 1953,001102,COMM135,Speech,3,T
@@ -940,7 +940,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4373,001201,PSY322,Psycho of Adolescence,3,T
 4374,001201,PSY360,Abnornal Psychology,3,T
 4375,001201,TRAN001,Transfer work,49,T
-15501,001208,CHEM118,Prin of Chem Lab,0,T
+15501,001208,CHEM118,Principles of Chemistry,0-4,T
 15503,001208,SPAN112,Elem Spanish II,3,T
 4437,001211,BIO104,Animal Biology,4,T
 4438,001211,CLA131,Med Term Grk/Lat,3,T
@@ -1518,7 +1518,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 13991,001628,MTH104,Foundations of Math,4,T
 13992,001628,PCS101,Political Science,3,T
 13993,001628,PE113,Volleyball,1,T
-13994,001628,PS101,Intro Political Science,3,T
+13994,001628,PS101,Intro to Political Science,3,T
 13996,001628,PSY180,Introduction to Psychology,4,T
 13998,001628,SOC101,Sociology,3,T
 13999,001628,SPC101,Fundamental of Speaking,3,T
@@ -1603,7 +1603,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 11538,001727,HLED173,Health for Life,2,T
 11539,001727,HPE125,Conditioning,1,T
 11540,001727,MATH120,Precalc Algebra,3,T
-11542,001727,MATH121,Precalc Trig,2,T
+11542,001727,MATH121,Precalculus Trig,2,T
 11544,001727,MATH215,Statistics,3,T
 11546,001727,MUCT111,Theory I,3,T
 11547,001727,MUCT112,Music Theory II,3,T
@@ -1926,7 +1926,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 18718,001893,ENGL1020,English Comp II,3,T
 18724,001893,GEOG1030,Cultural Geography,3,T
 18725,001893,HIST2010,American History I,3,T
-18720,001893,MATH1530,Statistics,3,T
+18720,001893,MATH1530,Probability and Statistics,3,T
 18719,001893,MATH1630,Finite Matematics,3,T
 18727,001893,PSYC1030,General Pschology,3,T
 18761,001898,GST2710,Cmputrs & Socty,4,T
@@ -3121,7 +3121,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2494,004052,ENGL1B,Writing about Literature,4,T
 2495,004052,HIST17A,The United States,3,T
 2496,004052,HLTH25,Women's Health,3,T
-2497,004052,IDST37,Ethnic Studies,3,T
+2497,004052,IDST37,Ethnic Studies,2-3,T
 2499,004052,LALS1,Latino/a Diaspora,3,T
 2500,004052,MATH80,Statistics,5,T
 2501,004052,PE238B,Soccer,1,T
@@ -3276,7 +3276,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4198,004283,MUSC1825,Prvt Lesson Flute,1,T
 4199,004283,MUSC3310,Symphonic Band,1,T
 4201,004283,MUSC3350,Symphony Orchestra,1,T
-4202,004283,MUSC3805,Prvt Lesson Flute,1,T
+4202,004283,MUSC3805,Prvt Lesson Percussion,1,T
 4204,004283,MUSC4431,Chamber Music,1,T
 4205,004283,PHIL1120,Social Ethics,3,T
 4206,004283,PHYS1010,Elementary Physics,4,T
@@ -3795,7 +3795,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16530,004855,MUSC1035,Aural Theory I,1,T
 16531,004855,MUSC1040,Written Theory II,3,T
 16532,004855,MUSC1045,Aural Theory II,1,T
-16533,004855,MUSC1200,Piano I,1,T
+16533,004855,MUSC1200,Piano II,1,T
 16535,004855,MUSC1430,Symphony Orchestra I,1,T
 16536,004855,MUSC1440,Chamber Orchestra I,1,T
 16538,004855,MUSC2100,Cello II,2,T
@@ -4026,12 +4026,12 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 257,005008,BIO110,Principle of Biology I,4,T
 255,005008,BIO140/141,INTRO TO CELL BIO,4,T
 258,005008,BIO150,Human Biology,4,T
-259,005008,BIO160,Environmental Science,3,T
+259,005008,BIO160,Intro to Environmental Science,3,T
 261,005008,BUS0230,Business Statistics,3,T
-262,005008,BUS230,BUSINESS STAT,3,T
+262,005008,BUS230,Business Statistics,3,T
 264,005008,CHE0101,Chemistry in Context,4,T
-265,005008,CHR105,INTRO TO THE BIBLE,3,T
-271,005008,CIS120,Intro Info Proc Sys,3,T
+265,005008,CHR105,Intro to the Bible,3,T
+271,005008,CIS120,Intro to Info Proc Sys,3,T
 275,005008,COM315,Multimedia Comm,3,T
 276,005008,CON305,PERSONAL FIN,3,T
 277,005008,CS0120,Int Info/Process Sys,3,T
@@ -4087,7 +4087,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 355,005008,MAT104,Math for Liberal Art,3,T
 357,005008,MAT105,College Algebra,3,T
 356,005008,MAT108,Intro to Probability&Statistics,3,T
-359,005008,MAT113,CALCULUS CON I,3,T
+359,005008,MAT113,Calculus Concepts I,3,T
 369,005008,MAT137,Math Elem/EC 2,3,T
 361,005008,MAT190,ANALYTIC GEO/CALC 2,4,T
 370,005008,MGT210,PRIN OF MGT,3,T
@@ -4281,7 +4281,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 67,005037,CPT170,Microcomputer Appl,3,T
 68,005037,ECO253,Macroeconomics,3,T
 69,005037,ECO254,Microeconomics,3,T
-70,005037,ENG101,English Composition,3,T
+70,005037,ENG101,English Composition I,3,T
 71,005037,ENG102,English Composition II,3,T
 76,005037,HIS102,Western Civ: Post,3,T
 77,005037,HIS201,Amer Hist: Disc to,3,T
@@ -4294,7 +4294,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 87,005037,THE101,Introduction to Thea,3,T
 14303,005047,ART101,Art History and Apprec,3,T
 14307,005047,ART105,Film as Art,3,T
-14308,005047,BIO101,Biological Science,4,T
+14308,005047,BIO101,Biological Science I,4,T
 14310,005047,BIO112,Anataomy & Phis,4,T
 14311,005047,CPT101,Intro Computer Science,3,T
 14314,005047,CRJ101,Intro Criminal Justice,3,T
@@ -4305,8 +4305,8 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 14323,005047,ENG209,World Literature,3,T
 14324,005047,GEO101,Intro to Geography,3,T
 14325,005047,GEO102,World Geography,3,T
-14326,005047,HIS101,Western Civilization,3,T
-14327,005047,HIS102,Western Civilization II,3,T
+14326,005047,HIS101,Western Civilizations I,3,T
+14327,005047,HIS102,Western Civilizations II,3,T
 14336,005047,MAT110,College Algebra,3,T
 14340,005047,MAT110&MAT111,Algebra&Trigonometry,3,T
 14341,005047,MAT111,College Trigonometry,3,T
@@ -4475,12 +4475,12 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 1374,005065,ED690,Research in Education,3,T
 1375,005065,ELECTIVE,Comp and Rhetoric,3,T
 1376,005065,EN101,English Composition,3,T
-1377,005065,EN102,English Composition,3,T
+1377,005065,EN102,Composition&Rhetoric,3,T
 1379,005065,EN103,Composition & Literature,3,T
 1389,005065,EN203,British Lit,3,T
 1380,005065,EN204,Amer Literature,3,T
 1390,005065,EN205,American Lit 1607-1865,3,T
-1391,005065,EN206,American Lit II,3,T
+1391,005065,EN206,American Lit Since 1865,3,T
 1381,005065,EN399,Junior English,2,T
 1393,005065,ENS122,String Ensemble,0.5,T
 1394,005065,ENS124,Harp Ensemble,0.5,T
@@ -4489,8 +4489,8 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 1397,005065,ESS336,Legal&Ethical Issues Sports,3,T
 1398,005065,FA125,Intro Arts,1,T
 1399,005065,FN101,Basic Nutrition,1,T
-1400,005065,HI101,Hist of Civilization,3,T
-1404,005065,HI102,History of Civ II,3,T
+1400,005065,HI101,History of Civilization,3,T
+1404,005065,HI102,History of Civilization Since 1650,3,T
 1408,005065,HRP492,Harp Inst:Major/Principal,2,T
 1410,005065,HRP493,Harp Inst/Major Principal,3,T
 1411,005065,MA200,Calculus I,4,T
@@ -4514,7 +4514,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 1434,005065,MT205,Theory III,4,T
 1436,005065,MT206,Theory IV,4,T
 1437,005065,MT301,Elements of Conducting,1,T
-1438,005065,MU101,Intro to Music Lit,2,T
+1438,005065,MU101,Intro to Music Lit,2-3,T
 1439,005065,MU303,History of Music I,2,T
 1444,005065,MU304,Music  Hisotry  ll,2,T
 1445,005065,MU305,Music History lll,3,T
@@ -4685,7 +4685,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4350,005073,STA2023,Statistics,3,T
 4352,005073,SYG2000,Intro Sociology,3,T
 1664,005074,AMG2020,U S History,3,T
-1665,005074,AMH2010,U S History,3,T
+1665,005074,AMH2010,U.S. History,3,T
 1667,005074,AML2012,American Lit,3,T
 1668,005074,BSC1011,Intro to Biology II,4,T
 1669,005074,BSC2010,Intro Bio I & Lab,4,T
@@ -4789,7 +4789,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2355,005079,HIST691,Historiography,3,T
 2361,005079,KINE201,Personal&Community Health,3,T
 2363,005079,MATH105,Intro to Mathematical,3,T
-2366,005079,MATH110,College Algebra,4,T
+2366,005079,MATH110,Ext College Algebra,4,T
 2364,005079,MATH111,College Algebra,3,T
 2365,005079,MATH130,Precalculus,3-4,T
 2370,005079,MTH105,Intro  Mathematical Str,3,T
@@ -4975,7 +4975,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2152,005102,GEL120,Physical Geology,4,T
 2153,005102,HIS111,World Civilizations I,3,T
 2156,005102,HIS111U,World Civ I,3,T
-2157,005102,HIS131,American History,3,T
+2157,005102,HIS131,American History I,3,T
 2155,005102,HIS132,American History II,3,T
 2162,005102,HUM130,Myth in Human Culture,3,T
 2165,005102,MAT140,Survey of Mathematics,3,T
@@ -4987,7 +4987,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2171,005102,MUS111,Fundamentals of Music,3,T
 2173,005102,MUS112,Intro to Jazz,3,T
 2174,005102,MUS122,Music Theory II,3,T
-2175,005102,MUS125,Aural Skills I,1,T
+2175,005102,MUS125,Aural Skills II,1,T
 2177,005102,MUS131,Chorus I,1,T
 2179,005102,MUS132,Chorus II,1,T
 2180,005102,MUS135,Jazz Ensemble I,1,T
@@ -5208,9 +5208,9 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2619,005111,CADS151,Design Studies I,3,T
 2620,005111,CADS153,Design Theory I,1,T
 2621,005111,CH101,General Chemistry,4,T
-2626,005111,CH1010,General Chemistry,4,T
+2626,005111,CH1010,General Chemistry I,4,T
 2622,005111,CH102,General Chemistry,4,T
-2628,005111,CH1020,General Chemistry,4,T
+2628,005111,CH1020,General Chemistry II,4,T
 2623,005111,CH105,Chem in Context I,4,T
 2625,005111,CH106,Chem in Context II,4,T
 2630,005111,CH1410,General Chemistry,4,T
@@ -5393,7 +5393,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2842,005111,PHSC107,Intro to Earth Sci,4,T
 2843,005111,PHSC108,Intro to Phys Sci,4,T
 2845,005111,PHYS122,Physics with Cal I & Lab,3-4,T
-2851,005111,PHYS1220,Physics w/Calculus I,3,T
+2851,005111,PHYS1220,Physics w/Calculus I,3-4,T
 2847,005111,PHYS207,General Physics I,4,T
 2849,005111,PHYS208,General Physics II,4,T
 2850,005111,PHYS221,Physics with Cal II & Lab,4,T
@@ -5524,7 +5524,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 3368,005113,ECON201,Picn of Macroeconomics,3,T
 3369,005113,EDEE606,Individualizing Instruction,3,T
 3370,005113,EDFS105,Educ in Cont Society,3,T
-3378,005113,EDFS201,Fnds of Education,3,T
+3378,005113,EDFS201,Foundations of Education,3,T
 3371,005113,EDFS530,CHARACTER OF IND W/EMOTION DIS,3,T
 3372,005113,EDFS654,Human Growth & Development,3,T
 3373,005113,EDFS656,Prog Plan Dev for Gifted,3,T
@@ -5565,7 +5565,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 3424,005113,ENG102,Composition & Literature,3,T
 3425,005113,ENGL101,Composition & Literature,3,T
 3426,005113,ENGL102,Composition & Literature,3,T
-3439,005113,ENGL110,Intro to Academic Writing,4,T
+3439,005113,ENGL110,Intro to Academic Writing,3-4,T
 3444,005113,ENGL190,Photoessays&Lit,3,T
 3427,005113,ENGL201,Major British Writers,3,T
 3428,005113,ENGL202,Major Birtish Writers,3,T
@@ -5642,8 +5642,8 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 3531,005113,MUSC381,Music History I,3,T
 3532,005113,MUSC481,Music Theory III,3,T
 3533,005113,MUSC482,Music Theory V,3,T
-3534,005113,MUSP215,Applied Music:Voice,4,T
-3536,005113,MUSP223,Violin,3,T
+3534,005113,MUSP215,Applied Music:Voice,2-4,T
+3536,005113,MUSP223,Violin,2-3,T
 3538,005113,MUSP415,Applied Music:Voice,2,T
 3539,005113,PEAC102,Beginning Yoga,2,T
 3540,005113,PEAC109,Aerobics,2,T
@@ -5667,7 +5667,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 3564,005113,PSYCH103,Intro Psych Science,3,T
 3565,005113,SOCY101,Introductory Sociology,3,T
 3567,005113,SOCY341,Criminology,3,T
-3574,005113,SPAN101,Elem Spanish I,3,T
+3574,005113,SPAN101,Elem Spanish I,3-4,T
 3568,005113,SPAN102,Elementary Spanish,3,T
 3569,005113,SPAN102L,Elem Spanish Conversation,1,T
 3570,005113,SPAN190,Elementary Spanish I,3,T
@@ -6176,7 +6176,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4536,005188,HE317,NUTRITION COUN,3,T
 4537,005188,HE402,KINESIOLOGY,3,T
 4538,005188,HE417,EXERCISE/WEIGHT CON,3,T
-4539,005188,HS101,WORLD CIV TO 1600,3,T
+4539,005188,HS101,World Civilizations to 1600,3,T
 4541,005188,HS105,CONTEMP GLOB ISSUES,3,T
 4542,005188,HS230,LATIN AMER MOD TIMES,3,T
 4546,005188,J0320,Latin American Cultural Persp,3,T
@@ -6265,7 +6265,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4700,005207,ENG101,English Composition I,3,T
 4702,005207,ENG102,English Composotion II,3,T
 4703,005207,ENG201,American Literature,3,T
-4712,005207,ENG202,American Lit,3,T
+4712,005207,ENG202,American Literatire,3,T
 4714,005207,ENG206,English Lit,3,T
 4715,005207,FRE101,Elementary French,4,T
 4716,005207,GEO102,World Geography,3,T
@@ -6289,10 +6289,10 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4753,005207,PSY203,Human Grownth & Development,3,T
 4761,005207,PSY208,Human Sexuality,3,T
 4754,005207,PSY212,Abnormal Psychology,3,T
-4762,005207,REL103,Comparative Religion,3,T
+4762,005207,REL103,Comparative Religions,3,T
 4764,005207,SOC101,Introduction to Sociology,3,T
 4765,005207,SOC220,Sociology of the Family,3,T
-4770,005207,SPA101,Elementary Spanish,3-4,T
+4770,005207,SPA101,Elementary Spanish I,3-4,T
 4773,005207,SPA102,Elementary Spanish II,4,T
 4774,005207,SPC205,Public Speaking,3,T
 4777,005207,THE101,Introduction to Theatre,3,T
@@ -6687,7 +6687,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 5293,005242,ENGL231,Amer Lit Sry I,3,T
 5294,005242,ENGL232,American Lit Survey II,3,T
 5300,005242,HEWE224,Nutrition,3,T
-5301,005242,HLED221,Dimension of Personal Health,3,T
+5301,005242,HLED221,Dimensions of Personal Health,3,T
 5305,005242,MATH105,Fund/Statistics&Probability,3,T
 5306,005242,MATH120,Math for Liberal Arts,3,T
 5307,005242,MATH150,Precalculus,3,T
@@ -6702,7 +6702,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 5309,005242,MUSC225,Music Survey,3,T
 5321,005242,MUSC386,Orchestra,1,T
 5322,005242,PHED150,Tennis,1,T
-5323,005242,PIAN101,Applied Piano,2,T
+5323,005242,PIAN101,Applied Piano,1-2,T
 5325,005242,POLS202,American Government,3,T
 5327,005242,PSCY640,Adv Hum Grw/Dev,3,T
 5328,005242,PSYC201,General Psychology,3,T
@@ -6744,7 +6744,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 5447,005249,ENG102,Comp II,3-3.33,T
 5452,005249,ENG201,WORLD LIT I,3.33,T
 5453,005249,HIS101,World Civilization,3.33,T
-5454,005249,HIS121,AMERICAN HISTORY I,3.33,T
+5454,005249,HIS121,AMERICAN HISTORY I,3-3.33,T
 5456,005249,HIS122,AMERICAN HIST II,3.33,T
 5458,005249,MAT109,COLLEGE ALGEBRA,3-3.33,T
 5457,005249,MAT112,Precalculus,3.33,T
@@ -6917,7 +6917,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 5694,005278,ANT101,General Anthropolo,3,T
 5698,005278,ANT202,Cultural Anthropology,3,T
 5700,005278,ANT203,Anthropology,3,T
-5701,005278,ART101,History & Apprec of Art,3,T
+5701,005278,ART101,Art History and Appreciation,3,T
 5755,005278,ART101H,Art History&Appreciation,3,T
 5705,005278,ART105,Film as Art,3,T
 5759,005278,ART105H,Film as Art,3,T
@@ -6944,7 +6944,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 5808,005278,ARV121,Design,3,T
 5811,005278,ARV122,3-Dimensional Design,3,T
 5849,005278,ARV205,Graphic Illustration,3,T
-5812,005278,ARV210,Computer Graphics,3,T
+5812,005278,ARV210,Computer Graphics II,3,T
 5813,005278,ARV212,Digital Photography,3,T
 5814,005278,ARV214,Hist of Early West,3,T
 5815,005278,ARV215,Photography III,3,T
@@ -6960,7 +6960,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 5869,005278,AST101,Solar System Astronomy,4,T
 5870,005278,AST102,Stellar Astronomy,4,T
 5880,005278,BAF101,Personal Finance,3,T
-5881,005278,BIO101,Biological Science I,4,T
+5881,005278,BIO101,Biological Scienice I,4,T
 5882,005278,BIO102,Biological Science II,4,T
 5883,005278,BIO105,Principles of Biology,4,T
 5921,005278,BIO108,Biological Science I,4,T
@@ -6969,7 +6969,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 5885,005278,BIO112,Basic Anatomy & Ph,4,T
 5886,005278,BIO115,Basic Microbiology,3,T
 5887,005278,BIO210,Anatomy & Physiology I,4,T
-5889,005278,BIO211,Antomy & Physiology,3-4,T
+5889,005278,BIO211,Anatomy&Physiology II,3-4,T
 5891,005278,BIO215,Anatomy,4,T
 5892,005278,BIO216,Physiology,4,T
 5893,005278,BIO225,Microbiology,4,T
@@ -6994,9 +6994,9 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 5971,005278,COL105,Freshman Seminar,1,T
 5972,005278,CPC101,Intro to Computers,3,T
 5973,005278,CPR170,Microcomputer,3,T
-5974,005278,CPT101,Intro to Computers,3,T
+5974,005278,CPT101,Introduction to Comp Science,3,T
 5991,005278,CPT110,Microcomputer App,3,T
-5978,005278,CPT170,Microcomputer Apps,3,T
+5978,005278,CPT170,Microcomputer Applications,3,T
 6002,005278,CPT179,Microcomputer Applications,3,T
 5976,005278,CPT209,Computer Systems,3,T
 6004,005278,CRJ101,Intro Criminal Justice,3,T
@@ -7045,26 +7045,26 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 6134,005278,GOV205,American Government I,3,T
 6135,005278,HIS101,Western Civilization to 1689,3,T
 6140,005278,HIS102,Western Civilization,3,T
-6164,005278,HIS104,World History I,3,T
+6164,005278,HIS104,World History I,0-3,T
 6169,005278,HIS105,World History II,3,T
 6172,005278,HIS105H,World History,3,T
 6141,005278,HIS112,Nonwestern Civilization,3,T
 6142,005278,HIS115,African American Histpry,3,T
-6149,005278,HIS122,HISTORY/TECH/SOCIETY,3,T
+6149,005278,HIS122,"History, Technology&Society",3,T
 6143,005278,HIS201,American History:Dis,3,T
 6145,005278,HIS202,Am Hist:1877 to Present,3,T
 6199,005278,HIS222,Global Women's Hist,3,T
 6200,005278,HIS222H,Global Women's History,3,T
 6201,005278,HIST201,American History I,3,T
 6202,005278,HSS101,Intro to Humanities,3,T
-6203,005278,HSS295,LEAD THROUGH HUMANITIES,3,T
+6203,005278,HSS295,LEADERSHIP THROUGH HUMANITIES,3,T
 6205,005278,HSS295H,Leadershio Through Humanities,3,T
 6206,005278,HSS298,Research in the Hum,3,T
 6207,005278,HUM101,Introduction to Hum,3,T
 6208,005278,HUS150,Intro Human Services,3,T
 6209,005278,HUS201,Family Dynamics,3,T
 6210,005278,HUS204,Intro Social Work,3,T
-6211,005278,HUS208,Alcohol&Drug Abuse,3,T
+6211,005278,HUS208,Drug&Alcholol Abuse,3,T
 6213,005278,HUS209,Case Mgmt,3,T
 6214,005278,HUS217,Addiction Counseling,3,T
 6215,005278,HUS231,Counseling Techniques,3,T
@@ -7083,7 +7083,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 6250,005278,MAT105,College Algebra,5,T
 6228,005278,MAT109,College Algebra with Modeling,3,T
 6229,005278,MAT110,College Algebra,3,T
-6230,005278,MAT111,College Trigonometr,3,T
+6230,005278,MAT111,College Trigonometry,3,T
 6231,005278,MAT120,Probability and Statistics,3,T
 6274,005278,MAT120H,Statistics,3,T
 6275,005278,MAT122,Finite College Math,3,T
@@ -7237,7 +7237,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 6802,005305,FRE101,Elementary French,4,T
 6807,005305,HIS101,Western Civ I,3,T
 6804,005305,HIS102,Western Civ Post 1689,3,T
-6805,005305,HIS201,Amer Hist: Disc to 1877,3,T
+6805,005305,HIS201,American History to 1877,3,T
 6806,005305,HIS202,Amer Hist: 1877 to Pres,3,T
 6813,005305,MAT110,College Algebra,3,T
 6814,005305,MAT120,Probability and Statistics,3,T
@@ -7253,7 +7253,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 6832,005305,PSC210,American Government,3,T
 6833,005305,PSY201,General Psychology,3,T
 6838,005305,REL103,Comparative Religion,3,T
-6840,005305,SOC101,Intro to Sociology,3,T
+6840,005305,SOC101,Introduction to Sociology,3,T
 6845,005305,SOC205,Social Problems,3,T
 6846,005305,SPA101,Elementary Spanish I,4,T
 6847,005305,SPA102,Elementary Spanish II,4,T
@@ -7284,7 +7284,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 7064,005319,ART241,Painting II,3,T
 7065,005319,AST151,General Astronomy I & Lab,4,T
 7068,005319,AST152,General Astronomy II,4,T
-7069,005319,BIO111,General Biology I,4,T
+7069,005319,BIO111,Biological Science I,4,T
 7071,005319,BIO112,General Biology II,4,T
 7081,005319,BIO150,Nutrition,3,T
 7073,005319,BIO151,Principles of Biology I,2.66-4,T
@@ -7333,7 +7333,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 7156,005319,ENG102,Writing/Research,3,T
 7133,005319,ENG111,Expository Writing,3,T
 7163,005319,ENG112,Writing/Research,3,T
-7135,005319,ENG113,Literature-Based Research,3,T
+7135,005319,ENG113,Literature-Based Reserarch,3,T
 7137,005319,ENG115,Oral Communication,3,T
 7138,005319,ENG125,Creative Writing I,3,T
 7139,005319,ENG152,Freshman Comp II,2,T
@@ -7579,7 +7579,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 7806,005363,EDUC202,Education in America,3,T
 7807,005363,EDUC203,Clinical I,0.5,T
 7808,005363,EDUC204,Microcomputer Apps in Educ,3,T
-7830,005363,EDUC210,Communication in Classroom,3,T
+7830,005363,EDUC210,Communication in Diverse Clsrm,3,T
 7810,005363,EDUC221,Humn Growth/Dev,3,T
 7811,005363,EDUC231,Childrens Lit,3,T
 7812,005363,EDUC240,Child Growth&Educ Process,3,T
@@ -7606,7 +7606,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 7854,005363,ENGL351,Wrtg Poet/Fictn,3,T
 7861,005363,FR202,Interm French,3,T
 7862,005363,HISI101,Western Civ/1600,3,T
-7863,005363,HIST101,West Civ/1600,3,T
+7863,005363,HIST101,Western Civ to 1600,3,T
 7864,005363,HIST102,Western Civilization 1600-1918,3,T
 7866,005363,HIST103,World Since 1918,3,T
 7869,005363,HIST111,U S History to 1850,3,T
@@ -7752,9 +7752,9 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8168,005366,BA325,Personal Finance & Inv,3,T
 8169,005366,BA341,Principles of Marketing,3,T
 8170,005366,BA360,World Trade & Int Bus,3,T
-8175,005366,BI101,Biology I,4,T
+8175,005366,BI101,General Biology I,4,T
 8177,005366,BI102,Biology II,4,T
-8178,005366,BI210,Anatomy&Physio I,4,T
+8178,005366,BI210,Anatomy&Physiology,4,T
 8180,005366,CS102,Microcomputer Applications,3,T
 8181,005366,CST102,Microcomputer Application,3,T
 8183,005366,ED200,Principles of Education,3,T
@@ -7989,7 +7989,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8592,005397,HTH122,Stress Management,1,T
 8593,005397,MATH150,College Algebra,3,T
 8595,005397,MATH159,College Algebra,3,T
-8594,005397,MATH171,Precalculus,3,T
+8594,005397,MATH171,Precal with Trig,3,T
 8597,005397,MATH211,Intro Cal Analy Geo 1,4,T
 8598,005397,MBC102,Hrs:All the World's a Stage,1,T
 8599,005397,MUS106,Mary Baldwin College Choir,1,T
@@ -8293,7 +8293,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 9404,005493,FIT108,Basketball,2,T
 9403,005493,FIT150,Marching Band,2,T
 9405,005493,HIS352,Intro Public History,3,T
-9406,005493,INQ101,EVERYDAY LIFE,3,T
+9406,005493,INQ101,Monuments in Music,3,T
 9408,005493,MAT150,Precalculus Mathematics,4,T
 9409,005493,MAT211,Calculus I/Differential Cal,4,T
 9412,005493,MAY129,21st Cent Christianity,3,T
@@ -8305,10 +8305,10 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 9415,005493,MUA145,Woodwind Inst Flut,2,T
 9416,005493,MUA146,Woodwind Inst,1,T
 9422,005493,MUE101,Marching Band,1,T
-9423,005493,MUE103,Wind Symph,1,T
+9423,005493,MUE103,Wind Symphony,1,T
 9424,005493,MUE104,Jazz Ensemble,1,T
 9427,005493,MUE106,Flute Ensemble,1,T
-9425,005493,MUE111,NC Singers,1,T
+9425,005493,MUE111,College Singers,1,T
 9430,005493,MUS171,Ear Training I,2,T
 9431,005493,MUS173,Theory of Mus I,2,T
 9432,005493,POS121,American Gov't,3,T
@@ -8414,7 +8414,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 9645,005498,MAT151,Algebra & Trig,5,T
 9646,005498,MATH1310,College Algebra,3,T
 9648,005498,MATH1315,Contemporary Mathematics,3,T
-9649,005498,MATH1330,Probability/Stats,3,T
+9649,005498,MATH1330,Probability & Statistics,3,T
 9659,005498,MATH1335,Adv Algebra & Trig,3,T
 9650,005498,MATH1410,Calculus One,4,T
 9661,005498,MCOM1300,Intro to Mass Communication,3,T
@@ -8423,7 +8423,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 9665,005498,MUAI2131,Piano Lab,1,T
 9666,005498,MUAI2141,Piano Lab,1,T
 9667,005498,MUAO2200,Applied Voice,2,T
-9668,005498,MUAP1101,Group Piano Leson,1,T
+9668,005498,MUAP1101,Group Piano Lesson,1,T
 9670,005498,MUAP2200,Applied Voice,2,T
 9671,005498,MUAW1210,Woodwinds,2,T
 9672,005498,MUAW1220,Woodwinds,2,T
@@ -8507,7 +8507,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 9495,005507,MLT108,Microbiology,5.33,T
 16451,005512,MUS19920,Sumr Violin Program,1,T
 9359,005513,ART102,Hs/Apr Art ll,3,T
-9360,005513,BIO101,Gen Biol,4,T
+9360,005513,BIO101,General Biology I,4,T
 9362,005513,BIO102,Gen Bio ll,4,T
 9363,005513,CSC110,Intro to Computing,3,T
 9364,005513,CST100,Principles of Public Speaking,3,T
@@ -8545,7 +8545,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 9815,005526,ASL1150,ASL II,4,T
 9816,005526,BSC1010C,Principles of Biology,4,T
 9817,005526,CHM1020,Chemical Science,3,T
-9818,005526,DAA1580,Musical Theatre Dance,1,T
+9818,005526,DAA1580,Musical Theatre Dance I,1,T
 9820,005526,ENC1101,English Comp I,3,T
 9821,005526,ENC1102,English Comp II,3,T
 9822,005526,MAC1105,College Algebra,3,T
@@ -8687,7 +8687,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 10685,005540,PHED1007,Bowling/Badminton,1,T
 10686,005540,PHYS121,General Physics I,4,T
 10687,005540,PHYS122,General Physics II,4,T
-10688,005540,PLSC201,Intro to Pol Science,3,T
+10688,005540,PLSC201,Intro to Political Science,3,T
 10691,005540,PSYC201,Intro Psychology,3,T
 10692,005540,REL101,Old Testament Survey,3,T
 10693,005540,REL110,New Testament,3,T
@@ -8710,11 +8710,11 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8392,005546,FRENC001,Elem French I,5,T
 10594,005548,MAC1105,College Algebra,3,T
 10595,005548,SYG2000,Intro Sociology,3,T
-10167,005549,ART102,HIST/APP ART II,3,T
+10167,005549,ART102,History of Art&Appre,3,T
 10169,005549,BIO101,General Biology I,4,T
 10170,005549,BIO102,General Biology II,4,T
 10174,005549,CST110,Speech Communication,3,T
-10175,005549,ECO201,MACROECON,3,T
+10175,005549,ECO201,Macroeconomics,3,T
 10177,005549,ECO202,Microeconomics,3,T
 10180,005549,ENG111,College Comp I,3,T
 10178,005549,ENG112,COLLEGE COMP II,3,T
@@ -8775,11 +8775,11 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 10391,005550,HIS101,Western Civ to 1689,3,T
 10392,005550,HIS102,American History 1877-Pre,3,T
 10413,005550,HIS115,African American History,3,T
-10394,005550,HIS201,Amer Hist: Disc to 1877,3,T
-10395,005550,HIS202,Amer Hist: 1877 to Pres,3,T
+10394,005550,HIS201,American Hist-Disc to 1877,3,T
+10395,005550,HIS202,American Hist-1877 to Pres,3,T
 10427,005550,MAT110,College Algebra,3,T
 10430,005550,MAT111(+110),Trig&Algebra,3,T
-10419,005550,MAT120,Probability & Statistics,3,T
+10419,005550,MAT120,Probability and Statistics,3,T
 10422,005550,MAT122,Finite College Mathematics,3,T
 10426,005550,MAT140,Analyt Geometry & Calculus,4,T
 10443,005550,MAT141,analyt Geometry & Calculus II,4,T
@@ -8811,7 +8811,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 10491,005550,PSY231,Couseling Techniques,3,T
 10492,005550,PSY242,Human Growth-Development,3,T
 10493,005550,PSY245,Counseling Techniques,3,T
-10504,005550,REL103,Comparative Rel,3,T
+10504,005550,REL103,Comparative Religion,3,T
 10507,005550,SOC101,Introduction of Sociology,3,T
 10508,005550,SOC102,Marriage and the Family,3,T
 10509,005550,SOC205,Social Problems,3,T
@@ -8830,7 +8830,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 14664,005551,BIO101,Biological Science I,4,T
 14759,005551,BIO102,Biological Science II,4,T
 14760,005551,BIO112,BASIC ANAT/PHY,4,T
-14761,005551,BIO210,ANATOMY/PHYS,4,T
+14761,005551,BIO210,Anatomy&Physiology I,4,T
 14768,005551,BIO211,Anatomy &Physiology II,4,T
 14769,005551,CHM211,Organic Chemistry I,4,T
 14771,005551,CPT101,Intro to Computers,3,T
@@ -8858,7 +8858,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 14816,005551,MAT140,ANALYTIC GEO/CALC I,4,T
 14824,005551,MGT101,Management,3,T
 14825,005551,MGT120,Small Business Mgmt,3,T
-14826,005551,MUS105,MUSIC APP,3,T
+14826,005551,MUS105,Music Appreciation,3,T
 14831,005551,PHI101,INTRO TO PHILOSOPHY,3,T
 14832,005551,PHI110,ETHICS,3,T
 14837,005551,PSC101,American Gov't,3,T
@@ -9098,7 +9098,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8872,005584,ASL102,American Sign Lang II,4,T
 8873,005584,ASL201,American Sign Lang III,3,T
 8874,005584,ASL202,American Sign Lang IV,3,T
-8875,005584,AST101,Solar Astronomy,4,T
+8875,005584,AST101,Solar System Astronomy,4,T
 8879,005584,AST102,Stellar Astronomy,4,T
 8882,005584,BIO101,Biological Science I,4,T
 8883,005584,BIO102,Biological Science II,4,T
@@ -9115,7 +9115,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8904,005584,ECD102,Growth&Development,3,T
 8905,005584,ECD107,Exceptional Child,3,T
 8912,005584,ECO201,Economics Concepts,3,T
-8906,005584,ECO210,Macoeconomics,3,T
+8906,005584,ECO210,Macroeconomics,3,T
 8908,005584,ECO211,Microeconomics,3,T
 8909,005584,ECO253,MacRoeconomics,3,T
 8910,005584,ECO254,Microeconomics,3,T
@@ -9315,7 +9315,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 11239,005618,IFD520,Adv Child Development,3,T
 11240,005618,M105,Pre-Calculus I,3,T
 11244,005618,M150,Quantitative Reasoning Math,3,T
-11246,005618,M151,College Algebra,3,T
+11246,005618,M151,Quantitative-Reasong Alge,3,T
 11248,005618,M152,Quant Reasoning-Precalc,3,T
 11241,005618,M155,Introduction to Mathematical,3,T
 11250,005618,M208,Intro to Statistics,3,T
@@ -9400,9 +9400,9 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12931,005627,ARTS203,Advanced Drawing,3,T
 12932,005627,ARTS204,Introduction to Painting,3,T
 12937,005627,ARTS205,Advanced Painting,3,T
-12938,005627,ARTS206,2 D Design,3,T
+12938,005627,ARTS206,Fund of Two Dim Des,3,T
 12940,005627,ARTS207,Digital Photography,3,T
-12941,005627,ARTS210,3D Design,3,T
+12941,005627,ARTS210,Three Dim Design,3,T
 12943,005627,ARTS211,COMPUTER GRAPH I,3,T
 12965,005627,BA201,Economics I,3,T
 12966,005627,BILO210,Anatomy & Physio I,4,T
@@ -9413,13 +9413,13 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12971,005627,BIOL101,Principles of Biology I,3-4,T
 12980,005627,BIOL102,Principles of Biology II,4,T
 12982,005627,BIOL106,Issues Human Biology,4,T
-12985,005627,BIOL201,Botany,4,T
+12985,005627,BIOL201,Human Anatomy/Physiology II,4,T
 12987,005627,BIOL202,Zoology,4,T
 12988,005627,BIOL205,Environmental Science,4,T
-12994,005627,BIOL210,Human Anatomy & Physiologyi,4,T
+12994,005627,BIOL210,Human Human Anatomy/Physiology II,4,T
 13034,005627,BIOL211,Human Anatomy & Physiology II,4,T
 13040,005627,BIOL230,Microbiology,4,T
-13041,005627,BSAD101,Intro to Business,3,T
+13041,005627,BSAD101,INTRO TO BUSINESS,3,T
 13043,005627,BSAD103,PERSONAL FINANCE,3,T
 13045,005627,BSAD201,Principles of Macroeconomics,3,T
 13049,005627,BSAD202,Principles of Microeconomics,3,T
@@ -9447,7 +9447,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 13122,005627,CSC1101,Intro Computer Tech,3,T
 13119,005627,CSCI101,IntoIntro to Computer Science,3,T
 13136,005627,CSCI115,Digital Design for the Web,3,T
-13138,005627,CSCI201,INTRO COMP TECH,3,T
+13138,005627,CSCI201,INTRO TO COMP TECH,3,T
 13157,005627,CSI101,Intro to Computer Sc,3,T
 13158,005627,DRAM101,Drama Appreciation,3,T
 13163,005627,DRAM102,Introduction to Acting,1-3,T
@@ -9467,7 +9467,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 13206,005627,ENGL101,English Composition I,3,T
 13194,005627,ENGL102,English Composition II,3,T
 13221,005627,ENGL201,British Literature I,3,T
-13222,005627,ENGL202,British Literarture ll,3,T
+13222,005627,ENGL202,British Lirterature II,3,T
 13224,005627,ENGL203,American Literature I,3,T
 13226,005627,ENGL204,American Literature II,3,T
 13228,005627,ENGL206,Creative Writing,3,T
@@ -9484,18 +9484,18 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 13295,005627,FREN201,Intermediate French I,3-4,T
 13296,005627,FREN202,Inter French II,3,T
 13332,005627,HIST100,Western Civ I,3,T
-13298,005627,HIST101,Western Civilization I,3,T
+13298,005627,HIST101,Western Civilizatioln l,3,T
 13305,005627,HIST102,Western Civilization II,3,T
 13312,005627,HIST112,History of World Civilizations,3,T
-13317,005627,HIST201,History of United States I,3,T
+13317,005627,HIST201,History of the United States I,3,T
 13326,005627,HIST202,History of the United States II,3,T
-13382,005627,HIST210,African History,3,T
+13382,005627,HIST210,Intro African History,3,T
 13384,005627,HIST230,Intro to Middle Eastern Hist,3,T
 13331,005627,HIST325,Women in Midd Ages,3,T
-13386,005627,HLTH101,First Aid and Personal Safety,3,T
+13386,005627,HLTH101,First Aid and Personal Safetyl,3,T
 13415,005627,HLTH121,FirstAid & Personal Safety,3,T
 13395,005627,HLTH201,First Aid & Pers Safety,3,T
-13422,005627,HST101,Western Civ I,3,T
+13422,005627,HST101,Western Civilization l,3,T
 13421,005627,HST201,History of United States I,3,T
 13427,005627,HST202,History of US  l,3,T
 13430,005627,HST230,Middle Eastern History,3,T
@@ -9517,12 +9517,12 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 13467,005627,MATH110,Eleme Func l,3,T
 13468,005627,MATH112,Introductory to Statistics,3,T
 13508,005627,MATH120,Calculus Business/Social Science,3,T
-13476,005627,MATH121,Elementary Functions 1,3,T
-13483,005627,MATH122,Elementary Functions II,3,T
+13476,005627,MATH121,Elementary Functions 1,0-3,T
+13483,005627,MATH122,Elementary  Functions ll,3,T
 13485,005627,MATH201,Finite Mathematics,3,T
 13486,005627,MATH207,Finite of Mathematics,3,T
-13491,005627,MATH210,Calculus Business/Social Sci,3,T
-13492,005627,MATH221,Calculus I,4,T
+13491,005627,MATH210,Calculus Business/Social Science,3,T
+13492,005627,MATH221,Calculus I,3-4,T
 13494,005627,MATH222,Calculus II,4,T
 13539,005627,MILI112,Intro  to ROTC II,1,T
 13540,005627,MTH112,Intro Statistics,3,T
@@ -9563,7 +9563,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 13622,005627,PDEV330,PROFESSIONAL COMM,3,T
 13624,005627,PE109,Racquetball,1,T
 13625,005627,PHED102,Golf,1,T
-13628,005627,PHED103,Tennis,1,T
+13628,005627,PHED103,Volleyball,1,T
 13629,005627,PHED104,Physical Fitness,1,T
 13631,005627,PHED105,Archery,1,T
 13633,005627,PHED108,Volleyball,1,T
@@ -9643,7 +9643,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 13932,005627,SPCH114,Drama Workshop,1,T
 13939,005627,SPCH120,Public Speaking,3,T
 13933,005627,SPCH201,Public Speaking,0-3,T
-13943,005627,SPMG210,INTRO SPORT MGT,3,T
+13943,005627,SPMG210,Intro to Sport Mgt,3,T
 13946,005627,SPMG220,Social Issues in Sport,3,T
 13947,005627,SPN101,Elem Spanish l,3,T
 13948,005627,TRAN001,Transfer Work,9-65,T
@@ -9737,7 +9737,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 14001,005641,ENC1101,Composition I,3,T
 1248,005644,ART111,Art Appreciation,3,T
 1251,005644,AST111,Descriptive Astronomy,4,T
-1253,005644,BIO111,GENERAL BIOLOGY I,4,T
+1253,005644,BIO111,General Biology/Lab,4,T
 1256,005644,BIO112,General Biology II,4,T
 1252,005644,BIO140,Environmental Biology/Lab,4,T
 1254,005644,BIO168,ANATOMY/PHYS I,4,T
@@ -9868,7 +9868,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2042,005665,BIO112,Basic Anatomy & Phsiol,4,T
 2086,005665,BIO201,Anatomy and Physiology I,4,T
 2045,005665,CHM100,Introductory Chemistry,4,T
-2046,005665,CPT101,Intro to Computers,3,T
+2046,005665,CPT101,Introduction to Computers,3,T
 2087,005665,CPT102,Basic Computer Concepts,3,T
 2048,005665,ECD101,INTRO EARLY CHILDHOOD,3,T
 2049,005665,ECO210,Macroeconomics,3,T
@@ -9878,7 +9878,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 2059,005665,HIS101,Western Civ to 1689,3,T
 2061,005665,HIS102,Western Civ II,3,T
 2060,005665,HIS201,American History:Disc-1877,3,T
-2062,005665,HIS202,American History I,3,T
+2062,005665,HIS202,American History:1877-Pres,3,T
 2066,005665,MAT110,College Algebra,3,T
 2069,005665,MAT111,College Trigonometry,3,T
 2070,005665,MUS105,Music Appreciation,3,T
@@ -9894,7 +9894,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 11697,005667,ENG102,Language & Composition II,3.33,T
 11698,005667,ENG204,English IV,4.67,T
 11699,005667,PSY150,General Psy,3,T
-11713,005668,ACC101,Accounting Principles I,3,T
+11713,005668,ACC101, Accounting Principles I,3,T
 11715,005668,ACC102,Accounting Principles II,3,T
 11717,005668,ACC104,Accounting Principle I,2-3,T
 11719,005668,ACC105,Accounting Principle II,2,T
@@ -9932,20 +9932,20 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 11840,005668,ASL102,American Sigh Language ll,3-4,T
 11842,005668,ASL103,American Sign Lang III,3,T
 11843,005668,ASL104,American Sign Lang IV,3,T
-11844,005668,ASL201,American Sign Lang III,3-4,T
+11844,005668,ASL201,American Sign Language lll,3-4,T
 11846,005668,ASL202,American Sign Language IV,3-4,T
 11887,005668,ASL210,ASL Linguis Struc,3,T
-11888,005668,ASL220,Deaf Hist&Culture,3,T
+11888,005668,ASL220,Deaf History&Culture,3,T
 11860,005668,ASLI01,ASL I,4,T
 11894,005668,AST100,Astronomy,4,T
-11890,005668,AST101,Solar System Astronomy,4,T
+11890,005668,AST101,Solar System Astronomy,3-4,T
 11903,005668,AST102,Stellar Astronomy,4,T
 11904,005668,AST110,Astronomy,4,T
 11907,005668,BAF101,Personal Finance,3,T
 11905,005668,BAF213,Principles of Finance,3,T
 11906,005668,BAF260,Financial Management,3,T
 11913,005668,BIO100,Introductory Biology,4,T
-11914,005668,BIO101,Biological Science I,3-4,T
+11914,005668,BIO101,Biological  Science I,3-4,T
 11916,005668,BIO102,Biological Science II,4,T
 11969,005668,BIO105,Principles of Biology,4,T
 11917,005668,BIO108,Biological Science I,4,T
@@ -9958,7 +9958,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 11929,005668,BIO225,Microbiology,4,T
 11949,005668,BIO240,Nutrition,3,T
 11998,005668,BIOL101,Principles of Biology I,4,T
-12000,005668,BLOCKCREDIT,Electives,39,T
+12000,005668,BLOCKCREDIT,Transfer Electives,33-39,T
 12002,005668,BUI210,Anatomy&Physiology I,4,T
 12003,005668,BUS121,Business Law I,3,T
 12004,005668,BUS122,Business Law I,3,T
@@ -9995,7 +9995,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12099,005668,CPT255,Operating Sys Fundamentals,3,T
 12075,005668,CPT257,Operating Systems,3,T
 12076,005668,CPT264,Systems & Procedures,3,T
-12100,005668,CRJ101,Criminal Justice,3,T
+12100,005668,CRJ101,Intro to Criminal Justice,3,T
 12103,005668,CSC178,Software Applications,3,T
 12104,005668,CTC115,Digital Photography,3,T
 12105,005668,DAT121,Introduction to Computers,3,T
@@ -10055,7 +10055,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12303,005668,HIS112,NonWestern Civilizations,3,T
 12304,005668,HIS115,African-American History,3,T
 12305,005668,HIS201,AMER  HIST: DISC TO 1877,3,T
-12306,005668,HIS202,Amer Hist: 1877 to Pres,3,T
+12306,005668,HIS202,American History 1877-Present,3,T
 12413,005668,HIST101,Western Civ to 1689,3,T
 12414,005668,HSS101,Intro to Humanities,3,T
 12415,005668,HSS205,Technology and Society,3,T
@@ -10072,7 +10072,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12430,005668,MAT109,Coll Algebra/Modeling,3,T
 12431,005668,MAT110,College Algebra,3,T
 12492,005668,MAT110&111,Elem Functions,3,T
-12493,005668,MAT110-111,Algebra&Trig,3,T
+12493,005668,MAT110-111,Algebra&Trigonometry,3,T
 12433,005668,MAT111,Algebra and Trigonometry I,3-4,T
 12436,005668,MAT114,Logic and Algebra,3.33,T
 12437,005668,MAT120,Probability & Statistics,3-4,T
@@ -10147,11 +10147,11 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 12677,005668,PSY103,Human Relations,3,T
 12678,005668,PSY115,Industrial Psychology,3,T
 12716,005668,PSY200,General Psychology,3,T
-12679,005668,PSY201,Intro to Psychology,3,T
+12679,005668,PSY201,American Government,3,T
 12682,005668,PSY203,Human Growth & Development,3,T
 12741,005668,PSY210,General Psych,3,T
 12685,005668,PSY212,Abnormal Psychology,3,T
-12686,005668,PSY214,Psy of Exceptional Chlid,3,T
+12686,005668,PSY214,Psy of Exceptional Child,3,T
 12708,005668,PSY215,Psy of the Excep Child,3,T
 12751,005668,PSY220,International Relations,3,T
 12752,005668,PSY230,Human Growth&Development,3,T
@@ -10279,7 +10279,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4147,005744,ENG101,English Composition,3,T
 4150,005744,ENG102,English Comp II,3,T
 4151,005744,ENG209,World Literature I,3,T
-4153,005744,HIS102,Western Civ II,3,T
+4153,005744,HIS102,Western Civilization,3,T
 4152,005744,HIS201,American History I,3,T
 4156,005744,HIS202,American History II,3,T
 4157,005744,MAT110,College Algebra,3,T
@@ -10314,7 +10314,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 14502,005789,CHM105,Gen Chemistry&Biochemistry,4,T
 14503,005789,CHM110,College Chemistry I,4,T
 14594,005789,CPT101,Microcomputer,3,T
-14504,005789,CPT170,Microcomp Applications,3,T
+14504,005789,CPT170,Microcomputer Applications,3,T
 14510,005789,ECD101,Intro to Early Childhood,3,T
 14511,005789,ECD107,Exceptional Children,3,T
 14512,005789,ECD132,Creative Experience,3,T
@@ -10422,10 +10422,10 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 14947,005798,ES101B&C,Physical Wellbeing I & II,2,T
 14948,005798,FA105,Exploration of Arts,3,T
 14949,005798,FD200,Christian Worldview,3,T
-14950,005798,HI101,WORLD HIST I,3,T
-14951,005798,HI102,WORLD HIST II,3,T
+14950,005798,HI101,World History I,3,T
+14951,005798,HI102,World History II,3,T
 14952,005798,HI201,American History I,3,T
-14953,005798,HI202,AMER HIST II,3,T
+14953,005798,HI202,American History II,3,T
 14959,005798,MA102,College Algebra,3,T
 14960,005798,MA116,Pre Calculus,3,T
 14961,005798,MA200,Statistics,3,T
@@ -10532,7 +10532,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 15137,005816,STAT011,BA Cpt Stat/Da Anal,3,T
 15138,005816,TRAN001,Transfer Work,42,T
 15139,005816,WMST340,Leadership Violence Prev,3,T
-16634,005818,ACCT225,Intro Financial Acct,3,T
+16634,005818,ACCT225,Intro to Financial Acct,3,T
 16636,005818,ACCT226,Intro Managerial Acct,3,T
 16638,005818,ACCT325,Commercial Law,3,T
 15612,005818,ANTH101,Primates People Prehist,3,T
@@ -10665,7 +10665,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 15729,005818,EDLP703,Supervision Instruction,3,T
 15730,005818,EDLP705,Legal Basis Educ Org/Adm,3,T
 15731,005818,EDPD804,Dev An Effective Writing Prog,3,T
-15732,005818,EDPY401,Learners&Diversity of Learning,3,T
+15732,005818,EDPY401,Learners&Diversity of Learning,3-4,T
 15733,005818,EDPY705,Human Growth & Develop,3,T
 16676,005818,EDPYR705,Human Growth & Develop,3,T
 16677,005818,EDRD,Tch Rdg/Wrtg/Cnt Area,3,T
@@ -10934,7 +10934,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16033,005818,SEGLW101,Composition,3,T
 16036,005818,SEGLW406,Studies In Shakespeare,3,T
 16037,005818,SEGLW419,Victorian Lit,3,T
-16034,005818,SEGLW484,Children's Lit,3,T
+16034,005818,SEGLW484,Children's Literature,3,T
 16039,005818,SELD440,Pract Inst Disability II,3,T
 16778,005818,SETE680L, Issues in Literacy,6,T
 16040,005818,SETEQ531,Microcomputers & Instr,3,T
@@ -11041,11 +11041,11 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 15578,005820,SPA1020,Elementary Spanish,3,T
 16908,005821,ACCTU225,Intro to Financial Acct,3,T
 16909,005821,ANTH102,Understand Other Cultures,3,T
-16910,005821,ARTE101,INTRO TO ART,3,T
+16910,005821,ARTE101,iNTRODUCTION TO ART,3,T
 16912,005821,ARTH105,Hist of Westr'n Art I,3,T
 16913,005821,BIO100,Biology,4,T
 16917,005821,BIOL250,Microbiology,4,T
-16914,005821,BIOL270,INTRO EVIRON,4,T
+16914,005821,BIOL270,Intro Environmental Science,3-4,T
 16915,005821,BIOLV110,General Biology,4,T
 16916,005821,BIOLV243,Human Anatomy/Phys I,4,T
 16920,005821,CHEM331,Essential of Organic Chm  l,4,T
@@ -11055,7 +11055,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16924,005821,CSCE102,General App Programming,3,T
 16925,005821,CSCIV101,Intro/Comptr Concepts,3,T
 16926,005821,ENGL101,CRITICAL READING & COMP,3,T
-16932,005821,ENGL102,Rhetoric&Composition,3,T
+16932,005821,ENGL102,Rhetoric & Composition,3,T
 16936,005821,ENGLV101,Criticl Read&Compositn,3,T
 16938,005821,ENGLV102,Composition & Literature,3,T
 16939,005821,ENGLV282,Fiction,3,T
@@ -11301,14 +11301,14 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17023,005846,ARTSU112,Basic Drawing II,3,T
 17025,005846,ARTSU208,Sculpture,3,T
 17027,005846,BIO242,Human Physiology,4,T
-17028,005846,BIOL101,BIO PRIN I,3,T
+17028,005846,BIOL101,Biological Principles I,3-4,T
 17030,005846,BIOL101/101L,BIOLOGICAL PRIN I,4,T
 17031,005846,BIOL101L,BIO PRIN I LAB,1,T
 17049,005846,BIOL101UNI,Biological Principles I,4,T
 17050,005846,BIOL102,Biological Principles II,4,T
 17052,005846,BIOL102UNI,Biological Principles Ii,4,T
 17032,005846,BIOL110,General Biology,4,T
-17033,005846,BIOL243,HUMAN ANAT/PHYS I,3-4,T
+17033,005846,BIOL243,Human Anat&Physiology I,3-4,T
 17035,005846,BIOL243L,HUMAN ANAT/PHY LAB,1,T
 17036,005846,BIOL244,HUMAN ANAT/PHY II,3,T
 17037,005846,BIOL244L,HUM ANAT/PHY II LAB,1,T
@@ -11377,7 +11377,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17161,005846,HIST102,Eur Civ: Frm Mid 17th Cen,3,T
 17186,005846,HIST105,US History I,3,T
 17187,005846,HIST106,US History II,3,T
-17163,005846,HIST111,US History to 1865,3,T
+17163,005846,HIST111,US HISTORY TO 1865,3,T
 17189,005846,HIST111UNI,US History to 1865,3,T
 17167,005846,HIST112,US HISTORY SINCE 1865,3,T
 17191,005846,HIST112UNI,US History since 1865,3,T
@@ -11396,7 +11396,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17197,005846,HRTM340,Nutrition,3,T
 17209,005846,MATH111,Basic College Math,3,T
 17210,005846,MATH112,Trigonometry,2,T
-17211,005846,MATH115,Pre-Calc Math,4,T
+17211,005846,MATH115,Precalc Mathemetics,4,T
 17214,005846,MATH126,Precalculus I,3,T
 17215,005846,MATH127,Precalculus II,3,T
 17216,005846,MATH141,Calculus I,4,T
@@ -11484,14 +11484,14 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16871,005847,EDTE101,Intro to Careers in Educ,2,T
 16872,005847,EDTE101P,Practicum Careers in Edu,1,T
 16873,005847,ENGL101,Critical Reading/Comp,3,T
-16874,005847,ENGL102,Rhetoric/Comp,3,T
+16874,005847,ENGL102,Rhetoric&Composotion,3,T
 16875,005847,ENGLS101,Criticl Readg&Compositn,3,T
 16877,005847,ENGLS102,Composition & Literature,3,T
 16885,005847,FAMS180,Film Culture,3,T
 16887,005847,HIST101,European Civilization I,3,T
 16889,005847,HIST102,Eur Civ From Mid 17th Century,3,T
 16886,005847,HISTS101,Eur Civ:Ancient-Mid 17th,3,T
-16893,005847,MATH111,Basic College Math,3,T
+16893,005847,MATH111,College Mathematics,3,T
 16894,005847,MATHS115,Precalculus Mathematics,4,T
 16895,005847,MATHS141,Calculus I,4,T
 16897,005847,MSCI210,Oceans and Society,3,T
@@ -11508,11 +11508,11 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16800,005849,ARTE101,ITNRO TO ART,3,T
 16801,005849,ARTH1-5,History W'strn Art I,3,T
 16804,005849,BIOL101,Biological Principles I,4,T
-16802,005849,BIOL102,BIO PRINCIPLES II,4,T
+16802,005849,BIOL102,Biological Principles II,3-4,T
 16806,005849,BIOL120,Human Biology,4,T
 16807,005849,BIOL243,Anatomy&Physio I,4,T
 16803,005849,BIOLV244,Human Anatomy/Phys II,4,T
-16809,005849,CRJU101,Am Criminal Justic Sys,3,T
+16809,005849,CRJU101,American Criminal Justice,3,T
 16808,005849,CRJUL101,amer Criminl Justc Sys,3,T
 16816,005849,ECON221,Principles of Microecon,3,T
 16818,005849,ECON224,Economics,3,T
@@ -11548,7 +11548,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 16868,005849,STAT112,Statistics & Media,3,T
 16869,005849,THEA340,Literature&Performance,3,T
 17341,005850,AEDUN633B,PD:Art Wkshp-Dgtl,3,T
-17342,005850,ANTH102,Understand Other Culture,3,T
+17342,005850,ANTH102,Understanding other Culutres,3,T
 17346,005850,ANTHU101,Understand Other Cultures,3,T
 17343,005850,ANTHU102,Under Other Cultures,3,T
 17347,005850,ARTH105,History of Wstrn Art I,3,T
@@ -11573,7 +11573,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17370,005850,BIO101,Intro Bio Science,4,T
 17367,005850,BIO206,Genetics and Society,3,T
 17368,005850,BIO232,Human Anatomy,4,T
-17374,005850,BIOL101,Intro Biology,4,T
+17374,005850,BIOL101,Intro to Biology I,4,T
 17377,005850,BIOL102,Introductory Biology ll,4,T
 17371,005850,BIOL110,General Biiology,4,T
 17378,005850,BIOL243,Anatomy&Physiology I,4,T
@@ -11583,14 +11583,14 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17383,005850,BIOLU101,Intro to Biology I,4,T
 17386,005850,BIOLU102,Intro Biology II,4,T
 17372,005850,BIOLU110,GENERAL BIO,4,T
-17387,005850,BIOLU243,Human Anat&Phys I,4,T
+17387,005850,BIOLU243,Human Anatomy&Physio I,4,T
 17389,005850,BIOLU244,Human Anatomy&Physio II,4,T
 17373,005850,BIOLU270,ENVIRONMENTAL SCI,3,T
 17369,005850,BIOU101,Intro Bio I,4,T
 17391,005850,BIOU232,Human Anatomy,4,T
 17396,005850,CHEM101,Fundamentals Chemistry ;,4,T
 17399,005850,CHEM106,Chemistry & Society,4,T
-17392,005850,CHEMU101,Fund Chemistry,4,T
+17392,005850,CHEMU101,Fundamental Chemistry,4,T
 17393,005850,CHEMU111,General Chemistry,4,T
 17394,005850,CHEMU112,Gen Chem & Quan Ana,4,T
 17395,005850,CHEMU331,Organic Chem I,3,T
@@ -11602,7 +11602,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17409,005850,CSCE101,Intro Computer,3,T
 17414,005850,CSCI138,Intro Computer Technology,3,T
 17419,005850,CSCI150,Intro to Computer Science,3,T
-17410,005850,CSCIU138,Intro Computer Tech,3,T
+17410,005850,CSCIU138,Intro to Computer Technology,3,T
 17423,005850,CSCIU150,Intro to Computer Science,3,T
 17413,005850,CSCIU200,Comp Sci I,3,T
 17424,005850,DANC101,Dance Appreciation,3,T
@@ -11620,7 +11620,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17445,005850,EDFO333,Dev Lifelong Learn,3,T
 17436,005850,EDFOU210,Fundm of Edu-Boiling Springs,3,T
 17437,005850,EDFOU333,EDU DEVEL LIFELONG LEARNING,3,T
-17438,005850,EDFOU341,INTRO EXCEP LEARN/SPEC ED,3,T
+17438,005850,EDFOU341,Intro Exceptional Learners,3,T
 17452,005850,EDHL221,Health&Wellness,3,T
 17453,005850,EDHL331,Health/Phys Ed-Elem,3,T
 17454,005850,EDHLU331,Health/Phys Ed for Elem Child,3,T
@@ -11700,7 +11700,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17570,005850,HIST111,US Hist tto 1865,3,T
 17594,005850,HIST112,US History II,3,T
 17571,005850,HISTR599F,Topic/People in Amer Hst,3,T
-17572,005850,HISTU101,Intro to World Hist,3,T
+17572,005850,HISTU101,INTRO TO WORLD HIST I,3,T
 17599,005850,HISTU102,Intro World History II,3,T
 17604,005850,HISTU105,Hist of US I,3,T
 17607,005850,HISTU106,Hist of US II,3,T
@@ -11711,7 +11711,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 17612,005850,LOGCU207,Deductive Logic,3,T
 17622,005850,MATH102,Elementary Statistics,3,T
 17613,005850,MATH111,Basic College Mathematic,3,T
-17624,005850,MATH111I,Basic College Math,4,T
+17624,005850,MATH111I,Intensive College Math,4,T
 17626,005850,MATH120,College Mathematics,3,T
 17627,005850,MATH121,College Algebra,3,T
 17628,005850,MATH126,Pre Calculus I,3,T
@@ -12011,7 +12011,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 18071,005850,SFRNW330,Survey of French Lit I,3,T
 18072,005850,SFRNW331,Survey of French Lit II,3,T
 18073,005850,SFRNW403,Mstrpieces French Novel,3,T
-18079,005850,SGEG103,Intro Geography,3,T
+18079,005850,SGEG103,Intro to Geography,3,T
 18076,005850,SGEGW103,Intro to Geography,3,T
 18077,005850,SGEGW121,Principles of Reg Geog,3,T
 18078,005850,SGEGW201,Intro to Phys Geog,4,T
@@ -12150,7 +12150,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 18288,005850,SPHLW319,Epistemology,3,T
 18289,005850,SPHLW390,Topics: Biomedical Ethics,3,T
 18293,005850,SPHS101,Intro Phys Science,4,T
-18294,005850,SPHSW101,Intro Phys Sci/Lab,4,T
+18294,005850,SPHSW101,Intro to Phys Sci/Lab,4,T
 18302,005850,SPN101,Intro Spanish I,3,T
 18301,005850,SPN121,Elem Spanish and Lab,4,T
 18303,005850,SPSY101,Intro to Psychology,3,T
@@ -12550,7 +12550,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 18974,005908,ECON221,MICROECONOMICS,3,T
 18976,005908,ENG110,UNIV WRITING/RESEARCH,3,T
 18978,005908,GPS110,Global Perspectives Religion,3,T
-18979,005908,GPS120,GLOBAL PERSP WRLD CULTURE,3,T
+18979,005908,GPS120,Global Perspective World Culture,3,T
 18982,005908,GPS210,Global Perspectives Literature,3,T
 18983,005908,GPS220,Global Pers Econ/Political Sci,3,T
 18984,005908,HIST111,US History II,3,T
@@ -12826,7 +12826,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 19381,005912,EDUC340,Teaching of Reading,3,T
 19382,005912,ENG102,Sem in Lit & Comp,3,T
 19383,005912,ENG202,English Lit Since 1800,3,T
-19384,005912,ENGL102,Lit & Comp Sem,3,T
+19384,005912,ENGL102,Seminar:Literature and Comp,3,T
 19385,005912,ENGL200,Intro Literary Study,3,T
 19387,005912,ENGL200C,Int to Lit Stdy,3,T
 19395,005912,ENGL201,English Lit I,3,T
@@ -12848,9 +12848,9 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 19416,005912,HIST193,Hist Sub Saharan,3,T
 19409,005912,HIST260,Hist & Res Meth,3,T
 19410,005912,HIST486A,Military Hist,3,T
-19417,005912,HUM101,Fr Seminar in Humanities,3,T
+19417,005912,HUM101,Freshman Seminar:Humanities,3,T
 19426,005912,JAN318,Let's Talk About Music & Arts,4,T
-19428,005912,MATH120,Apprec of Mathematics,3,T
+19428,005912,MATH120,Math:Study of Patterns,3,T
 19427,005912,MATH130,Finite Math,3,T
 19430,005912,MATH140,Statistics,3,T
 19431,005912,MATH181,Calculus I,3,T
@@ -12863,7 +12863,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 19441,005912,PHED108,Yoga,1,T
 19442,005912,PHI203,Problems of Philosophy,3,T
 19445,005912,PHIL201,Intro to Philosophy,3,T
-19446,005912,PHIL203,Problems of Phil,3,T
+19446,005912,PHIL203,Problems of Philosophy,3,T
 19443,005912,PHIL206,Reasoning & Critical Thinking,3,T
 19444,005912,PHIL213A,Ethics & Bus,3,T
 19448,005912,PHIL215,Environmental Ethics,3,T
@@ -13009,7 +13009,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 19534,005989,CHM111,College Chemistry,4,T
 19535,005989,CMH110,College Chemistry,4,T
 19536,005989,CPR170,Microcomputer Appl,3,T
-19537,005989,CPT101,Introduction to Compu,3,T
+19537,005989,CPT101,Introduction to Computers,3,T
 19538,005989,CPT170,Microcomputer Application,3,T
 19544,005989,CRJ101,Intro to Criminal,3,T
 19545,005989,CRJ115,Criminal Law I,3,T
@@ -13020,7 +13020,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 19552,005989,ENF202,American Lit,3,T
 19553,005989,ENG101,English Composition,3,T
 19554,005989,ENG102,English Composition,3,T
-19566,005989,ENG201,American Lit I,3,T
+19566,005989,ENG201,American Literature,3,T
 19568,005989,ENG202,American Lit II,3,T
 19569,005989,HIS101,Western Civ to 1689,3,T
 19570,005989,HIS102,Western Civ Post 1689,3,T
@@ -13356,14 +13356,14 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 7009,006195,BIO105,INTRO BIO,4,T
 7010,006195,BUS161,HUMAN RELATIONS,3,T
 7011,006195,CHM151,COLLEGE CHEM I,4,T
-7012,006195,CSC110,INTRO TO COMP,3,T
+7012,006195,CSC110,Intro to Computers,3,T
 7014,006195,ECN130,MICROECON,3,T
 7015,006195,ECN210,MACROECON,3,T
 7016,006195,EDU235,Children's Literature,3,T
 7017,006195,ENG105,Composition I,3,T
 7018,006195,ENG106,Composition II,3,T
 7021,006195,HIS111,WEST CIV II,3,T
-7022,006195,MAT110,MATH FOR LIB ARTS,3,T
+7022,006195,MAT110,Math for Liberal Arts,3,T
 7023,006195,MAT140,FINITE MATH,3,T
 7024,006195,MAT156,STATS,3,T
 7026,006195,MGT101,PRIN OF MGT,3,T
@@ -13557,7 +13557,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 8428,006374,MUHL-M309,Piano Lit II,3,T
 8429,006374,MUPC-M100,Recital,0,T
 8430,006374,MUPD-M111,Intro Piano Ped II,2,T
-8431,006374,MUPR-M136,Piano I,2,T
+8431,006374,MUPR-M136,Piano III,2,T
 8434,006374,MUTH-M102,Theory I,4,T
 8435,006374,MUTH-M202,Theory III,4,T
 8436,006374,MUTH-M203,Theory IV,4,T
@@ -13631,7 +13631,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 15469,006481,MUTH1510,Aural Skills II,2,T
 15470,006481,MUTH2400,Theory III,2,T
 15471,006481,MUTH2410,Aural Skills III,1,T
-15472,006481,MUTH2500,Aural Skills IV,1,T
+15472,006481,MUTH2500,Aural Skills IV,1-2,T
 15474,006481,PSCI1041,American Gov't,3,T
 9750,006482,COUN522,Human Growth & Develop,3,T
 9870,006488,BIOL04102, General Biology and Lab,4,T
@@ -14007,7 +14007,7 @@ CrsId,OrgCode,CrsCode,CrsName,CreditHours,GradeCode
 4962,999111,M32F.07,Acct Review,3,T
 4963,999111,M41.04,Business-Public Sector,3,T
 4964,999111,M41.07,Cost Mgmt,3,T
-4965,999111,TRANSFER,Basketball,1,T
+4965,999111,TRANSFER,Sociology of Phys Activity&Sports,1-4,T
 440,999901,ANHUITRANSFERCREDITS,Anhui Credit,63,T
 441,999901,ELECTIVES,Transfer Electives,25,T
 442,999901,GEP,Transfer GEP Courses,38,T
