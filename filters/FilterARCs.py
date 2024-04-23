@@ -1,22 +1,52 @@
+ARC_equivalences = {'ART0101': 'ART100',
+                    'BA330': 'BAD330', # Mgmt principles
+                    'BIOL101': 'BIO101',
+                    'BIOL205': 'BIO205', # Anatomy & Phys, with lab
+                    'BIOL210': 'BIO210', # Antomy & Phys II, with lab
+                    'CS100': 'CSC100', # Why is this an ARC?
+                    'ECO202': 'ECN202',
+                    'EN101': 'ENG101',
+                    'EN102': 'ENG102',
+                    'EN204': 'ENG204',
+                    'ENG0101': 'ENG101',
+                    'ENG0102': 'ENG102', # Seem to be some comp courses here?
+                    'ENG1102': 'ENG102', # Comp course?
+                    'ENGL102': 'ENG102', # Comp course
+                    'ENGLU101': 'ENG101',
+                    'FLG001': 'SPN101', # Only occurs with Spanish
+                    'FOLA201': 'JPN201', # Only occurs with Japanese
+                    'FREN102': 'FRN102', # Elementary French
+                    'FREN201': 'FRN201', # More French
+                    'FRLGN001': 'ASL101', # Only happens with ASL
+                    # There are a good many more of these
+                    }
+
 def filter_arcs(transfer_credits: list[dict[str,str]]) -> list[dict[str,str]]:
     """Takes a list of dictionaries TRANSFER_CREDITS, with one entry
     per course equivalence.  Any merging of schools is assumed to have
     happened already. Any merging of courses is assumed to have
-    happened already. This function merges duplicate ARCs and
-    filters out bad ARCs in TRANSFER_CREDITS by side effect.  This
-    function returns a list of dictionaries representing the data for
-    the ARCs table in the database."""
+    happened already. This function merges bogus ARC codes in
+    TRANSFER_CREDITS by side effect, but does not remove any entries.
+    This function returns a list of dictionaries representing the data
+    for the ARCs table in the database."""
 
-
-    unique_ARCs: list[dict[str, str]] = []
+    unique_ARCs: set[str] = set[str]() # Used to test for uniqueness
+    filtered_ARCs: list[dict[str, str]] = [] # This goes in the database
     for record in transfer_credits:
-        ARC_code = record['ADV REQ CDE']
+        ARC_code = record['ADV REQ CDE'].upper().replace(' ', '')
+        if ARC_code in ARC_equivalences:
+            ARC_code = ARC_equivalences[ARC_code]
+            record['ADV REQ CDE'] = ARC_code
+            # Remains to be seen whether this leads to duplicate equivalences
         credit_type = record['CREDIT TYPE CDE']
-        # See if the ARC Code is empty, then try to find the ARC Code.
-        #if ARC_code == '':
-            # Unsure what to put here.
-        if credit_type == 'TR':
+
+        if len(ARC_code) > 0: # Get rid of the empty ARCs
             if ARC_code not in unique_ARCs:
-                unique_ARCs.append({'ARCCode' : ARC_code, 
+                assert credit_type == 'TR', \
+                    f"{credit_type}: {record['ORG CDE']} {record['CRS CDE']} {ARC_code}"
+                unique_ARCs.add(ARC_code)
+                filtered_ARCs.append({'ARCCode' : ARC_code, 
                                     'CreditType': credit_type})
-    return unique_ARCs
+
+    filtered_ARCs.sort(key=lambda elt: elt['ARCCode']) # sort by ARC
+    return filtered_ARCs
