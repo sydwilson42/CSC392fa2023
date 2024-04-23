@@ -1,6 +1,7 @@
 from read_write_csv import read_from_csv,write_csv
 from FilterSchools import filter_schools
 from FilterCourses import filter_courses
+from FilterARCs import filter_arcs
 
 def main(args: list[str]) -> int:
     original_records = read_from_csv('Transfer_Courses.csv')
@@ -23,6 +24,9 @@ def main(args: list[str]) -> int:
     write_csv('Courses.csv', course_list)
 
     # Filter the ARC's, by making a collection of unique ARC's.
+
+    arcs_list = filter_arcs(original_records)
+
     # All an ARC needs, besides the ARC code itself, is the
     # credit type.  *IF* there's a valid credit type every time
     # we find a new ARC (there *should* be, but check before
@@ -30,6 +34,7 @@ def main(args: list[str]) -> int:
     # ARC's for the database as soon as we find a new one.
     
     # Write the ARC's
+    write_csv('ARCs.csv', arcs_list)
 
     # Filter the equivalences.  This will need course_list as
     # well as original_records, because course_list has the
