@@ -18,9 +18,71 @@ ARC_equivalences = {'ART0101': 'ART100',
                     'FREN102': 'FRN102', # Elementary French
                     'FREN201': 'FRN201', # More French
                     'FRLGN001': 'ASL101', # Only happens with ASL
-                    
-                    # There are a good many more of these
-                    
+
+                    # GEP COURSES:
+                    # GE211 - humanities
+                    # GEP1, GEP1E, GEP1F - history
+                    # GEP1A, GEP1B - music
+                    # GEP1G - religion
+                    # GEP1H - women's studies
+                    # GEP1I - ethics/philosophy
+                    # GEP1J - biology/physiology
+                    # GEP1K - chemistry
+                    # GEP1L - physics
+                    # GEP1M - geology
+                    # GEP1N - sociology
+                    # GEP1O - psychology
+                    # GEP1P - microeconomics
+                    # GEP1Q - politics/government
+                    # GEP1W - nutrition
+                    # GEP2 - math/algebra
+                    # GEP2A - math/precalculus
+                    # GEP2P - macroeconomics
+                    # GEP3 - random science
+                    # GEP3A - random arts/humanities
+                    # GEP3B - random history
+                    # GEP3C - random human geography
+                    # GEP3E - environmental science
+                    # GEP3N, GEP3X - world history                    
+
+                    # HPE COURSES:
+                    # REPLACE THESE WITH HPE134?
+                    # HPE001 - field hockey
+                    # HPE100 - equestrian
+                    # HPE130 - basketball
+                    # HPE132 - soccer
+                    # HPE134 - volleyball
+
+                    # OTHER COURSES:
+                    # HRP101, HRP103, HRP201 - harp
+                    # JPN101, JPN102, JPN202 - japanese
+                    # LAT101, LAT102 - latin
+
+                    'HIS106':'HST201',
+                    'HIS108':'HST202',
+                    'HIS201':'HST201',
+                    'HIS202':'HST202',
+                    'HIST201':'HST201',
+                    'HIST202':'HST202',
+                    'HLTH140':'HPE180',
+                    'HPE00':'HPE151', #replace jogging with walk/swim?
+                    'HPE120':'HPE126', #replace with tennis course
+                    'HPE197':'HPE255', #replace with health and wellness
+                    'HPE224':'HPE124', #replace with golf
+                    'HST00':'HST100', #double check
+                    'HST001':'HST115', #double check
+                    'HST101':'HST201', #double check
+                    'HST102':'HST100', #double check
+                    'HST188':'HST115', #double check
+                    'HST315':'HST115', #double check
+                    'HST318':'HST110', #double check
+                    'HST319':'HST100', #double check
+                    'HST599':'HST110', #double check
+                    'MA202':'MTH108',
+                    'MAT101':'MTH423',
+                    'MAT108':'MTH423',
+                    'MAT110':'MTH112',
+
                     'MATH108': 'MTH108',
                     'MATH110': 'MTH110',
                     'MATH1113': 'MTH113',
