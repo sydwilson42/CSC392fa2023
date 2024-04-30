@@ -2,6 +2,7 @@ from read_write_csv import read_from_csv,write_csv
 from FilterSchools import filter_schools
 from FilterCourses import filter_courses
 from FilterARCs import filter_arcs
+from Filter_Equivalences import filter_equivalences
 
 def main(args: list[str]) -> int:
     original_records = read_from_csv('Transfer_Courses.csv')
@@ -49,12 +50,15 @@ def main(args: list[str]) -> int:
     # value attached to each key.  Then you can tell if an org 
     # code/course code/ARC combination is unique by finding out whether
     # it's in the dictionary.
+
+    equivs_list = filter_equivalences(original_records, course_list)
     
     # The course ID's can be found from course_list.  Note that the
     # course list is actually sorted in ascending order of org code,
     # and then in ascending order of course code within the org codes.
     
     # Write the equivalences
+    write_csv('Equivalences.csv', equivs_list)
 
     return 0
 
