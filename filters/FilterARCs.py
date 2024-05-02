@@ -124,7 +124,7 @@ def filter_arcs(transfer_credits: list[dict[str,str]]) -> list[dict[str,str]]:
             ARC_code = ARC_equivalences[ARC_code]
             record['ADV REQ CDE'] = ARC_code
             # Remains to be seen whether this leads to duplicate equivalences
-        credit_type = record['CREDIT TYPE CDE']
+            credit_type = record['CREDIT TYPE CDE']
         if len(ARC_code) > 0: # Get rid of the empty ARCs
             if ARC_code not in unique_ARCs:
                 assert credit_type == 'TR', \
