@@ -34,7 +34,7 @@ def filter_equivalences(original_records: list[dict[str,str]],
       if key not in equivalences_dict:
         # Find course_ID from course_list
         course_ID = find_course_ID(course_list, orgCode, crsCode)
-        credit_type = record['CREDIT TYPE CDE']
+        credit_type = record['CREDIT TYPE CDE'].strip()
         assert course_ID != '', f"Empty course_ID for {record}"
         equivalences_dict[key] = {'CrsID': course_ID, 'ARCCode': ARC,
                                   'TYear': record['TRANS YR'].strip(), 
