@@ -18,14 +18,31 @@ def closeDB(conn: sqlite3.Connection) -> None:
     #Close the connection
     conn.close() 
 
+def quote_val(string: str) -> str:
+    result = string.strip()
+    if len(result) == 0:
+        result = '""'
+    elif result[0] != '"' or result[-1] != '"':
+        result = f'"{string}"'
+    return result
+
 def create_insert_statement(table: str) -> str:
     records: list[dict[str,str]] = get_records(table)
     # Make an INSERT statement that insertes all the records into the table.
     # It will be a *very long* SQL string.  That's OK (I think, and if it isn't
     # OK, we'll split it up).
 
-    #con = sqlite3.connect("Transfer_DB.db ") 
-    #cur = con.cursor()
+    sql = f'INSERT INTO {table} '
+    # Assumes all the rows have the same columns
+    cols = '(' + ','.join(map(quote_val, records[0].keys())) + ')'
+    #print(cols)
+    sql += cols + ' VALUES '
+    for record in records:
+        vals = map(quote_val, record.values())
+        val_string = "(" + ",".join(vals) + "), "
+        sql += val_string
+
+    #print(sql)
     #with open('School.csv') as fin:
     #    reader = csv.DictReader(fin)
     #    data = list(reader)
@@ -36,7 +53,8 @@ def create_insert_statement(table: str) -> str:
     #con.commit()
     #con.close()
 
-    return ';'
+    # Remove the last comma and add a semicolon
+    return sql[:-2] + ';'
 
 # Filenames, relative to CSC392FA2023
 dbfilename = 'Transfer_DB.db'
@@ -66,6 +84,7 @@ def main(args: list[str]) -> int:
             # In with the new (from the CSV files)
             for table in tables:
                 sql = create_insert_statement(table)
+                print(sql)
                 with conn:
                     conn.execute(sql)
 

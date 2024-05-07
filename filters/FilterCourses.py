@@ -79,7 +79,7 @@ def make_course_data(unique_courses: dict[str, int], transfer_credits: list[dict
         course_entry['CrsCode'] = course['CRS CDE']
         course_entry['CrsName'] = course['CRS TITLE']
         course_entry['CreditHours'] = course['CREDIT HRS']
-        course_entry['GradeCode'] = course['GRADE CDE']
+        course_entry['GrdCode'] = course['GRADE CDE']
         course_data.append(course_entry)
     return course_data
 
