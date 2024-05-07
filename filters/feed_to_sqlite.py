@@ -23,6 +23,19 @@ def create_insert_statement(table: str) -> str:
     # Make an INSERT statement that insertes all the records into the table.
     # It will be a *very long* SQL string.  That's OK (I think, and if it isn't
     # OK, we'll split it up).
+
+    #con = sqlite3.connect("Transfer_DB.db ") 
+    #cur = con.cursor()
+    #with open('School.csv') as fin:
+    #    reader = csv.DictReader(fin)
+    #    data = list(reader)
+    #    to_db = [(i['col1'], i['col2']) for i in dr]
+    #cur.execute("CREATE TABLE School (OrgCode, College, TwoOrFourYear);")
+
+    #cur.execute("INSERT INTO School (OrgCode, College, TwoOrFourYear) VALUES (?, ?, ...);", to_db)
+    #con.commit()
+    #con.close()
+
     return ';'
 
 # Filenames, relative to CSC392FA2023
