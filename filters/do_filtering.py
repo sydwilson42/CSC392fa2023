@@ -5,7 +5,7 @@ from FilterARCs import filter_arcs
 from Filter_Equivalences import filter_equivalences
 
 def main(args: list[str]) -> int:
-    original_records = read_from_csv('Transfer_Courses.csv')
+    original_records: list[dict[str,str]] = read_from_csv('Transfer_Courses.csv')
     print(len(original_records), "records")
 
     # Filter the schools, 

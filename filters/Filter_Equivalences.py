@@ -23,7 +23,7 @@ def find_course_ID(course_list: list[dict[str, str]], orgCode: str, crsCode: str
 
 def filter_equivalences(original_records: list[dict[str,str]], 
                         course_list: list[dict[str,str]]) -> list[dict[str,str]]:
-  equivalences_dict = {}
+  equivalences_dict: dict[str,dict[str,str]] = {}
   for record in original_records:
     ARC = record['ADV REQ CDE']
     if len(ARC) > 0: # Only if we have an ARC code, otherwise forget it
