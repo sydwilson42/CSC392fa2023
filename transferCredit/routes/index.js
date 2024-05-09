@@ -78,11 +78,14 @@ function runSchoolsQuery(req, res, next) {
 function runCoursesQuery(req, res, next) {
     if (!req.body.OrgCode) {  // No school specified, don't run the query
         req.app.locals.courses = [];
+        req.app.locals.noOrgCode = true;
         showIndex(req, res, next);
     }
     else {  // req.body.OrgCode is specified
         // FILL IN THE COURSES QUERY AND RUN IT
         let courses_query = `SELECT CrsID, CrsCode FROM Course WHERE OrgCode = ${req.body.OrgCode};`;
+        req.app.locals.noOrgCode = false
+        req.app.locals.courses_query = courses_query
         req.app.locals.db.all(courses_query, [], (err, courses) => {
             if (err){
                 throw err;
@@ -106,7 +109,9 @@ function showIndex(req, res, next) {
                             OrgCode: req.body.OrgCode,
                             courses: req.app.locals.courses,
                             CrsID: req.body.CrsID,
-                            postdata: req.body });
+                            postdata: req.body,
+                            locals: req.app.locals
+                        });
 }
 
 

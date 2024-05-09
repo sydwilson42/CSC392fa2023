@@ -20,7 +20,12 @@ block content
     if !postdata.OrgCode
         p No OrgCode
     else 
-        p OrgCode: #{postdata.OrgCode}
+        p OrgCode: <q>#{postdata.OrgCode}</q>
+
+    if !locals.courses_query
+        p No courses_query 
+    else 
+        p Courses query: <q>#{locals.courses_query}</q>
 
     if !courses
         p No courses
