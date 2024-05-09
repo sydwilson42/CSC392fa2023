@@ -16,6 +16,14 @@ block content
     include equivalence_form
 
     h2 Results of query: <q>#{query}</q>
+    h2 Courses:
+    if !courses
+        p No courses
+    else if courses.length == 0
+        p Empty courses 
+    else 
+        p #{courses.length} courses
+
     h2 Equivalences
 
     if !rows
