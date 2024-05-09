@@ -12,15 +12,17 @@ block content
 
     h1= title
 
-    //- include equivalence_form.pug
-    include equivalence_form
-
     h2 Results of query: <q>#{query}</q>
     h2 Data:
     if !postdata.OrgCode
         p No OrgCode
     else 
         p OrgCode: <q>#{postdata.OrgCode}</q>
+
+    if !locals
+        p No locals 
+    else 
+        p locals: #{locals}
 
     if !locals.courses_query
         p No courses_query
@@ -33,6 +35,9 @@ block content
         p Empty courses 
     else 
         p #{courses.length} courses
+
+    //- include equivalence_form.pug
+    include equivalence_form
 
     h2 Equivalences
 
