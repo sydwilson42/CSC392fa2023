@@ -79,6 +79,7 @@ function runCoursesQuery(req, res, next) {
     if (!req.body.OrgCode) {  // No school specified, don't run the query
         req.app.locals.courses = [];
         req.app.locals.noOrgCode = true;
+        req.app.locals.courses_query = "None"
         showIndex(req, res, next);
     }
     else {  // req.body.OrgCode is specified
