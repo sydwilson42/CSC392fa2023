@@ -16,7 +16,12 @@ block content
     include equivalence_form
 
     h2 Results of query: <q>#{query}</q>
-    h2 Courses:
+    h2 Data:
+    if !postdata.OrgCode
+        p No OrgCode
+    else 
+        p OrgCode: #{postdata.OrgCode}
+
     if !courses
         p No courses
     else if courses.length == 0
