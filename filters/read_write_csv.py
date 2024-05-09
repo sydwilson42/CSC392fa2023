@@ -1,4 +1,4 @@
-from csv import DictReader, DictWriter, QUOTE_STRINGS
+from csv import DictReader, DictWriter, QUOTE_NONNUMERIC
 from pathlib import Path
 #from typing import Any
 
@@ -34,11 +34,11 @@ def read_from_csv(fname: str | Path) -> list[dict[str, str]]:
             records.append(row)
     return records
 
-def write_csv(fname: str, to_write: list[dict[str, str]]) -> None:
+def write_csv(fname: str, to_write: list[dict[str, str | int]]) -> None:
     headers = to_write[0].keys()
     write_file = Path(csv_dir, fname)
     with open(write_file, 'w', newline='') as f:
-        writer = DictWriter(f, fieldnames=headers, quoting=QUOTE_STRINGS)
+        writer = DictWriter(f, fieldnames=headers, quoting=QUOTE_NONNUMERIC)
         writer.writeheader()
         for item in to_write:
             writer.writerow(item)

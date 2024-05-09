@@ -22,7 +22,11 @@ def quote_val(string: str) -> str:
     result = string.strip()
     if len(result) == 0:
         result = '""'
-    elif result[0] != '"' or result[-1] != '"':
+    elif result.isnumeric():
+        if result[0] == '0': # Leading 0, indicates an ID field
+            result = f'"{string}"'
+        # If no leading zero, don't quote the number
+    elif result[0] != '"' or result[-1] != '"': # Not already quoted
         result = f'"{string}"'
     return result
 
@@ -56,9 +60,10 @@ def create_insert_statement(table: str) -> str:
     # Remove the last comma and add a semicolon
     return sql[:-2] + ';'
 
-# Filenames, relative to CSC392FA2023
-dbfilename = 'Transfer_DB.db'
-CSV_dir = 'CSV Files'
+# Filenames, relative to this file
+this_file = Path(__file__)
+CSV_dir = Path(this_file.parent.parent, 'CSV Files')
+dbfilename = Path(this_file.parent.parent, 'Transfer_DB.db')
 tables = ['ARC', 'School', 'Course', 'Equivalence']
 
 def get_records(table: str) -> list[dict[str, str]]:
@@ -84,7 +89,7 @@ def main(args: list[str]) -> int:
             # In with the new (from the CSV files)
             for table in tables:
                 sql = create_insert_statement(table)
-                print(sql)
+                #print(sql)
                 with conn:
                     conn.execute(sql)
 

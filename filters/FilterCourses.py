@@ -62,18 +62,18 @@ def merge_duplicates(transfer_credits: list[dict[str,str]]) -> dict[str, int]:
     print(len(unique_courses), len(transfer_credits))
     return unique_courses
         
-def make_course_data(unique_courses: dict[str, int], transfer_credits: list[dict[str,str]]) -> list[dict[str,str]]:
+def make_course_data(unique_courses: dict[str, int], transfer_credits: list[dict[str,str]]) -> list[dict[str,str|int]]:
     """Takes a list of dictionaries TRANSFER_CREDITS, with one entry
     per course equivalence.  TARNSFER_CREDITS is not modified here.
     Creates and returns a list of dictionaries representing the data for
     the Course table in the database."""
     # Develop the Course table dictionaries
-    course_data: list[dict[str, str]] = []
+    course_data: list[dict[str, str | int]] = []
 
     unique_keys = sorted(unique_courses.keys())
     for key in unique_keys:
-        course_entry: dict[str, str] = {}
-        course_entry['CrsId'] = str(unique_courses[key])
+        course_entry: dict[str, str | int] = {}
+        course_entry['CrsId'] = unique_courses[key]
         course = transfer_credits[unique_courses[key]]
         course_entry['OrgCode'] = course['ORG CDE']
         course_entry['CrsCode'] = course['CRS CDE']
@@ -81,9 +81,10 @@ def make_course_data(unique_courses: dict[str, int], transfer_credits: list[dict
         course_entry['CreditHours'] = course['CREDIT HRS']
         course_entry['GrdCode'] = course['GRADE CDE']
         course_data.append(course_entry)
+    
     return course_data
 
-def filter_courses(transfer_credits: list[dict[str,str]]) -> list[dict[str,str]]:
+def filter_courses(transfer_credits: list[dict[str,str]]) -> list[dict[str,str | int]]:
     """Takes a list of dictionaries TRANSFER_CREDITS, with one entry
     per course equivalence.  Any merging of schools is assumed to have
     happened already.  This function merges duplicate courses and
