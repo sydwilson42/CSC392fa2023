@@ -13,6 +13,10 @@ def read_canonical_name_dict() -> dict[str,dict[str,str]]:
 
 canonical_name_dict: dict[str,dict[str,str]] = read_canonical_name_dict()
 
+prefer_MDB: list[str] = ['1016', # Anderson University (IN)
+                         '5008'  # Anderson University (SC)
+                         ]
+
 def find_canonical_name(record: dict[str,str]) -> str:
     """Using the name database, find the canonical
     name for the school if it can be found.  If it
@@ -32,7 +36,9 @@ def find_canonical_name(record: dict[str,str]) -> str:
         ceeb = org_code[-4:]
         if ceeb in canonical_name_dict:
             school = canonical_name_dict[ceeb]
-            if len(school['CEEB_Name']) > 0:
+            if ceeb in prefer_MDB:
+                name = school['MDB_name']
+            elif len(school['CEEB_Name']) > 0:
                 name = school['CEEB_Name']
             elif len(school['MDB_name']) > 0:
                 name = school['MDB_name']
@@ -104,7 +110,7 @@ def fix_name(record: dict[str,str]) -> str:
         result = result.replace('  ',' ')
         for string in replacements.keys():
             result = re.sub(r'\b'+string+r'\b', replacements[string], result)
-    return result
+    return result.strip()
 
 def two_year(name: str) -> bool:
     """Returns True if the school in RECORD appears to be a 2-year

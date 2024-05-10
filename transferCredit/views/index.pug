@@ -22,7 +22,20 @@ block content
     if !locals
         p No locals 
     else 
-        p locals: #{locals}
+        p locals: <q>#{locals}</q>
+        //- ul
+        //-     each val, key in locals
+        //-         li= key + ': ' + val
+
+    if !locals.trace
+        p No trace (why not?)
+    else
+        p Trace: <q>#{locals.trace}</q>
+
+    if !trace
+        p No trace (why not?)
+    else
+        p Trace: <q>#{trace}</q>
 
     if !locals.courses_query
         p No courses_query

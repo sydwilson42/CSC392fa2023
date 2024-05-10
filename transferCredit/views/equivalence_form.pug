@@ -5,8 +5,8 @@ else if schools.length == 0
 else
     form(action="/transferCredit", method="post")
         input(type="hidden", name="formname", value="equivalence")
-        label(class="lbl") School: 
-        select(class="dropdown-container", name="OrgCode", required, onchange="this.form.submit();")
+        label(class="lbl", for="OrgCode") School: 
+        select(class="dropdown-container", name="OrgCode", id="OrgCode", required, onchange="this.form.submit();")
             option(value="") &mdash;Please select a school&mdash;
             each rowObj in schools
                 if (postdata.OrgCode && (postdata.OrgCode == rowObj.OrgCode))
@@ -16,9 +16,9 @@ else
         span(class="flag")
         br
         // Course form
-        label(class="lbl") Course: 
+        label(class="lbl", for="CrsID") Course: 
         if !postdata.OrgCode
-            select(class="dropdown-container", name="CrsID", disabled)
+            select(class="dropdown-container", name="CrsID", id="CrsID", disabled)
                 option(value="") &mdash;Please select a course&mdash;
             br
             input(class="bttn_reset", type="reset", value="Reset")
