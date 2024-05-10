@@ -27,7 +27,7 @@ else
             p OrgCode but no courses!
         else
             //- if postdata.OrgCode && courses && (courses.length > 0)
-            select(class="dropdown-container", name="CrsID", required)
+            select(class="dropdown-container", name="CrsID", id="CrsID", required)
                 option(value="") &mdash;Please select a course&mdash;
                 //- FILL IN THE OPTIONS HERE FOR THE ACTUAL COURSES
                 each rowObj in courses
