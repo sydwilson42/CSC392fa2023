@@ -6,9 +6,7 @@ var router = express.Router();
  * with a fixed query.
  */
 router.get('/', function(req, res, next) {
-    console.log("GET");
     req.app.locals.query = ""; //"SELECT * from School;";
-    req.app.locals.trace = "Get";
     runMainQuery(req, res, next);
 });
 
@@ -18,7 +16,6 @@ router.get('/', function(req, res, next) {
  * calls runMainQuery() with that function.  
  */
 router.post('/', function(req, res, next) {
-    console.log("POST");
     let query = '';
     if (req.body.CrsID) {
         // Run the equivalence query
@@ -27,7 +24,6 @@ router.post('/', function(req, res, next) {
                 + `WHERE CrsID = '${req.body.CrsID}';`
     }
     req.app.locals.query = query;
-    req.app.locals.trace = "Post";
     runMainQuery(req, res, next)
 });
 
@@ -47,13 +43,11 @@ function runMainQuery(req, res, next) {
                 throw err;
             }
             req.app.locals.rows = rows;
-            req.app.locals.trace += ' Main_if';
             runSchoolsQuery(req, res, next); // Has to happen in the handler function
         });
     }
     else { // No query
         req.app.locals.rows = [];  // Empty array
-        req.app.locals.trace += ' Main_else';
         runSchoolsQuery(req, res, next);
     }
 }
@@ -70,7 +64,6 @@ function runSchoolsQuery(req, res, next) {
             throw err;
         }
         req.app.locals.schools = schools;
-        req.app.locals.trace += ' Schools';
         runCoursesQuery(req, res, next);  // Has to happen in the handler function
     });
 }
@@ -85,14 +78,12 @@ function runSchoolsQuery(req, res, next) {
 function runCoursesQuery(req, res, next) {
     if (!req.body.OrgCode) {  // No school specified, don't run the query
         req.app.locals.courses = [];
-        req.app.locals.trace += ' Courses_noOrgCode';
         req.app.locals.courses_query = "None"
         showIndex(req, res, next);
     }
     else {  // req.body.OrgCode is specified
         // FILL IN THE COURSES QUERY AND RUN IT
         let courses_query = `SELECT CrsID, CrsCode FROM Course WHERE OrgCode = '${req.body.OrgCode}';`;
-        req.app.locals.trace += ' Courses_query'
         req.app.locals.courses_query = courses_query
         req.app.locals.db.all(courses_query, [], (err, courses) => {
             if (err){
@@ -117,9 +108,8 @@ function showIndex(req, res, next) {
                             OrgCode: req.body.OrgCode,
                             courses: req.app.locals.courses,
                             CrsID: req.body.CrsID,
-                            postdata: req.body,
-                            locals: req.app.locals,
-                            trace: req.app.locals.trace
+                            postdata: req.body
+                            //locals: req.app.locals
                         });
 }
 

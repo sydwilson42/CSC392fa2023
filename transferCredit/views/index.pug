@@ -13,42 +13,7 @@ block content
     h1= title
 
     h2 Results of query: <q>#{query}</q>
-    h2 Data:
-    if !postdata.OrgCode
-        p No OrgCode
-    else 
-        p OrgCode: <q>#{postdata.OrgCode}</q>
-
-    if !locals
-        p No locals 
-    else 
-        p locals: <q>#{locals}</q>
-        //- ul
-        //-     each val, key in locals
-        //-         li= key + ': ' + val
-
-    if !locals.trace
-        p No trace (why not?)
-    else
-        p Trace: <q>#{locals.trace}</q>
-
-    if !trace
-        p No trace (why not?)
-    else
-        p Trace: <q>#{trace}</q>
-
-    if !locals.courses_query
-        p No courses_query
-    else 
-        p Courses query: <q>#{locals.courses_query}</q>
-
-    if !courses
-        p No courses
-    else if courses.length == 0
-        p Empty courses 
-    else 
-        p #{courses.length} courses
-
+    
     //- include equivalence_form.pug
     include equivalence_form
 
@@ -69,3 +34,21 @@ block content
                     tr
                         each val in Object.values(row)
                             td= val
+
+//- h2 Data:
+//-     if !postdata.OrgCode
+//-         p No OrgCode
+//-     else 
+//-         p OrgCode: <q>#{postdata.OrgCode}</q>
+
+//-     if !locals.courses_query
+//-         p No courses_query
+//-     else 
+//-         p Courses query: <q>#{locals.courses_query}</q>
+
+//-     if !courses
+//-         p No courses
+//-     else if courses.length == 0
+//-         p Empty courses 
+//-     else 
+//-         p #{courses.length} courses
