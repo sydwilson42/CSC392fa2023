@@ -1,3 +1,4 @@
+from typing import cast
 from read_write_csv import read_from_csv,write_csv
 from FilterSchools import filter_schools
 from FilterCourses import filter_courses
@@ -12,7 +13,7 @@ def main(args: list[str]) -> int:
     #     filtering the records from bad schools by side effect
     schools_list = filter_schools(original_records)
     # write the schools out
-    write_csv('Schools.csv', schools_list)
+    write_csv('Schools.csv', cast(list[dict[str, str|int]], schools_list))
 
     # Filter the courses, 
     #     filtering the records from bad courses by side effect
@@ -35,7 +36,7 @@ def main(args: list[str]) -> int:
     # ARC's for the database as soon as we find a new one.
     
     # Write the ARC's
-    write_csv('ARCs.csv', arcs_list)
+    write_csv('ARCs.csv', cast(list[dict[str,str|int]], arcs_list))
 
     # Filter the equivalences.  This will need course_list as
     # well as original_records, because course_list has the
