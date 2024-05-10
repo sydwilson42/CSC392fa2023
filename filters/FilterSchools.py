@@ -13,9 +13,7 @@ def read_canonical_name_dict() -> dict[str,dict[str,str]]:
 
 canonical_name_dict: dict[str,dict[str,str]] = read_canonical_name_dict()
 
-prefer_MDB: list[str] = ['1016', # Anderson University (IN)
-                         '5008'  # Anderson University (SC)
-                         ]
+
 
 def find_canonical_name(record: dict[str,str]) -> str:
     """Using the name database, find the canonical
@@ -28,6 +26,19 @@ def find_canonical_name(record: dict[str,str]) -> str:
     #     - Search on the name.  If you find the name elsewhere in schools_comparison.csv,
     #           merge the unmatched on into the matched one.
 
+    prefer_MDB: list[str] = ['1016', # Anderson University (IN)
+                             '5008', # Anderson University (SC)
+                             '5083', # Blue Ridge COmmunity College - Weyers Cave [VA]
+                             '5644', # Blue Ridge Community College - Flat Rock [NC]
+                             '4108', # Columbia College (CA)
+                             '5117', # Columbia College (SC)
+                             '3368', # Emmanuel College (MA)
+                             '5184', # Emmanuel College (GA)
+                             '2462', # Monroe College - Main Campus/New Rochelle, NY
+                             '2463', # Monroe College - Bronx, NY
+                             '6836'  # Three Rivers Community College - Poplar Bluff [distinct from one in CT]
+                             ]
+    canonical_replacements: dict[str, str] = {'Cuny' : 'CUNY'}
     name = ''
     ceeb = ''
     org_code = record['ORG CDE']
@@ -42,6 +53,8 @@ def find_canonical_name(record: dict[str,str]) -> str:
                 name = school['CEEB_Name']
             elif len(school['MDB_name']) > 0:
                 name = school['MDB_name']
+            for string in canonical_replacements.keys():
+                name = re.sub(r'\b'+string+r'\b', canonical_replacements[string], name)
     # If the CEEB can be found in the canonical_name_dict,
     # get the name from there
     # Else, just return ''

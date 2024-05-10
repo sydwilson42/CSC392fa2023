@@ -1512,7 +1512,7 @@ CEEB,CEEB_Name,CEEB_State,CEEB_Country,MDB_name,MDB_mdb_code,MDB_state,MDB_count
 2299,Houghton University,NY,US,Houghton College,002734,NY,US,002734,191676,Middle States Commission on Higher Education
 2300,Hudson Valley Community College,NY,US,Hudson Valley Community College,002868,NY,US,002868,191719,Middle States Commission on Higher Education
 2301,City University of New York: Hunter College,NY,US,Cuny - Hunter College,002689,NY,US,002689,190594,Middle States Commission on Higher Education
-2301,,,,Cuny - School of Public Health At Hunter College,008206,NY,US,002689,190594,Middle States Commission on Higher Education
+2301,,,,CUNY - School of Public Health At Hunter College,008206,NY,US,002689,190594,Middle States Commission on Higher Education
 2302,Guam Community College,GU,UST,Guam Community College,UST004,GU,UST,029271,240745,Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges
 2303,City University of New York: Hostos Community College,NY,US,Cuny - Hostos Community College,008611,NY,US,008611,190585,Middle States Commission on Higher Education
 230331,,,,Warren Woods Vocational Adult Education,033403,MI,US,,,
@@ -2712,10 +2712,10 @@ CEEB,CEEB_Name,CEEB_State,CEEB_Country,MDB_name,MDB_mdb_code,MDB_state,MDB_count
 3985,Middlesex University: London,,UK,Middlesex University London,FR1053,OT,UK,,,
 3987,Yale University,CT,US,Yale University,001426,CT,US,001426,130794,New England Commission on Higher Education
 3988,City University of New York Graduate Center,NY,US,Cuny - Baccalaureate For Unique and Interdisciplinary Studies,611492,NY,US,,,Middle States Commission on Higher Education
-3988,,,,Cuny - Graduate School and University Center,004063,NY,US,004063,190576,Middle States Commission on Higher Education
-3988,,,,Cuny - Graduate School of Journalism,008203,NY,US,,190576,Middle States Commission on Higher Education
-3988,,,,Cuny Graduate School of Public Health and Health Policy,040734,NY,US,,,
-3988,,,,Cuny - Macaulay Honors College,008204,NY,US,,,Middle States Commission on Higher Education
+3988,,,,CUNY - Graduate School and University Center,004063,NY,US,004063,190576,Middle States Commission on Higher Education
+3988,,,,CUNY - Graduate School of Journalism,008203,NY,US,,190576,Middle States Commission on Higher Education
+3988,,,,CUNY Graduate School of Public Health and Health Policy,040734,NY,US,,,
+3988,,,,CUNY - Macaulay Honors College,008204,NY,US,,,Middle States Commission on Higher Education
 3990,York County Community College,ME,US,York County Community College,031229,ME,US,,420440,New England Commission on Higher Education
 3992,Louisiana Delta Community College,LA,US,Louisiana Delta Community College,011008,LA,US,,483212,Southern Association of Colleges and Schools Commission on Colleges
 3994,Interservice Physician Assistant Program,KY,US,,,,,,,
