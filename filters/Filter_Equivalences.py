@@ -29,7 +29,7 @@ def filter_equivalences(original_records: list[dict[str,str]],
                         course_list: list[dict[str, str | int]]) -> list[dict[str, str | int]]:
   equivalences_dict: dict[str,dict[str,str | int]] = {}
   for record in original_records:
-    ARC = record['ADV REQ CDE']
+    ARC = record.get('ADV REQ CDE', 'Elective credit only')
     if len(ARC) > 0: # Only if we have an ARC code, otherwise forget it
       orgCode = record['ORG CDE']
       crsCode = record['CRS CDE']

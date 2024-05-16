@@ -132,5 +132,7 @@ def filter_arcs(transfer_credits: list[dict[str,str]]) -> list[dict[str,str]]:
                 unique_ARCs.add(ARC_code)
                 filtered_ARCs.append({'ARCCode' : ARC_code})
 
+    # Bogus ARC for the equivalences that don't have an ARC
+    filtered_ARCs.append({'ARCCode': 'Elective credit'})
     filtered_ARCs.sort(key=lambda elt: elt['ARCCode']) # sort by ARC
     return filtered_ARCs
