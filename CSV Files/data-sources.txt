@@ -1,0 +1,12 @@
+2024-05-21:
+
+MDB codes came originally from an outfit called NursingCAS:
+https://nursingcas.org/resource/master-college-code-list-with-ceeb-codes/
+
+The final list, however, came from a different outfit, Liaison
+WebAdmit.  The URL there is
+https://help.liaisonedu.com/WebAdMIT_Help_Center/Documents_and_Reference_Guides/Data_Dictionaries_and_Master_Code_Lists.
+
+CEEB codes themselves came from the College Board.  I don't think I
+have that URL, but they had a PDF listing of all the schools with
+their CEEB codes, which I then massaged into CSV.
