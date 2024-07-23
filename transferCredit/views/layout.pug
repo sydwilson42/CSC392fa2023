@@ -2,6 +2,11 @@ doctype html
 html
   head
     title Equivalence Portal
-    link(rel='stylesheet', href='/transferCredit/public/stylesheets/style.css')
+    //- link(rel='stylesheet', href='public/stylesheets/style.css')
+    style
+      include ../public/stylesheets/style.css
+    //- script(src="/transferCredit/public/javascript/handlers.js")
+    script
+      include ../public/javascript/handlers.js
   body
     block content
