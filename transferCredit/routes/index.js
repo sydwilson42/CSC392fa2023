@@ -6,6 +6,7 @@ var router = express.Router();
  * with a fixed query.
  */
 router.get('/', function(req, res, next) {
+    clearReqAppLocals(req);
     req.app.locals.query = ""; //"SELECT * from School;";
     runMainQuery(req, res, next);
 });
@@ -16,6 +17,7 @@ router.get('/', function(req, res, next) {
  * calls runMainQuery() with that function.  
  */
 router.post('/', function(req, res, next) {
+    clearReqAppLocals(req);
     let query = '';
     if (req.body.CrsID) {
         // Run the equivalence query
@@ -26,6 +28,13 @@ router.post('/', function(req, res, next) {
     req.app.locals.query = query;
     runMainQuery(req, res, next)
 });
+
+function clearReqAppLocals(req) {
+    req.app.locals.query = '';
+    req.app.locals.rows = [];
+    req.app.locals.schools = [];
+    req.app.locals.courses = [];
+}
 
 /*
  * Run the main SQL query, if there is one.  Attach the query text and the

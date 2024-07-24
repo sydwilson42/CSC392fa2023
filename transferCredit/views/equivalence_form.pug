@@ -5,8 +5,9 @@ else if schools.length == 0
 else
     form(action="/transferCredit", method="post")
         input(type="hidden", name="formname", value="equivalence")
+        input(type="hidden", name="start_focus", id="start_focus", value="")
         label(class="lbl", for="OrgCode") School: 
-        select(class="dropdown-container", name="OrgCode", id="OrgCode", required, onkeydown="handleSchoolKeys();", autofocus)
+        select(class="dropdown-container", name="OrgCode", id="OrgCode", required)
             option(value="") &mdash;Please select a school&mdash;
             each rowObj in schools
                 if (postdata.OrgCode && (postdata.OrgCode == rowObj.OrgCode))
@@ -22,7 +23,7 @@ else
                 option(value="") &mdash;Please select a course&mdash;
             br
             //- input(class="bttn_reset", type="reset", value="Reset")
-            input(class="bttn_eq", type="submit", value="Find Equivalences", disabled)
+            input(class="bttn_eq", id="bttn_eq", type="submit", value="Find Equivalences", disabled, tabindex="0")
         else if !courses || (courses.length == 0)
             p OrgCode but no courses!
         else
@@ -38,4 +39,6 @@ else
             span(class="flag")
             br
             //- input(class="bttn_reset", type="reset", value="Reset")
-            input(class="bttn_eq", type="submit", value="Find Equivalences")
+            input(class="bttn_eq", id="bttn_eq", type="submit", value="Find Equivalences", disabled, tabindex="0")
+    script.
+        initializeForm('#{postdata.start_focus}')

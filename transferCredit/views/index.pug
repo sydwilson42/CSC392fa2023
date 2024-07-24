@@ -21,9 +21,9 @@ block content
 
     if !rows
         p No result
-    else if rows.length == 0
-        p Elective credit only
-    else
+    //- else if rows.length == 0
+    //-     p Elective credit only
+    else if rows.length > 0
         table(class="eq_table")
             thead
                 tr
