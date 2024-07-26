@@ -1,4 +1,5 @@
-function initializeForm(start_focus) {
+function initializeForm(start_focus, other_data) {
+    console.log('other_data', other_data);
     // Set event listeners for the schools dropdown
     const schoolsDropdown = document.getElementById('OrgCode');
     schoolsDropdown.addEventListener('keydown', handleSchoolKeys);
@@ -9,7 +10,7 @@ function initializeForm(start_focus) {
         (event) => document.getElementById('bttn_eq').disabled = (event.target.selectedIndex <= 0));
 
     // If start_focus is specified, set the focus in the correct place.  This doesn't always work as expected.
-    console.log("start_focus", start_focus);
+    //console.log("start_focus", start_focus);
     if (start_focus) {
         const elt = document.getElementById(start_focus);
         if (elt) {

@@ -23,7 +23,7 @@ router.post('/', function(req, res, next) {
         // Run the equivalence query
         query = `SELECT College, CrsCode, CrsName, CreditHours, ARCCode `
                 + `FROM School natural join Course natural join Equivalence `
-                + `WHERE CrsID = '${req.body.CrsID}';`
+                + `WHERE CrsID = '${req.body.CrsID[0]}';`
     }
     req.app.locals.query = query;
     runMainQuery(req, res, next)
