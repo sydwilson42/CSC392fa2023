@@ -19,11 +19,16 @@ router.get('/', function(req, res, next) {
 router.post('/', function(req, res, next) {
     clearReqAppLocals(req);
     let query = '';
+    console.log(req.body.CrsID);
     if (req.body.CrsID) {
         // Run the equivalence query
         query = `SELECT College, CrsCode, CrsName, CreditHours, ARCCode `
                 + `FROM School natural join Course natural join Equivalence `
-                + `WHERE CrsID = '${req.body.CrsID[0]}';`
+                + `WHERE CrsID = '${req.body.CrsID[0]}'`;
+        for(courseID of req.body.CrsID.slice(1)){
+            query += ` OR CrsID = '${courseID}'`;
+        }
+        query += 'order by CrsCode, ARCCode;';
     }
     req.app.locals.query = query;
     runMainQuery(req, res, next)

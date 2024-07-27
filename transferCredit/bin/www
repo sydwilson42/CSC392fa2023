@@ -12,13 +12,13 @@ var dbconnect = require('../public/javascript/dbconnect');
 /**
  * Open the database and attach it to the app object.
  */
-app.locals.db = dbconnect.dbopen('/var/www/html/CSC392fa2023/Transfer_DB.db');
+app.locals.db = dbconnect.dbopen(__dirname + '/../../Transfer_DB.db');
 
 /**
  * Get port from environment and store in Express.
  */
 
-var port = normalizePort(process.env.PORT || '3000');
+var port = normalizePort(process.env.PORT || '6000');
 app.set('port', port);
 
 /**

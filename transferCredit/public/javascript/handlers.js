@@ -1,5 +1,4 @@
-function initializeForm(start_focus, other_data) {
-    console.log('other_data', other_data);
+function initializeForm(start_focus) {
     // Set event listeners for the schools dropdown
     const schoolsDropdown = document.getElementById('OrgCode');
     schoolsDropdown.addEventListener('keydown', handleSchoolKeys);
