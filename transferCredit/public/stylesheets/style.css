@@ -34,18 +34,22 @@ a {
   padding-left: 5px; */
 }
 
-.lbl{
+/* .lbl { */
 /*  font-weight: bold; */
-  padding: 0 0.5em;
+/*  padding: 0 0.5em;  */
 /*  padding-right: 5px;
-  padding-left: 5px; */
-}
+/*  padding-left: 5px; */
+/* } */
 
 .dropdown-container {
     /* width: 260px; Set the width of the dropdown */
     width: 20em;  /* Make the dropdowns be a standard width */
     margin-top: 0.5ex;
     margin-bottom: 0.5ex;
+}
+
+.high-container {
+  vertical-align: middle;
 }
 
 .eq_table{

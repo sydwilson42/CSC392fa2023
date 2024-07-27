@@ -18,7 +18,7 @@ app.locals.db = dbconnect.dbopen(__dirname + '/../../Transfer_DB.db');
  * Get port from environment and store in Express.
  */
 
-var port = normalizePort(process.env.PORT || '6000');
+var port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
 
 /**

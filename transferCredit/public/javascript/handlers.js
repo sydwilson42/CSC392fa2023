@@ -4,8 +4,13 @@ function initializeForm(start_focus) {
     schoolsDropdown.addEventListener('keydown', handleSchoolKeys);
     schoolsDropdown.addEventListener('change', handleSchoolChange);
 
+    // Enable the course dropdown iff the schools dropdown has a value
+    const courseDropdown = document.getElementById('CrsID');
+    courseDropdown.disabled = (schoolsDropdown.selectedIndex <= 0);
+    courseDropdown.required = !(courseDropdown.disabled);
+
     // Enable the Find Equivalences button iff the course dropdown has a selection
-    document.getElementById('CrsID').addEventListener('change', 
+    courseDropdown.addEventListener('change', 
         (event) => document.getElementById('bttn_eq').disabled = (event.target.selectedIndex <= 0));
 
     // If start_focus is specified, set the focus in the correct place.  This doesn't always work as expected.

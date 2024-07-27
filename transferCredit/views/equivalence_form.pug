@@ -3,42 +3,40 @@ if !schools
 else if schools.length == 0
     p schools.length is 0
 else
-    form(action="/transferCredit_dev", method="post")
+    form(action="/transferCredit", method="post")
         input(type="hidden", name="formname", value="equivalence")
         input(type="hidden", name="start_focus", id="start_focus", value="")
-        label(class="lbl", for="OrgCode") School: 
-        select(class="dropdown-container", name="OrgCode", id="OrgCode", required)
-            option(value="") &mdash;Please select a school&mdash;
-            each rowObj in schools
-                if (postdata.OrgCode && (postdata.OrgCode == rowObj.OrgCode))
-                    option(value = rowObj.OrgCode, selected) #{rowObj.College}
-                else 
-                    option(value = rowObj.OrgCode) #{rowObj.College}
-        span(class="flag")
-        br
-        // Course form
-        label(class="lbl", for="CrsID") Course: 
-        if !postdata.OrgCode
-            select(class="dropdown-container", name="CrsID[]", id="CrsID", disabled, multiple)
-                option(value="") &mdash;Please select a course&mdash;
-            br
-            //- input(class="bttn_reset", type="reset", value="Reset")
-            input(class="bttn_eq", id="bttn_eq", type="submit", value="Find Equivalences", disabled, tabindex="0")
-        else if !courses || (courses.length == 0)
-            p OrgCode but no courses!
-        else
-            //- if postdata.OrgCode && courses && (courses.length > 0)
-            select(class="dropdown-container", name="CrsID[]", id="CrsID", required, multiple)
-                option(value="") &mdash;Please select a course&mdash;
-                //- FILL IN THE OPTIONS HERE FOR THE ACTUAL COURSES
-                each rowObj in courses
-                    if (postdata.CrsID && (postdata.CrsID == rowObj.CrsID))
-                        option(value = rowObj.CrsID, selected) #{rowObj.CrsCode}
-                    else
-                        option(value = rowObj.CrsID) #{rowObj.CrsCode}
-            span(class="flag")
-            br
-            //- input(class="bttn_reset", type="reset", value="Reset")
-            input(class="bttn_eq", id="bttn_eq", type="submit", value="Find Equivalences", disabled, tabindex="0")
+        table(class="dropdown-table")
+            tr
+                th 
+                    label(class="lbl", for="OrgCode") School:
+                td
+                    select(class="dropdown-container", name="OrgCode", id="OrgCode", required)
+                        option(value="") &mdash;Please select a school&mdash;
+                        each rowObj in schools
+                            if (postdata.OrgCode && (postdata.OrgCode == rowObj.OrgCode))
+                                option(value = rowObj.OrgCode, selected) #{rowObj.College}
+                            else 
+                                option(value = rowObj.OrgCode) #{rowObj.College}
+                    span(class="flag")
+
+            //- Course form
+            tr
+                th
+                    label(class="lbl", for="CrsID") Course(s):
+                td
+                    select(class="dropdown-container high-container", name="CrsID[]", id="CrsID", multiple)
+                        option(value="") &mdash;Please select one or more courses&mdash;
+                        //- if postdata.OrgCode && courses && (courses.length > 0)
+                        //- FILL IN THE OPTIONS HERE FOR THE ACTUAL COURSES
+                        each rowObj in courses
+                            if (CrsID && CrsID.includes(String(rowObj.CrsID)))
+                                option(value = rowObj.CrsID, selected) #{rowObj.CrsCode}
+                            else
+                                option(value = rowObj.CrsID) #{rowObj.CrsCode}
+                    span(class="flag")
+
+        //- input(class="bttn_reset", type="reset", value="Reset")
+        input(class="bttn_eq", id="bttn_eq", type="submit", value="Find Equivalences", disabled, tabindex="0")
     script.
         initializeForm('#{postdata.start_focus}')
