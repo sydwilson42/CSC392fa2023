@@ -5,9 +5,9 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('transfercredit:server');
-var http = require('http');
-var dbconnect = require('../public/javascript/dbconnect');
+const debug = require('debug')('transfercredit:server');
+const https = require('http');
+const dbconnect = require('../public/javascript/dbconnect');
 
 /**
  * Open the database and attach it to the app object.
@@ -18,14 +18,18 @@ app.locals.db = dbconnect.dbopen(__dirname + '/../../Transfer_DB.db');
  * Get port from environment and store in Express.
  */
 
-var port = normalizePort(process.env.PORT || '3000');
+const port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
 
 /**
- * Create HTTP server.
+ * Create HTTPS server.
  */
 
-var server = http.createServer(app);
+const fs = require('fs');
+const server = https.createServer({
+    key: fs.readFileSync('/etc/apache2/ssl/ConverseStar-2024.key'),
+    cert: fs.readFileSync('/etc/apache2/ssl/converse-chained-2024.crt')
+}, app);
 
 /**
  * Listen on provided port, on all network interfaces.
